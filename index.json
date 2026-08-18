@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "889",
-    "user_id": 53,
+    "user_id": 0,
     "abo_version": {
         "version_id": "889",
         "app_id": "514",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "514",
@@ -56,12 +56,12 @@
             "count_resource": "0",
             "cm_resource_pages": "1941",
             "cm_default_resource": "67993,67994,67995,67996,68003,68004",
-            "cm_test_function": "2199",
-            "cm_test_case": "7777,7778,7779,7780,7781,7782,7783,7784,7785,7786,7787,7788,7789",
+            "cm_test_function": "2199,2200",
+            "cm_test_case": "7777,7778,7779,7780,7781,7782,7783,7784,7785,7786,7787,7788,7789,7790",
             "cm_test_case_ai": "",
             "cm_network": "126",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-08-18 07:08:33",
+            "view_updated_date_time": "2026-08-18 07:09:27",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -240,15 +240,7 @@
                     "updated_at": "2026-08-18 07:08:29",
                     "created_at": "2026-08-18 07:08:29",
                     "qtest_skip_sync": "1",
-                    "test_case_tags": [
-                        {
-                            "id": "725",
-                            "version_module_id": "1205",
-                            "name": "netwasst",
-                            "tc_id": "7783",
-                            "user_id": "53"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/514/889/1205/testcases/networkasst.java",
                     "vault_paths": []
@@ -323,15 +315,7 @@
                     "updated_at": "2026-08-18 07:08:29",
                     "created_at": "2026-08-18 07:08:29",
                     "qtest_skip_sync": "1",
-                    "test_case_tags": [
-                        {
-                            "id": "724",
-                            "version_module_id": "1205",
-                            "name": "TDP",
-                            "tc_id": "7786",
-                            "user_id": "53"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/514/889/1205/testcases/tdptgvar.java",
                     "vault_paths": []
@@ -410,6 +394,31 @@
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/514/889/1205/testcases/secureglobalruntime.java",
                     "vault_paths": []
+                },
+                {
+                    "tc_id": "7790",
+                    "version_module_id": "1205",
+                    "tc_name": "FuncCall",
+                    "tc_description": "",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "1",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "created_source": "import_zip",
+                    "created_source_ref": "tc_7778",
+                    "is_draft": "0",
+                    "updated_at": "2026-08-18 07:13:57",
+                    "created_at": "2026-08-18 07:10:12",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/514/889/1205/testcases/funccall.java",
+                    "vault_paths": []
                 }
             ],
             "abo_version_proc": [
@@ -430,6 +439,24 @@
                     "return_type": null,
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/514/889/1205/testfunctions/check_func_.java",
                     "vault_paths": []
+                },
+                {
+                    "proc_id": "2200",
+                    "version_module_id": "1205",
+                    "proc_name": "copyfuc",
+                    "proc_description": "",
+                    "cm_step_list": "",
+                    "is_ai_generated": "0",
+                    "created_source": "import_zip",
+                    "created_source_ref": "tf_2199",
+                    "is_compiled": "1",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_draft": "0",
+                    "has_parameters": "0",
+                    "param_data": null,
+                    "return_type": null,
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/514/889/1205/testfunctions/copyfuc.java",
+                    "vault_paths": []
                 }
             ],
             "abo_vm_test_case_manual": [],
@@ -444,17 +471,7 @@
                     "abo_na_steps": []
                 }
             ],
-            "abo_update": [
-                {
-                    "id": "5763",
-                    "user_id": "53",
-                    "app_id": "514",
-                    "version_id": "889",
-                    "version_module_id": "1205",
-                    "description": "",
-                    "action_process": "add_version_module"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -1000,6 +1017,41 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1205/68004.png"
+                        },
+                        {
+                            "maps_id": "68005",
+                            "version_page_id": "0",
+                            "page_name": "",
+                            "version_module_id": "1205",
+                            "element_name": "ele_Res1",
+                            "element_display_name": "Res1",
+                            "element_image_url": null,
+                            "element_path_rid": "SDdfsdfsdfTGWEBCOMMAPartialLinkTextTGWEBCOMMA0",
+                            "autoheal_elements": "",
+                            "correct_autoheal_data": "",
+                            "sibling_selector": "",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "false",
+                            "only_iframe_data": "false",
+                            "only_shadow_root_data": "false",
+                            "shadow_data": "",
+                            "web_context_element": "1",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "undefined",
+                            "element_displayname": "",
+                            "element_index": "undefined",
+                            "element_parent_element": "undefined",
+                            "element_path_rid_type": "5",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "0",
+                            "d_y": "0",
+                            "d_w": "0",
+                            "d_h": "0",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1205/68005.png"
                         }
                     ]
                 }
@@ -1012,9 +1064,25 @@
             "version_id": "889",
             "capabilities_keyname": "appActivity",
             "capabilities_keyvalue": "com.google.android.apps.chrome.Main"
+        },
+        {
+            "capabilities_id": "144",
+            "version_id": "889",
+            "capabilities_keyname": "appActivity1",
+            "capabilities_keyvalue": "com.apple.safari"
         }
     ],
-    "abo_import_statement": [],
+    "abo_import_statement": [
+        {
+            "import_statement_id": "145",
+            "user_id": "53",
+            "app_id": "514",
+            "version_id": "889",
+            "import_statement": "import abc; ",
+            "created": "2026-08-18 07:13:57",
+            "updated": "2026-08-18 07:13:57"
+        }
+    ],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
     "abo_global_variable": [
@@ -1065,6 +1133,30 @@
             "gv_category": "global",
             "created": "2026-08-18 07:08:29",
             "updated": "2026-08-18 07:08:29"
+        },
+        {
+            "variable_id": "694",
+            "user_id": "53",
+            "app_id": "514",
+            "version_id": "889",
+            "variable_type": "String",
+            "variable_name": "vargb",
+            "variable_value": "Kartik",
+            "gv_category": "global",
+            "created": "2026-08-18 07:13:57",
+            "updated": "2026-08-18 07:13:57"
+        },
+        {
+            "variable_id": "695",
+            "user_id": "53",
+            "app_id": "514",
+            "version_id": "889",
+            "variable_type": "String",
+            "variable_name": "varrt",
+            "variable_value": "ETC",
+            "gv_category": "runtime",
+            "created": "2026-08-18 07:13:57",
+            "updated": "2026-08-18 07:13:57"
         }
     ],
     "ab_scheduler": [],

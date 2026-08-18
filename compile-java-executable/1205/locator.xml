@@ -6,7 +6,7 @@
     <element type="xpath">(//android.widget.EditText[@text='Enter email address'])[1]</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.FrameLayout/android.widget.EditText</element>
     <element type="xpath">(//android.widget.EditText[@hint='Enter email address'])[1]</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/52/1403.png</element>
+    <element type="image">http://192.168.4.26/s/ele-imgs/1205/67990.png</element>
   </locator>
   <locator name="ele_EnterpasswordEditText1782830323675">
     <element type="xpath">(//android.widget.EditText[@resource-id='com.app.urunner:id/et_password'])[1]</element>
@@ -14,52 +14,52 @@
     <element type="xpath">(//android.widget.EditText[@text='Enter password'])[1]</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.EditText</element>
     <element type="xpath">(//android.widget.EditText[@hint='Enter password'])[1]</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/52/1404.png</element>
+    <element type="image">http://192.168.4.26/s/ele-imgs/1205/67991.png</element>
   </locator>
   <locator name="ele_textinputendiconImageButton1782830338531">
     <element type="id">com.app.urunner:id/text_input_end_icon</element>
     <element type="xpath">(//android.widget.ImageButton[@resource-id='com.app.urunner:id/text_input_end_icon'])[1]</element>
     <element type="xpath">(//android.widget.ImageButton[@content-desc='Show password'])[1]</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageButton</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/52/1405.png</element>
+    <element type="image">http://192.168.4.26/s/ele-imgs/1205/67992.png</element>
   </locator>
   <locator name="ele_OKButton1782897845098">
     <element type="xpath">(//android.widget.Button[@resource-id='android:id/button1'])[1]</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.Button[2]</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.Button[2]</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/52/1406.png</element>
+    <element type="image">http://192.168.4.26/s/ele-imgs/1205/67993.png</element>
   </locator>
   <locator name="ele_mainmenudetectlocationTextView1782897852588">
     <element type="xpath">(//android.widget.TextView[@resource-id='org.asdtm.goodweather:id/main_menu_detect_location'])[1]</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView[3]</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView[3]</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/52/1407.png</element>
+    <element type="image">http://192.168.4.26/s/ele-imgs/1205/67994.png</element>
   </locator>
   <locator name="ele_WhileusingtheappButton1782897856747">
     <element type="xpath">(//android.widget.Button[@resource-id='com.android.permissioncontroller:id/permission_allow_foreground_only_button'])[1]</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.Button</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.Button</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/52/1408.png</element>
+    <element type="image">http://192.168.4.26/s/ele-imgs/1205/67995.png</element>
   </locator>
   <locator name="ele_mainmenurefreshTextView1782897866283">
     <element type="xpath">(//android.widget.TextView[@resource-id='org.asdtm.goodweather:id/main_menu_refresh'])[1]</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/52/1409.png</element>
+    <element type="image">http://192.168.4.26/s/ele-imgs/1205/67996.png</element>
   </locator>
   <locator name="ele_SignInButton1782900326059">
     <element type="id">com.app.urunner:id/btn_sign_in</element>
     <element type="xpath">(//android.widget.Button[@resource-id='com.app.urunner:id/btn_sign_in'])[1]</element>
     <element type="xpath">(//android.widget.Button[@text='Sign In'])[1]</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.Button</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/52/1410.png</element>
+    <element type="image">http://192.168.4.26/s/ele-imgs/1205/67997.png</element>
   </locator>
   <locator name="ele_SignUpTextView1782900340341">
     <element type="id">com.app.urunner:id/tv_sign_up</element>
     <element type="xpath">(//android.widget.TextView[@resource-id='com.app.urunner:id/tv_sign_up'])[1]</element>
     <element type="xpath">(//android.widget.TextView[@text='Sign Up'])[1]</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[4]/android.widget.TextView[2]</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/52/1411.png</element>
+    <element type="image">http://192.168.4.26/s/ele-imgs/1205/67998.png</element>
   </locator>
   <locator name="ele_EnterfirstnameEditText1782900364278">
     <element type="id">com.app.urunner:id/et_firstname</element>
@@ -67,7 +67,7 @@
     <element type="xpath">(//android.widget.EditText[@text='Enter first name'])[1]</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.FrameLayout/android.widget.EditText</element>
     <element type="xpath">(//android.widget.EditText[@hint='Enter first name'])[1]</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/52/1412.png</element>
+    <element type="image">http://192.168.4.26/s/ele-imgs/1205/67999.png</element>
   </locator>
   <locator name="ele_EnteremailaddressEditText1782900372245">
     <element type="id">com.app.urunner:id/et_email</element>
@@ -75,7 +75,7 @@
     <element type="xpath">(//android.widget.EditText[@text='Enter email address'])[1]</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.EditText</element>
     <element type="xpath">(//android.widget.EditText[@hint='Enter email address'])[1]</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/52/1413.png</element>
+    <element type="image">http://192.168.4.26/s/ele-imgs/1205/68000.png</element>
   </locator>
   <locator name="ele_EnterpasswordEditText1782900387873">
     <element type="id">com.app.urunner:id/et_password</element>
@@ -83,7 +83,7 @@
     <element type="xpath">(//android.widget.EditText[@text='Enter password'])[1]</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[4]/android.widget.FrameLayout/android.widget.EditText</element>
     <element type="xpath">(//android.widget.EditText[@hint='Enter password'])[1]</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/52/1414.png</element>
+    <element type="image">http://192.168.4.26/s/ele-imgs/1205/68001.png</element>
   </locator>
   <locator name="ele_ConfirmpasswordEditText1782900398927">
     <element type="id">com.app.urunner:id/et_confirm_password</element>
@@ -91,18 +91,21 @@
     <element type="xpath">(//android.widget.EditText[@text='Confirm password'])[1]</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[5]/android.widget.FrameLayout/android.widget.EditText</element>
     <element type="xpath">(//android.widget.EditText[@hint='Confirm password'])[1]</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/52/1415.png</element>
+    <element type="image">http://192.168.4.26/s/ele-imgs/1205/68002.png</element>
   </locator>
   <locator name="ele_mainmenusearchcityTextView1784528767628">
     <element type="xpath">(//android.widget.TextView[contains(@resource-id,'main_menu_search_city')])[1]</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView[2]</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView[2]</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/52/1416.png</element>
+    <element type="image">http://192.168.4.26/s/ele-imgs/1205/68003.png</element>
   </locator>
   <locator name="ele_LondonTextView1784528771214">
     <element type="xpath">(//android.widget.TextView[contains(@resource-id,'city_name')])[1]</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.RecyclerView/android.widget.LinearLayout/android.widget.TextView</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.RecyclerView/android.widget.LinearLayout/android.widget.TextView</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/52/1417.png</element>
+    <element type="image">http://192.168.4.26/s/ele-imgs/1205/68004.png</element>
+  </locator>
+  <locator name="ele_Res1">
+    <element type="web_partiallinktext">SDdfsdfsdfTGWEBCOMMAPartialLinkTextTGWEBCOMMA0</element>
   </locator>
 </locators>
