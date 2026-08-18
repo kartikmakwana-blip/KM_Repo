@@ -1034,10 +1034,10 @@
             "version_id": "889",
             "variable_type": "String",
             "variable_name": "gstr",
-            "variable_value": "ABCD",
+            "variable_value": "ABCDE",
             "gv_category": "global",
             "created": "2026-08-18 07:08:29",
-            "updated": "2026-08-18 07:08:29"
+            "updated": "2026-08-18 08:38:24"
         },
         {
             "variable_id": "691",
@@ -1064,16 +1064,16 @@
             "updated": "2026-08-18 07:08:29"
         },
         {
-            "variable_id": "693",
+            "variable_id": "696",
             "user_id": "53",
             "app_id": "514",
             "version_id": "889",
-            "variable_type": "int",
-            "variable_name": "gint",
-            "variable_value": "2000",
-            "gv_category": "global",
-            "created": "2026-08-18 07:08:29",
-            "updated": "2026-08-18 07:08:29"
+            "variable_type": "String",
+            "variable_name": "dkdk",
+            "variable_value": "dkkdkd",
+            "gv_category": "runtime",
+            "created": "2026-08-18 08:38:24",
+            "updated": "2026-08-18 08:38:24"
         }
     ],
     "ab_scheduler": [],
