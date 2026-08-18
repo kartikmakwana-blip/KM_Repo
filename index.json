@@ -56,12 +56,12 @@
             "count_resource": "0",
             "cm_resource_pages": "1941",
             "cm_default_resource": "67993,67994,67995,67996,68003,68004",
-            "cm_test_function": "2199,2200",
-            "cm_test_case": "7777,7778,7779,7780,7781,7782,7783,7784,7785,7786,7787,7788,7789,7790",
+            "cm_test_function": "2199",
+            "cm_test_case": "7777,7778,7779,7780,7781,7782,7783,7784,7785,7786,7787,7788,7789",
             "cm_test_case_ai": "",
             "cm_network": "126",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-08-18 07:09:27",
+            "view_updated_date_time": "2026-08-18 07:14:49",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -394,31 +394,6 @@
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/514/889/1205/testcases/secureglobalruntime.java",
                     "vault_paths": []
-                },
-                {
-                    "tc_id": "7790",
-                    "version_module_id": "1205",
-                    "tc_name": "FuncCall",
-                    "tc_description": "",
-                    "tc_website_url": "",
-                    "it_json": "",
-                    "cm_step_list": "",
-                    "is_compiled": "1",
-                    "xray_type_of_issue_id": null,
-                    "xray_type_of_issue_key": null,
-                    "is_deleted": "0000-00-00 00:00:00",
-                    "is_auto": "0",
-                    "is_ai_generated": "0",
-                    "created_source": "import_zip",
-                    "created_source_ref": "tc_7778",
-                    "is_draft": "0",
-                    "updated_at": "2026-08-18 07:13:57",
-                    "created_at": "2026-08-18 07:10:12",
-                    "qtest_skip_sync": "1",
-                    "test_case_tags": [],
-                    "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/514/889/1205/testcases/funccall.java",
-                    "vault_paths": []
                 }
             ],
             "abo_version_proc": [
@@ -438,24 +413,6 @@
                     "param_data": null,
                     "return_type": null,
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/514/889/1205/testfunctions/check_func_.java",
-                    "vault_paths": []
-                },
-                {
-                    "proc_id": "2200",
-                    "version_module_id": "1205",
-                    "proc_name": "copyfuc",
-                    "proc_description": "",
-                    "cm_step_list": "",
-                    "is_ai_generated": "0",
-                    "created_source": "import_zip",
-                    "created_source_ref": "tf_2199",
-                    "is_compiled": "1",
-                    "is_deleted": "0000-00-00 00:00:00",
-                    "is_draft": "0",
-                    "has_parameters": "0",
-                    "param_data": null,
-                    "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/514/889/1205/testfunctions/copyfuc.java",
                     "vault_paths": []
                 }
             ],
@@ -1064,25 +1021,9 @@
             "version_id": "889",
             "capabilities_keyname": "appActivity",
             "capabilities_keyvalue": "com.google.android.apps.chrome.Main"
-        },
-        {
-            "capabilities_id": "144",
-            "version_id": "889",
-            "capabilities_keyname": "appActivity1",
-            "capabilities_keyvalue": "com.apple.safari"
         }
     ],
-    "abo_import_statement": [
-        {
-            "import_statement_id": "145",
-            "user_id": "53",
-            "app_id": "514",
-            "version_id": "889",
-            "import_statement": "import abc; ",
-            "created": "2026-08-18 07:13:57",
-            "updated": "2026-08-18 07:13:57"
-        }
-    ],
+    "abo_import_statement": [],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
     "abo_global_variable": [
@@ -1133,30 +1074,6 @@
             "gv_category": "global",
             "created": "2026-08-18 07:08:29",
             "updated": "2026-08-18 07:08:29"
-        },
-        {
-            "variable_id": "694",
-            "user_id": "53",
-            "app_id": "514",
-            "version_id": "889",
-            "variable_type": "String",
-            "variable_name": "vargb",
-            "variable_value": "Kartik",
-            "gv_category": "global",
-            "created": "2026-08-18 07:13:57",
-            "updated": "2026-08-18 07:13:57"
-        },
-        {
-            "variable_id": "695",
-            "user_id": "53",
-            "app_id": "514",
-            "version_id": "889",
-            "variable_type": "String",
-            "variable_name": "varrt",
-            "variable_value": "ETC",
-            "gv_category": "runtime",
-            "created": "2026-08-18 07:13:57",
-            "updated": "2026-08-18 07:13:57"
         }
     ],
     "ab_scheduler": [],
