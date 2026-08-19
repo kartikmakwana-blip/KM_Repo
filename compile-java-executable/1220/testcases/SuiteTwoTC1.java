@@ -21,7 +21,7 @@ public class suitetwotc1 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void suitetwotc1() {
 		tg.openDevice();
-		tg.testFunction("s2fun1_tg_suiteprim", new Object[]{});
+		tg.testFunction("FuncSuiteTwo", new Object[]{});
 		tg.close();
 	}
 }
