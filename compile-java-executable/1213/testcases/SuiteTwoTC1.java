@@ -15,9 +15,13 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
-class s2fun1 {
+@Listeners(TestListener.class);
+public class suitetwotc1 {
 
-	public static void s2fun1() {
-		tg.testFunction("dateutilfuncprim_tg_suiteprim", new Object[]{});
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void suitetwotc1() {
+		tg.openDevice();
+		tg.testFunction("s2fun1_tg_suiteprim", new Object[]{});
+		tg.close();
 	}
 }

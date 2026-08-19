@@ -15,13 +15,9 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
-@Listeners(TestListener.class);
-public class s2tc1 {
+class funcsuitetwo {
 
-	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void s2tc1() {
-		tg.openDevice();
+	public static void funcsuitetwo() {
 		tg.testFunction("s2fun1_tg_suiteprim", new Object[]{});
-		tg.close();
 	}
 }
