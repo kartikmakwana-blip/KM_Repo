@@ -19,5 +19,18 @@ class funcsuitetwo {
 
 	public static void funcsuitetwo() {
 		tg.testFunction("s2fun1_tg_suiteprim", new Object[]{});
+		tg.testFunction("dateutilfuncprim_tg_suiteprim", new Object[]{});
+		tg.testFunction("s2fun10_tg_suiteprim", new Object[]{});
+		tg.testFunction("s2fun11_tg_suiteprim", new Object[]{});
+		tg.testFunction("s2fun2_tg_suiteprim", new Object[]{});
+		tg.testFunction("s2fun3_tg_suiteprim", new Object[]{});
+		tg.testFunction("s2fun4_tg_suiteprim", new Object[]{});
+		tg.testFunction("s2fun5_tg_suiteprim", new Object[]{});
+		tg.testFunction("s2fun6_tg_suiteprim", new Object[]{});
+		tg.testFunction("s2fun7_tg_suiteprim", new Object[]{});
+		tg.testFunction("s2fun8_tg_suiteprim", new Object[]{});
+		tg.testFunction("funccall_tg_suiteone", new Object[]{});
+		tg.testFunction("s2fun9_tg_suiteprim", new Object[]{});
+		tg.testFunction("s2fun11_tg_suiteprim", new Object[]{});
 	}
 }
