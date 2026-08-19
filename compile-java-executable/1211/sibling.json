@@ -58,7 +58,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/52/1403.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1211/68048.png"
         },
         {
             "testcase_element": "ele_EnterpasswordEditText1782830323675",
@@ -118,7 +118,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/52/1404.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1211/68049.png"
         },
         {
             "testcase_element": "ele_textinputendiconImageButton1782830338531",
@@ -167,7 +167,7 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "image_url": "http://192.168.4.21/s/ele-imgs/52/1405.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1211/68050.png"
         },
         {
             "testcase_element": "ele_OKButton1782897845098",
@@ -204,7 +204,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/52/1406.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1211/68051.png"
         },
         {
             "testcase_element": "ele_mainmenudetectlocationTextView1782897852588",
@@ -241,7 +241,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/52/1407.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1211/68052.png"
         },
         {
             "testcase_element": "ele_WhileusingtheappButton1782897856747",
@@ -278,7 +278,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/52/1408.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1211/68053.png"
         },
         {
             "testcase_element": "ele_mainmenurefreshTextView1782897866283",
@@ -315,7 +315,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/52/1409.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1211/68054.png"
         },
         {
             "testcase_element": "ele_SignInButton1782900326059",
@@ -364,7 +364,7 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "image_url": "http://192.168.4.21/s/ele-imgs/52/1410.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1211/68055.png"
         },
         {
             "testcase_element": "ele_SignUpTextView1782900340341",
@@ -413,7 +413,7 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "image_url": "http://192.168.4.21/s/ele-imgs/52/1411.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1211/68056.png"
         },
         {
             "testcase_element": "ele_EnterfirstnameEditText1782900364278",
@@ -472,7 +472,7 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "image_url": "http://192.168.4.21/s/ele-imgs/52/1412.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1211/68057.png"
         },
         {
             "testcase_element": "ele_EnteremailaddressEditText1782900372245",
@@ -531,7 +531,7 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "image_url": "http://192.168.4.21/s/ele-imgs/52/1413.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1211/68058.png"
         },
         {
             "testcase_element": "ele_EnterpasswordEditText1782900387873",
@@ -590,7 +590,7 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "image_url": "http://192.168.4.21/s/ele-imgs/52/1414.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1211/68059.png"
         },
         {
             "testcase_element": "ele_ConfirmpasswordEditText1782900398927",
@@ -649,7 +649,7 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "image_url": "http://192.168.4.21/s/ele-imgs/52/1415.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1211/68060.png"
         },
         {
             "testcase_element": "ele_mainmenusearchcityTextView1784528767628",
@@ -686,7 +686,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/52/1416.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1211/68061.png"
         },
         {
             "testcase_element": "ele_LondonTextView1784528771214",
@@ -723,7 +723,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/52/1417.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1211/68062.png"
         }
     ]
 }
