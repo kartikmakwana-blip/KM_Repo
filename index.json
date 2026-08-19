@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "895",
-    "user_id": 53,
+    "user_id": 0,
     "abo_version": {
         "version_id": "895",
         "app_id": "564",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "564",
@@ -57,7 +57,7 @@
             "cm_resource_pages": "1957",
             "cm_default_resource": "",
             "cm_test_function": "2228,2229",
-            "cm_test_case": "7858",
+            "cm_test_case": "",
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
@@ -69,33 +69,7 @@
             "is_delete": "0",
             "qtest_skip_module_sync": "0",
             "qtest_skip_exec_sync": "0",
-            "abo_vm_test_case": [
-                {
-                    "tc_id": "7858",
-                    "version_module_id": "1221",
-                    "tc_name": "SuiteTwoTC1",
-                    "tc_description": "",
-                    "tc_website_url": "",
-                    "it_json": "",
-                    "cm_step_list": "",
-                    "is_compiled": "1",
-                    "xray_type_of_issue_id": null,
-                    "xray_type_of_issue_key": null,
-                    "is_deleted": "0000-00-00 00:00:00",
-                    "is_auto": "0",
-                    "is_ai_generated": "0",
-                    "created_source": "import_zip",
-                    "created_source_ref": null,
-                    "is_draft": "55",
-                    "updated_at": "2026-08-19 08:13:33",
-                    "created_at": "2026-08-19 08:13:33",
-                    "qtest_skip_sync": "1",
-                    "test_case_tags": [],
-                    "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/564/895/1221/testcases/suitetwotc1.java",
-                    "vault_paths": []
-                }
-            ],
+            "abo_vm_test_case": [],
             "abo_version_proc": [
                 {
                     "proc_id": "2228",
@@ -136,17 +110,7 @@
             ],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "5812",
-                    "user_id": "53",
-                    "app_id": "564",
-                    "version_id": "895",
-                    "version_module_id": "1221",
-                    "description": "",
-                    "action_process": "add_version_module"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -276,7 +240,7 @@
                     "created_source_ref": null,
                     "is_compiled": "0",
                     "is_deleted": "0000-00-00 00:00:00",
-                    "is_draft": "55",
+                    "is_draft": "0",
                     "has_parameters": "0",
                     "param_data": "[]",
                     "return_type": null,
@@ -286,26 +250,7 @@
             ],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "5813",
-                    "user_id": "53",
-                    "app_id": "564",
-                    "version_id": "895",
-                    "version_module_id": "1222",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "5814",
-                    "user_id": "53",
-                    "app_id": "564",
-                    "version_id": "895",
-                    "version_module_id": "1222",
-                    "description": "",
-                    "action_process": "add_test_function"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {

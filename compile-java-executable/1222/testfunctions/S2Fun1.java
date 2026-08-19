@@ -18,6 +18,6 @@ import org.testng.annotations.Test;
 class s2fun1 {
 
 	public static void s2fun1() {
-		tg.wait(1);
+		tg.wait(5);
 	}
 }
