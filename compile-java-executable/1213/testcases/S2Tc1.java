@@ -21,7 +21,7 @@ public class s2tc1 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void s2tc1() {
 		tg.openDevice();
-		tg.testFunction("stringutilfunc_tg_suiteprim", new Object[]{});
+		tg.testFunction("s2fun1_tg_suiteprim", new Object[]{});
 		tg.close();
 	}
 }
