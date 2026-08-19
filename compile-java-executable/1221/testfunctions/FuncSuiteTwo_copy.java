@@ -15,9 +15,9 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
-class funcsuitetwo {
+class funcsuitetwo_copy {
 
-	public static void funcsuitetwo() {
-		tg.testFunction("s2fun1_tg_suiteprim", new Object[]{});
+	public static void funcsuitetwo_copy() {
+		tg.testFunction("S2Fun1_TG_SuitePrim_copy", new Object[]{});
 	}
 }

@@ -15,9 +15,9 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
-class s2fun1_tg_suiteprim {
+class s2fun1_tg_suiteprim_copy {
 
-	public static void s2fun1_tg_suiteprim() {
+	public static void s2fun1_tg_suiteprim_copy() {
 		tg.wait(2);
 		tg.printLogs(var_gstr);
 		tg.printLogs(var_gstr);
