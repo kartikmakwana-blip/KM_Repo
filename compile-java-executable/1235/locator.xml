@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_WalkStepRunandEarnTextView1787579857654">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_EnteremailaddressEditText1787579866238">
+    <element type="xpath">(//android.widget.EditText[contains(@resource-id,'et_email')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.FrameLayout/android.widget.EditText</element>
+  </locator>
+  <locator name="ele_EnterpasswordEditText1787579874825">
+    <element type="xpath">(//android.widget.EditText[contains(@resource-id,'et_password')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.EditText</element>
+  </locator>
+  <locator name="ele_textinputendiconImageButton1787579913089">
+    <element type="id">com.app.urunner:id/text_input_end_icon</element>
+    <element type="xpath">(//android.widget.ImageButton[contains(@resource-id,'text_input_end_icon')])[1]</element>
+    <element type="xpath">(//android.widget.ImageButton[@content-desc='Show password'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageButton</element>
+  </locator>
+  <locator name="ele_Resource1">
+    <element type="web_id">ERTTGWEBCOMMAIdTGWEBCOMMA0</element>
+    <element type="image">http://192.168.4.26/s/ele-imgs/1235/68143.png</element>
+  </locator>
+</locators>
