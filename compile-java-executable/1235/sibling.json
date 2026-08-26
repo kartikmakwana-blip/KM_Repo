@@ -7,13 +7,30 @@
             "locator": [
                 {
                     "locators": "Xpath",
-                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView",
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextViewsssssssss",
                     "locator_id": "3",
                     "d_h": 63,
                     "d_w": 493,
                     "d_x": 293,
                     "d_y": 1051,
                     "suggest_name": "WalkStepRunandEarnTextView1787579857654"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "WalkStepRunandEarnTextView1787579857654",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView"
+                    ],
+                    "img": "",
+                    "d_h": "63",
+                    "d_w": "493",
+                    "d_x": "293",
+                    "d_y": "1051",
+                    "element_area": 556,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView",
+                    "locators": "xpath"
                 }
             ],
             "iframe_and_shadow_root_data": [],
