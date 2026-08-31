@@ -21,7 +21,18 @@ public class sec2tc1 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void sec2tc1() {
 		tg.openDevice();
-		tg.wait(1);
+				tg.swipe(Direction.DOWN);
+				tg.wait("ele_EnteremailaddressEditText1788173085999", ComparisonType.IS_VISIBLE);
+				tg.click("ele_EnteremailaddressEditText1788173085999", 1);
+				tg.wait("ele_EnteremailaddressEditText1788173085999", ComparisonType.IS_VISIBLE);
+				tg.type("ele_EnteremailaddressEditText1788173085999", "#TGITVAR.FirstName", true);
+				tg.wait("ele_EnterpasswordEditText1788173101805", ComparisonType.IS_VISIBLE);
+				tg.click("ele_EnterpasswordEditText1788173101805", 1);
+				tg.wait("ele_EnterpasswordEditText1788173101805", ComparisonType.IS_VISIBLE);
+				tg.type("ele_EnterpasswordEditText1788173101805", "#TGITVAR.LastName", true);
+				tg.wait("ele_FrameLayout1788173123383", ComparisonType.IS_VISIBLE);
+				tg.click("ele_FrameLayout1788173123383", 1);
+				tg.wait("ele_ForgotPasswordTextView1788173245880", ComparisonType.IS_VISIBLE);
 		tg.close();
 	}
 }
