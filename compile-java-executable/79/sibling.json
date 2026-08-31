@@ -179,6 +179,96 @@
             ],
             "iframe_and_shadow_root_data": [],
             "image_url": ""
+        },
+        {
+            "testcase_element": "ele_WebviewTextView1788174210003",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.View/android.view.View[2]/android.widget.TextView[2]",
+                    "locator_id": "3",
+                    "d_h": 68,
+                    "d_w": 155,
+                    "d_x": 193,
+                    "d_y": 2230,
+                    "suggest_name": "WebviewTextView1788174210003"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/79/728.png"
+        },
+        {
+            "testcase_element": "ele_GetStarted",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Web_xpath",
+                    "locators_val": "//a[normalize-space()='Get Started']",
+                    "locator_id": "12",
+                    "d_h": 132,
+                    "d_w": 732,
+                    "d_x": 174,
+                    "d_y": 1291,
+                    "suggest_name": "Get Started"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": "9",
+                    "locators_val": "div#__docusaurus_skipToContent_fallback > header > div > div > aTGWEBCOMMA3",
+                    "d_h": "132",
+                    "d_x": "174",
+                    "d_w": "732",
+                    "suggest_name": "Get Started",
+                    "d_y": "1291"
+                },
+                {
+                    "locators": "LinkText",
+                    "locator_type": "4",
+                    "locators_val": "Get StartedTGWEBCOMMA0",
+                    "d_h": "132",
+                    "d_x": "174",
+                    "d_w": "732",
+                    "suggest_name": "Get Started",
+                    "d_y": "1291"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": "12",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[3]/header[1]/div[1]/div[1]/a[1]",
+                    "d_h": "132",
+                    "d_x": "174",
+                    "d_w": "732",
+                    "suggest_name": "Get Started",
+                    "d_y": "1291"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locator_type": "5",
+                    "locators_val": "Get StartTGWEBCOMMA0",
+                    "d_h": "132",
+                    "d_x": "174",
+                    "d_w": "732",
+                    "suggest_name": "Get Started",
+                    "d_y": "1291"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": "6",
+                    "locators_val": "button button--outline button--secondary button--lg getStarted_SjonTGWEBCOMMA0",
+                    "d_h": "132",
+                    "d_x": "174",
+                    "d_w": "732",
+                    "suggest_name": "Get Started",
+                    "d_y": "1291"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "web_xpath",
+            "image_url": ""
         }
     ]
 }
