@@ -199,26 +199,6 @@
             ],
             "iframe_and_shadow_root_data": [],
             "image_url": "http://117.240.112.135/s/ele-imgs/170/1951.png"
-        },
-        {
-            "testcase_element": "ele_Res1",
-            "tg_text": "",
-            "sibling_selector": [],
-            "locator": [
-                {
-                    "locators": "Web_partiallinktext",
-                    "locators_val": "SDdfsdfsdfTGWEBCOMMA0",
-                    "locator_id": "5",
-                    "d_h": 84,
-                    "d_w": 207,
-                    "d_x": 508,
-                    "d_y": 320,
-                    "suggest_name": "Res1"
-                }
-            ],
-            "iframe_and_shadow_root_data": [],
-            "element_type": "web_partiallinktext",
-            "image_url": "http://117.240.112.135/s/ele-imgs/170/1952.png"
         }
     ]
 }
