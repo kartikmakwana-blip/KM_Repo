@@ -21,7 +21,18 @@ public class rnp1 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void rnp1() {
 		tg.openDevice();
-		tg.wait(1);
+				tg.swipe(Direction.DOWN);
+				tg.wait("ele_EnteremailaddressEditText1788274236327", ComparisonType.IS_VISIBLE);
+				tg.click("ele_EnteremailaddressEditText1788274236327", 1);
+				tg.wait("ele_EnteremailaddressEditText1788274236327", ComparisonType.IS_VISIBLE);
+				tg.type("ele_EnteremailaddressEditText1788274236327", "#TGITVAR.email", false);
+		// [DISABLED] 		tg.wait("ele_EnterpasswordEditText1788274247098", ComparisonType.IS_VISIBLE);
+		// [DISABLED] 		tg.click("ele_EnterpasswordEditText1788274247098", 1);
+		// [DISABLED] 		tg.wait("ele_EnterpasswordEditText1788274247098", ComparisonType.IS_VISIBLE);
+		// [DISABLED] 		tg.type("ele_EnterpasswordEditText1788274247098", "passsss", false);
+		// [DISABLED] 		tg.wait("ele_FrameLayout1788274258342", ComparisonType.IS_VISIBLE);
+		// [DISABLED] 		tg.click("ele_FrameLayout1788274258342", 1);
+				tg.wait("ele_SignInButton", ComparisonType.IS_VISIBLE);
 		tg.close();
 	}
 }
