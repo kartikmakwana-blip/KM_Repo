@@ -59,6 +59,8 @@ public class stringutility {
 		tg.printLogs(var_strthree);
 		var_strthree = tg.stringUtilities("{STRING[COMPAREIGNORECASE]["+var_strone+"][dwayne]}");
 		tg.printLogs(var_strthree);
+		tg_String var_A1 = "#TGITVAR.full_name";
+		tg.printLogs(var_A1);
 		tg.close();
 	}
 }
