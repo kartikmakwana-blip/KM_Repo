@@ -40,6 +40,7 @@ public class copytc {
 				tg.endSecureBlock();
 				tg.check.isVisible("ele_mainmenurefreshtextviewele15055510045419");
 				tg.click("ele_mainmenurefreshtextviewele15055510045419", 1);
+				tg.check.isVisible("ele_SearchCityele16070754516489");
 		tg.close();
 	}
 }

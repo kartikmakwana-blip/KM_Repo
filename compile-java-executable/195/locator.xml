@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <locators>
   <locator name="ele_EnteremailaddressEditText1782830312862">
-    <element type="id">com.app.urunner:id/et_emailTGWEBCOMMAIdTGWEBCOMMA</element>
+    <element type="xpath">(//android.widget.EditText[@resource-id='com.app.urunner:id/et_emailsss'])[1]</element>
     <element type="id">com.app.urunner:id/et_email</element>
     <element type="xpath">(//android.widget.EditText[@resource-id='com.app.urunner:id/et_email'])[1]</element>
     <element type="xpath">(//android.widget.EditText[@text='Enter email address'])[1]</element>

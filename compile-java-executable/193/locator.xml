@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_mainswiperefreshviewgroupele6054819225461">
+    <element type="xpath">(//android.view.ViewGroup[@resource-id='org.asdtm.goodweather:id/main.swipe_refresh'])[1]</element>
+    <element type="xpath">//android.view.ViewGroup[@resource-id="org.asdtm.goodweather:id/main.swipe_refresh"]</element>
+    <element type="xpath">//android.view.ViewGroup[@resource-id="org.asdtm.goodweather:id/main.swipe_refresh"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup</element>
+  </locator>
+  <locator name="ele_mainwindspeedtextviewele29054819225461">
+    <element type="xpath">(//android.widget.TextView[@resource-id='org.asdtm.goodweather:id/main.wind_speed'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main.wind_speed"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main.wind_speed"]</element>
+    <element type="xpath">//android.widget.TextView[@text="Wind: 0.0 m/s"]</element>
+    <element type="xpath">//android.widget.TextView[@text="Wind: 0.0 m/s"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.TextView[2]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.TextView[2]</element>
+  </locator>
+  <locator name="ele_mainmenurefreshtextviewele15054819225461">
+    <element type="xpath">(//android.widget.TextView[@content-desc='Update'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@content-desc="Update"]</element>
+    <element type="xpath">//android.widget.TextView[@content-desc="Update"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main_menu_refresh"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main_menu_refresh"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.support.v7.widget.ar/android.widget.TextView[1]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.support.v7.widget.ar/android.widget.TextView[1]</element>
+  </locator>
+  <locator name="ele_mainmenusearchcitytextviewele16054854197653">
+    <element type="xpath">(//android.widget.TextView[@content-desc='Search City'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@content-desc="Search City"]</element>
+    <element type="xpath">//android.widget.TextView[@content-desc="Search City"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main_menu_search_city"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main_menu_search_city"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.support.v7.widget.ar/android.widget.TextView[2]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.support.v7.widget.ar/android.widget.TextView[2]</element>
+  </locator>
+  <locator name="ele_searchsrctextautocompletetextviewele13054926909687">
+    <element type="xpath">(//android.widget.AutoCompleteTextView[@resource-id='org.asdtm.goodweather:id/search_src_text'])[1]</element>
+    <element type="xpath">//android.widget.AutoCompleteTextView[@resource-id="org.asdtm.goodweather:id/search_src_text"]</element>
+    <element type="xpath">//android.widget.AutoCompleteTextView[@resource-id="org.asdtm.goodweather:id/search_src_text"]</element>
+    <element type="xpath">//android.widget.AutoCompleteTextView[@text="Search location"]</element>
+    <element type="xpath">//android.widget.AutoCompleteTextView[@text="Search location"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.AutoCompleteTextView</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.AutoCompleteTextView</element>
+  </locator>
+  <locator name="ele_countrycodetextviewele18055118300548">
+    <element type="xpath">(//android.widget.TextView[@resource-id='org.asdtm.goodweather:id/country_code'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/country_code"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/country_code"]</element>
+    <element type="xpath">//android.widget.TextView[@text="IN"]</element>
+    <element type="xpath">//android.widget.TextView[@text="IN"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.RecyclerView/android.widget.LinearLayout/android.widget.TextView[2]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.RecyclerView/android.widget.LinearLayout/android.widget.TextView[2]</element>
+  </locator>
+  <locator name="ele_mainmenurefreshtextviewele15055318113220">
+    <element type="xpath">(//android.widget.TextView[@content-desc='Update'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@content-desc="Update"]</element>
+    <element type="xpath">//android.widget.TextView[@content-desc="Update"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main_menu_refresh"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main_menu_refresh"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.support.v7.widget.ar/android.widget.TextView[1]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.support.v7.widget.ar/android.widget.TextView[1]</element>
+  </locator>
+  <locator name="ele_mainmenurefreshtextviewele15055510045419">
+    <element type="xpath">(//android.widget.TextView[@content-desc='Update'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@content-desc="Update"]</element>
+    <element type="xpath">//android.widget.TextView[@content-desc="Update"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main_menu_refresh"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main_menu_refresh"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.support.v7.widget.ar/android.widget.TextView[1]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.support.v7.widget.ar/android.widget.TextView[1]</element>
+  </locator>
+  <locator name="ele_SearchCityele16070754516489">
+    <element type="xpath">(//android.widget.TextView[@content-desc='Search City'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@content-desc="Search City"]</element>
+    <element type="xpath">//android.widget.TextView[@content-desc="Search City"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main_menu_search_city"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main_menu_search_city"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.support.v7.widget.ar/android.widget.TextView[2]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.support.v7.widget.ar/android.widget.TextView[2]</element>
+  </locator>
+  <locator name="ele_SearchCityelement16070953773739">
+    <element type="xpath">(//android.widget.TextView[@content-desc='Search City'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@content-desc="Search City"]</element>
+    <element type="xpath">//android.widget.TextView[@content-desc="Search City"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main_menu_search_city"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main_menu_search_city"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.support.v7.widget.ar/android.widget.TextView[2]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.support.v7.widget.ar/android.widget.TextView[2]</element>
+  </locator>
+  <locator name="ele_Updateelement15070953773739">
+    <element type="xpath">(//android.widget.TextView[@content-desc='Update'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@content-desc="Update"]</element>
+    <element type="xpath">//android.widget.TextView[@content-desc="Update"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main_menu_refresh"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main_menu_refresh"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.support.v7.widget.ar/android.widget.TextView[1]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.support.v7.widget.ar/android.widget.TextView[1]</element>
+  </locator>
+</locators>

@@ -6,9 +6,9 @@
             "sibling_selector": [],
             "locator": [
                 {
-                    "locators": "Id",
-                    "locators_val": "com.app.urunner:id/et_emailTGWEBCOMMA",
-                    "locator_id": "7",
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.EditText[@resource-id='com.app.urunner:id/et_emailsss'])[1]",
+                    "locator_id": "3",
                     "d_h": 60,
                     "d_w": 381,
                     "d_x": 25,
@@ -67,7 +67,7 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_type": "id",
+            "element_type": "xpath",
             "image_url": "http://117.240.112.135/s/ele-imgs/195/2058.png"
         },
         {
