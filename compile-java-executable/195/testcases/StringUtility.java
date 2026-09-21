@@ -21,7 +21,7 @@ public class stringutility {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void stringutility() {
 		tg.openDevice();
-		tg.wait(2);
+		tg.wait(3);
 		tg_String var_dt = "Null";
 		tg_String var_strone = "Dwayne";
 		tg_String var_strtwo = "Joh-n-s-o-n";
