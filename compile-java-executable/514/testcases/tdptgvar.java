@@ -22,6 +22,7 @@ public class tdptgvar {
 	public void tdptgvar() {
 		tg.openDevice();
 		tg.wait(1);
+		tg.wait(1);
 		tg.close();
 	}
 }
