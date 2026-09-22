@@ -30,17 +30,17 @@ public class secureglobalruntime {
 		var_ra_ra_str = tg.saveToVariable(var_local2, var_ra_ra_str);
 		tg.printLogs(var_gstr);
 		tg.printLogs(var_ra_ra_str);
-		tg.startSecureBlock();
+		// [DISABLED] tg.startSecureBlock();
 		tg.wait("ele_EnteremailaddressEditText1782830312862", ComparisonType.IS_VISIBLE);
 		tg.type("ele_EnteremailaddressEditText1782830312862", "DemoTest", false);
 		tg.printLogs(var_gstr);
-		tg.endSecureBlock();
+		// [DISABLED] tg.endSecureBlock();
 		tg.wait(2);
-		tg.startSecureBlock();
+		// [DISABLED] tg.startSecureBlock();
 		tg.wait("ele_EnterpasswordEditText1782830323675", ComparisonType.IS_VISIBLE);
 		tg.type("ele_EnterpasswordEditText1782830323675", "FirstName", false);
 		tg.printLogs(var_ra_ra_str);
-		tg.endSecureBlock();
+		// [DISABLED] tg.endSecureBlock();
 		tg.wait(2);
 		tg.close();
 	}

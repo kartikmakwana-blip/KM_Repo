@@ -45,6 +45,7 @@ public class newkey01 {
 		tg_String var_goodweather = "org.asdtm.goodweather";
 		tg.pageLoadStart("ActivateApp");
 		tg.activateApp(var_goodweather);
+		tg.alertButton("OK");
 		tg.wait(2);
 		tg.deactivateApp("org.asdtm.goodweather");
 		tg.wait(2);
