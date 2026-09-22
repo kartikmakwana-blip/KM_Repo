@@ -21,13 +21,13 @@ public class tdptgvar {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tdptgvar() {
 		tg.openDevice();
-		tg.wait(2);
-		tg.wait("ele_EnteremailaddressEditText1782830312862", ComparisonType.IS_VISIBLE);
-		tg.type("ele_EnteremailaddressEditText1782830312862", "#TGITVAR.FirstName", false);
-		tg.wait(2);
-		tg.wait("ele_EnterpasswordEditText1782830323675", ComparisonType.IS_VISIBLE);
-		tg.type("ele_EnterpasswordEditText1782830323675", "#TGITVAR.LastName", false);
-		tg.wait(1);
+				tg.wait(2);
+				tg.wait("ele_EnteremailaddressEditText1782830312862", ComparisonType.IS_VISIBLE);
+				tg.type("ele_EnteremailaddressEditText1782830312862", "#TGITVAR.FirstName", false);
+				tg.wait(2);
+				tg.wait("ele_EnterpasswordEditText1782830323675", ComparisonType.IS_VISIBLE);
+				tg.type("ele_EnterpasswordEditText1782830323675", "#TGITVAR.LastName", false);
+				tg.wait(1);
 		tg.close();
 	}
 }
