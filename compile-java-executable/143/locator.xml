@@ -93,4 +93,16 @@
     <element type="xpath">(//android.widget.EditText[@hint='Confirm password'])[1]</element>
     <element type="image">https://192.168.4.21/s/ele-imgs/143/1535.png</element>
   </locator>
+  <locator name="ele_SignInButton">
+    <element type="xpath">//</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/143/1994.png</element>
+  </locator>
+  <locator name="ele_signInText">
+    <element type="xpath">//</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/143/1995.png</element>
+  </locator>
+  <locator name="ele_signText">
+    <element type="xpath">//</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/143/1996.png</element>
+  </locator>
 </locators>

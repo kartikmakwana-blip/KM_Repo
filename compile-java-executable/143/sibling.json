@@ -650,6 +650,66 @@
             ],
             "iframe_and_shadow_root_data": [],
             "image_url": "https://192.168.4.21/s/ele-imgs/143/1535.png"
+        },
+        {
+            "testcase_element": "ele_SignInButton",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "SignInButton"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "https://192.168.4.21/s/ele-imgs/143/1994.png"
+        },
+        {
+            "testcase_element": "ele_signInText",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "signInText"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "https://192.168.4.21/s/ele-imgs/143/1995.png"
+        },
+        {
+            "testcase_element": "ele_signText",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "signText"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "https://192.168.4.21/s/ele-imgs/143/1996.png"
         }
     ]
 }
