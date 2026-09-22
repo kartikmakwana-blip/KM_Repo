@@ -21,7 +21,14 @@ public class tc1 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc1() {
 		tg.openDevice();
-		tg.wait(1);
+				tg.wait("ele_WebviewTextView1790056610704", ComparisonType.IS_VISIBLE);
+				tg.click("ele_WebviewTextView1790056610704", 1);
+				tg.wait(1);
+				tg.swipe(Direction.UP);
+				tg.wait(1);
+				tg.wait("ele_WhyWebdriverIO", ComparisonType.IS_VISIBLE);
+				tg.click("ele_WhyWebdriverIO", 1);
+				tg.wait(2);
 		tg.close();
 	}
 }

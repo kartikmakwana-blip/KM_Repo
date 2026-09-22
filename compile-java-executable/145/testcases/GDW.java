@@ -21,7 +21,17 @@ public class gdw {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void gdw() {
 		tg.openDevice();
-		tg.wait(1);
+				tg.swipe(Direction.DOWN);
+				tg.wait("ele_EnteremailaddressEditText1790068300442", ComparisonType.IS_VISIBLE);
+				tg.click("ele_EnteremailaddressEditText1790068300442", 1);
+				tg.wait("ele_EnteremailaddressEditText1790068300442", ComparisonType.IS_VISIBLE);
+				tg.type("ele_EnteremailaddressEditText1790068300442", "emailoe", false);
+				tg.wait("ele_EnterpasswordEditText1790068310959", ComparisonType.IS_VISIBLE);
+				tg.click("ele_EnterpasswordEditText1790068310959", 1);
+				tg.wait("ele_EnterpasswordEditText1790068310959", ComparisonType.IS_VISIBLE);
+				tg.type("ele_EnterpasswordEditText1790068310959", "passss", false);
+				tg.wait("ele_textinputendiconImageButton1790068327094", ComparisonType.IS_VISIBLE);
+				tg.click("ele_textinputendiconImageButton1790068327094", 1);
 		tg.close();
 	}
 }

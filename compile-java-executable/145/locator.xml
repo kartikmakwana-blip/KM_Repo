@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_FrameLayout1790058685165">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/145/1536.png</element>
+  </locator>
+  <locator name="ele_WebviewTextView1790056610704">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.View/android.view.View[2]/android.widget.TextView[2]</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/145/2107.png</element>
+  </locator>
+  <locator name="ele_WhyWebdriverIO">
+    <element type="web_xpath">//a[normalize-space()='Why WebdriverIO?']</element>
+    <element type="css">div#__docusaurus_skipToContent_fallback &gt; header &gt; div &gt; div &gt; a:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="linktext">Why WebdriverIO?TGWEBCOMMA0</element>
+    <element type="xpath">//html[1]/body[1]/div[1]/div[3]/header[1]/div[1]/div[1]/a[2]</element>
+    <element type="partiallinktext">Why WebdriverITGWEBCOMMA0</element>
+    <element type="class">button button--outline button--secondary button--lg getStarted_SjonTGWEBCOMMA0</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/145/2108.png</element>
+  </locator>
+  <locator name="ele_emailoneEditText1790058618220">
+    <element type="xpath">(//android.widget.EditText[contains(@resource-id,'et_email')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/145/2109.png</element>
+  </locator>
+  <locator name="ele_EnterpasswordEditText1790058629487">
+    <element type="xpath">(//android.widget.EditText[contains(@resource-id,'et_password')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/145/2110.png</element>
+  </locator>
+  <locator name="ele_textinputendiconImageButton1790058655968">
+    <element type="xpath">(//android.widget.ImageButton[contains(@resource-id,'text_input_end_icon')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageButton</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageButton</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/145/2111.png</element>
+  </locator>
+  <locator name="ele_textinputendiconImageButton1790058684924">
+    <element type="xpath">(//android.widget.ImageButton[contains(@resource-id,'text_input_end_icon')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageButton</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageButton</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/145/2112.png</element>
+  </locator>
+  <locator name="ele_EnteremailaddressEditText1790068300442">
+    <element type="xpath">(//android.widget.EditText[contains(@resource-id,'et_email')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/145/2113.png</element>
+  </locator>
+  <locator name="ele_EnterpasswordEditText1790068310959">
+    <element type="xpath">(//android.widget.EditText[contains(@resource-id,'et_password')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/145/2114.png</element>
+  </locator>
+  <locator name="ele_textinputendiconImageButton1790068327094">
+    <element type="xpath">(//android.widget.ImageButton[contains(@resource-id,'text_input_end_icon')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageButton</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageButton</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/145/2115.png</element>
+  </locator>
+</locators>
