@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "786",
-    "user_id": 97,
+    "user_id": 0,
     "abo_version": {
         "version_id": "786",
         "app_id": "443",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "443",
@@ -73,35 +73,7 @@
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "4197",
-                    "user_id": "97",
-                    "app_id": "443",
-                    "version_id": "786",
-                    "version_module_id": "820",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "4201",
-                    "user_id": "97",
-                    "app_id": "443",
-                    "version_id": "786",
-                    "version_module_id": "820",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "4203",
-                    "user_id": "97",
-                    "app_id": "443",
-                    "version_id": "786",
-                    "version_module_id": "820",
-                    "description": "",
-                    "action_process": "delete_test_case"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -116,7 +88,17 @@
         }
     ],
     "abo_version_capabilities": [],
-    "abo_import_statement": [],
+    "abo_import_statement": [
+        {
+            "import_statement_id": "201",
+            "user_id": "97",
+            "app_id": "443",
+            "version_id": "786",
+            "import_statement": "import com.mongodb.*; import org.bson.BsonDocument; import org.bson.BsonInt64; import org.bson.Document; import org.bson.conversions.Bson; import com.mongodb.client.MongoClient; import com.mongodb.client.MongoClients; import com.mongodb.client.MongoDatabase; ",
+            "created": "2026-09-23 12:28:30",
+            "updated": "2026-09-23 12:28:30"
+        }
+    ],
     "abo_maven_dependency": [
         {
             "maven_id": "117",
