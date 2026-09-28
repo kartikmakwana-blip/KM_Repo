@@ -19,23 +19,16 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-@Listeners(TestListener.class);
-public class tc01 {
+class tf05_upd {
 
-	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc01() {
-		tg.openBrowser();
+	public static void tf05_upd() {
 		tg.click("ele_UserN115123424227206", 1);
 		tg.type("ele_UserN115123424227206", "upen");
 		tg.click("ele_UserP117123424227206", 1);
 		tg.type("ele_UserP117123424227206", "1234");
 		tg.click("ele_Log118123424227206sss", 1);
-		tg.testFunction("TF01_Upd", new Object[]{});
-		tg.writeToCSV("var_ValueGUpd", var_ValueGUpd, "");
-		tg.writeToCSV("var_ra_NameRUpd", var_ra_NameRUpd, "");
-		tg.printLogs(var_ValueGUpd);
-		tg.printLogs(var_ra_NameRUpd);
-		tg.wait(5);
-		tg.close();
+		tg.testFunction("TF02", new Object[]{});
+		tg.testFunction("TF03", new Object[]{});
+		tg.testFunction("TF04", new Object[]{});
 	}
 }
