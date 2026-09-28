@@ -24,11 +24,11 @@ class tf02_upd {
 	public static void tf02_upd() {
 		tg.click("ele_UserN115123424227206", 1);
 		tg.type("ele_UserN115123424227206", "upen");
-		tg.click("ele_UserP117123424227206", 1);
-		tg.type("ele_UserP117123424227206", "1234");
-		tg.click("ele_Log118123424227206sss", 1);
+		tg.click("ele_UserP117123424227206sss", 1);
+		tg.type("ele_UserP117123424227206sss", "1234");
+		tg.click("ele_Log118123424227206ssss", 1);
 		tg.testFunction("TF01_Upd", new Object[]{});
-		tg.testFunction("TF03", new Object[]{});
-		tg.testFunction("TF04", new Object[]{});
+		tg.testFunction("TF03_Upd", new Object[]{});
+		tg.testFunction("TF04_Upd", new Object[]{});
 	}
 }

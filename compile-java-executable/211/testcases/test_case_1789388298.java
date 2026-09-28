@@ -19,8 +19,20 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-class tf03_upd {
+@Listeners(TestListener.class);
+public class test_case_1789388298 {
 
-	public static void tf03_upd() {
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void test_case_1789388298() {
+		tg.openBrowser();
+		tg.click("ele_UserN15121939538288", 1);
+		tg.type("ele_UserN15121939538288", "upen");
+		tg.click("ele_UserP17121939538288", 1);
+		tg.type("ele_UserP17121939538288", "1234");
+		tg.click("ele_Log18121939538288", 1);
+		tg.wait("ele_Errorh121122009924941", ComparisonType.IS_VISIBLE);
+		tg.check.isVisible("ele_Errorh121122009924941");
+		tg.check.contains("ele_Theusernameandpasswordcouldnotbeverifiedp22122009924941","The username and password could not be verified.");
+		tg.close();
 	}
 }

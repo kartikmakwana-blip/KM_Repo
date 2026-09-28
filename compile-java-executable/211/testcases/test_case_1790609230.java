@@ -19,8 +19,13 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-class tf02_upd {
+@Listeners(TestListener.class);
+public class test_case_1790609230 {
 
-	public static void tf02_upd() {
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void test_case_1790609230() {
+		tg.openBrowser();
+		tg.wait(1);
+		tg.close();
 	}
 }

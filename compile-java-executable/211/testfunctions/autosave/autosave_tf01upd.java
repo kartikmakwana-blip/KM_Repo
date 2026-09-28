@@ -24,8 +24,8 @@ class tf01upd {
 	public static void tf01upd() {
 		tg.click("ele_UserN115123424227206", 1);
 		tg.type("ele_UserN115123424227206", "upen");
-		tg.click("ele_UserP117123424227206", 1);
-		tg.type("ele_UserP117123424227206", "1234");
-		tg.click("ele_Log118123424227206sss", 1);
+		tg.click("ele_UserP117123424227206sss", 1);
+		tg.type("ele_UserP117123424227206sss", "1234");
+		tg.click("ele_Log118123424227206ssss", 1);
 	}
 }

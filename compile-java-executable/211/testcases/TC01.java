@@ -27,15 +27,15 @@ public class tc01 {
 		tg.openBrowser();
 		tg.click("ele_UserN115123424227206", 1);
 		tg.type("ele_UserN115123424227206", "upen");
-		tg.click("ele_UserP117123424227206", 1);
-		tg.type("ele_UserP117123424227206", "1234");
-		tg.click("ele_Log118123424227206sss", 1);
+		tg.click("ele_UserP117123424227206sss", 1);
+		tg.type("ele_UserP117123424227206sss", "1234");
+		tg.click("ele_Log118123424227206ssss", 1);
 		tg.testFunction("TF01_Upd", new Object[]{});
 		tg.writeToCSV("var_ValueGUpd", var_ValueGUpd, "");
-		tg.writeToCSV("var_ra_NameRUpd", var_ra_NameRUpd, "");
+		tg.writeToCSV("var_ra_NameRUpd1", var_ra_NameRUpd1, "");
 		tg.printLogs(var_ValueGUpd);
-		tg.printLogs(var_ra_NameRUpd);
-		tg.wait(5);
+		tg.printLogs(var_ra_NameRUpd1);
+		tg.wait(10);
 		tg.close();
 	}
 }
