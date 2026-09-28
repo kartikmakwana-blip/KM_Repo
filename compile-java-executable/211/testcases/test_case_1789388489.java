@@ -30,11 +30,11 @@ public class test_case_1789388489 {
 		tg.click("ele_UserP117123424227206", 1);
 		tg.type("ele_UserP117123424227206", "1234");
 		tg.click("ele_Log118123424227206sss", 1);
-		tg.testFunction("TF01", new Object[]{});
-		tg.writeToCSV("var_ValueG", var_ValueG, "");
-		tg.writeToCSV("var_ra_NameR", var_ra_NameR, "");
-		tg.printLogs(var_ValueG);
-		tg.printLogs(var_ra_NameR);
+		tg.testFunction("TF01_Upd", new Object[]{});
+		tg.writeToCSV("var_ValueGUpd", var_ValueGUpd, "");
+		tg.writeToCSV("var_ra_NameRUpd", var_ra_NameRUpd, "");
+		tg.printLogs(var_ValueGUpd);
+		tg.printLogs(var_ra_NameRUpd);
 		tg.close();
 	}
 }
