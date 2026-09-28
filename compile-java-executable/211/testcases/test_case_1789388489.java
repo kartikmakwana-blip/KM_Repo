@@ -25,11 +25,16 @@ public class test_case_1789388489 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void test_case_1789388489() {
 		tg.openBrowser();
-				tg.click("ele_UserN115123424227206", 1);
-				tg.type("ele_UserN115123424227206", "upen");
-				tg.click("ele_UserP117123424227206", 1);
-				tg.type("ele_UserP117123424227206", "1234");
-				tg.click("ele_Log118123424227206sss", 1);
+		tg.click("ele_UserN115123424227206", 1);
+		tg.type("ele_UserN115123424227206", "upen");
+		tg.click("ele_UserP117123424227206", 1);
+		tg.type("ele_UserP117123424227206", "1234");
+		tg.click("ele_Log118123424227206sss", 1);
+		tg.testFunction("TF01", new Object[]{});
+		tg.writeToCSV("var_ValueG", var_ValueG, "");
+		tg.writeToCSV("var_ra_NameR", var_ra_NameR, "");
+		tg.printLogs(var_ValueG);
+		tg.printLogs(var_ra_NameR);
 		tg.close();
 	}
 }
