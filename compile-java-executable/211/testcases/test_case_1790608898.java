@@ -25,6 +25,7 @@ public class test_case_1790608898 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void test_case_1790608898() {
 		tg.openBrowser();
+		tg.wait(5);
 		tg.close();
 	}
 }

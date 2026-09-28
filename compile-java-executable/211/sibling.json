@@ -1450,6 +1450,1324 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": "http://117.240.112.135/s/ele-imgs/211/2168.png"
+        },
+        {
+            "testcase_element": "ele_close327",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//div[contains(text(),'Close')]",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 37,
+                    "d_x": 1228,
+                    "d_y": 195,
+                    "suggest_name": "close327"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='dismiss-button-element']/div",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 37,
+                    "d_x": 1228.90625,
+                    "d_y": 195.5,
+                    "suggest_name": "close327"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div.continue-prompt-text",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 37,
+                    "d_x": 1228.90625,
+                    "d_y": 195.5,
+                    "suggest_name": "close327"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#dismiss-button-element > divTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 37,
+                    "d_x": 1228.90625,
+                    "d_y": 195.5,
+                    "suggest_name": "close327"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/div",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 37,
+                    "d_x": 1228.90625,
+                    "d_y": 195.5,
+                    "suggest_name": "close327"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "continue-prompt-textTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 24,
+                    "d_w": 37,
+                    "d_x": 1228.90625,
+                    "d_y": 195.5,
+                    "suggest_name": "close327"
+                }
+            ],
+            "iframe_and_shadow_root_data": [
+                {
+                    "is_secure_field": false,
+                    "is_extension": true,
+                    "element_list": [
+                        {
+                            "ele_id": 2,
+                            "value": "ele_aswift587",
+                            "element_display_name": "Iframe",
+                            "elementTag": "iframeTGWEBCOMMA0",
+                            "display_name": "aswift587!@Register!@",
+                            "page_name": "Register",
+                            "element_image": "",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//iframe[@id='aswift_2']\",\"locator_id\":\"3\",\"d_h\":971,\"d_w\":1920,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"aswift587\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='aswift_2_host']/iframe\",\"locator_id\":\"3\",\"d_h\":971,\"d_w\":1920,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"aswift587\"},{\"locators\":\"id\",\"locators_val\":\"aswift_2TGWEBCOMMA1\",\"locator_id\":\"7\",\"d_h\":971,\"d_w\":1920,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"aswift587\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#aswift_2\",\"locator_id\":\"9\",\"d_h\":971,\"d_w\":1920,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"aswift587\"},{\"locators\":\"CSS selector\",\"locators_val\":\"iframe#aswift_2TGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":971,\"d_w\":1920,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"aswift587\"},{\"locators\":\"Xpath\",\"locators_val\":\"//html/ins/div/iframe\",\"locator_id\":\"3\",\"d_h\":971,\"d_w\":1920,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"aswift587\"},{\"locators\":\"Tag\",\"locators_val\":\"iframeTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":971,\"d_w\":1920,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"aswift587\"}]",
+                            "data": {
+                                "element_name": "aswift587",
+                                "script_type": 1,
+                                "platform": 3,
+                                "typeofelement": "3",
+                                "value": [
+                                    "//iframe[@id='aswift_2']"
+                                ],
+                                "temp_element_id": 0,
+                                "pagenameis": "Register",
+                                "d_h": 971,
+                                "d_w": 1920,
+                                "d_x": 0,
+                                "d_y": 0,
+                                "radious": 0,
+                                "version_module_id": 0,
+                                "autoheal_elements": [
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//iframe[@id='aswift_2']",
+                                        "locator_id": "3",
+                                        "d_h": 971,
+                                        "d_w": 1920,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "aswift587"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//div[@id='aswift_2_host']/iframe",
+                                        "locator_id": "3",
+                                        "d_h": 971,
+                                        "d_w": 1920,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "aswift587"
+                                    },
+                                    {
+                                        "locators": "id",
+                                        "locators_val": "aswift_2TGWEBCOMMA1",
+                                        "locator_id": "7",
+                                        "d_h": 971,
+                                        "d_w": 1920,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "aswift587"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "#aswift_2",
+                                        "locator_id": "9",
+                                        "d_h": 971,
+                                        "d_w": 1920,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "aswift587"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "iframe#aswift_2TGWEBCOMMA0",
+                                        "locator_id": "9",
+                                        "d_h": 971,
+                                        "d_w": 1920,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "aswift587"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//html/ins/div/iframe",
+                                        "locator_id": "3",
+                                        "d_h": 971,
+                                        "d_w": 1920,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "aswift587"
+                                    },
+                                    {
+                                        "locators": "Tag",
+                                        "locators_val": "iframeTGWEBCOMMA0",
+                                        "locator_id": "8",
+                                        "d_h": 971,
+                                        "d_w": 1920,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "aswift587"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "element_type": "iframe"
+                }
+            ],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_text295",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@type='text']",
+                    "locator_id": "3",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 263,
+                    "d_y": 185,
+                    "suggest_name": "text295"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[type=\"text\"]",
+                    "locator_id": "9",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 263.328125,
+                    "d_y": 185.390625,
+                    "suggest_name": "text295"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > section > div > div > div > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 263.328125,
+                    "d_y": 185.390625,
+                    "suggest_name": "text295"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 263.328125,
+                    "d_y": 185.390625,
+                    "suggest_name": "text295"
+                }
+            ],
+            "iframe_and_shadow_root_data": [
+                {
+                    "is_secure_field": false,
+                    "is_extension": true,
+                    "element_list": [
+                        {
+                            "ele_id": 2,
+                            "value": "ele_pyourbrows409",
+                            "element_display_name": "pYour browser does not support ",
+                            "elementTag": "iframeTGWEBCOMMA0",
+                            "display_name": "pyourbrows409!@Frames!@",
+                            "page_name": "Frames",
+                            "element_image": "",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//iframe[@id='singleframe']\",\"locator_id\":\"3\",\"d_h\":300,\"d_w\":600,\"d_x\":687.5,\"d_y\":309.59375,\"suggest_name\":\"pyourbrows409\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='Single']/iframe\",\"locator_id\":\"3\",\"d_h\":300,\"d_w\":600,\"d_x\":687.5,\"d_y\":309.59375,\"suggest_name\":\"pyourbrows409\"},{\"locators\":\"id\",\"locators_val\":\"singleframeTGWEBCOMMA1\",\"locator_id\":\"7\",\"d_h\":300,\"d_w\":600,\"d_x\":687.5,\"d_y\":309.59375,\"suggest_name\":\"pyourbrows409\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#singleframe\",\"locator_id\":\"9\",\"d_h\":300,\"d_w\":600,\"d_x\":687.5,\"d_y\":309.59375,\"suggest_name\":\"pyourbrows409\"},{\"locators\":\"CSS selector\",\"locators_val\":\"iframe#singleframeTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":300,\"d_w\":600,\"d_x\":687.5,\"d_y\":309.59375,\"suggest_name\":\"pyourbrows409\"},{\"locators\":\"Xpath\",\"locators_val\":\"//iframe\",\"locator_id\":\"3\",\"d_h\":300,\"d_w\":600,\"d_x\":687.5,\"d_y\":309.59375,\"suggest_name\":\"pyourbrows409\"},{\"locators\":\"Tag\",\"locators_val\":\"iframeTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":300,\"d_w\":600,\"d_x\":687.5,\"d_y\":309.59375,\"suggest_name\":\"pyourbrows409\"}]",
+                            "data": {
+                                "element_name": "pyourbrows409",
+                                "script_type": 1,
+                                "platform": 3,
+                                "typeofelement": "3",
+                                "value": [
+                                    "//iframe[@id='singleframe']"
+                                ],
+                                "temp_element_id": 0,
+                                "pagenameis": "Frames",
+                                "d_h": 300,
+                                "d_w": 600,
+                                "d_x": 687.5,
+                                "d_y": 309.59375,
+                                "radious": 0,
+                                "version_module_id": 0,
+                                "autoheal_elements": [
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//iframe[@id='singleframe']",
+                                        "locator_id": "3",
+                                        "d_h": 300,
+                                        "d_w": 600,
+                                        "d_x": 687.5,
+                                        "d_y": 309.59375,
+                                        "suggest_name": "pyourbrows409"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//div[@id='Single']/iframe",
+                                        "locator_id": "3",
+                                        "d_h": 300,
+                                        "d_w": 600,
+                                        "d_x": 687.5,
+                                        "d_y": 309.59375,
+                                        "suggest_name": "pyourbrows409"
+                                    },
+                                    {
+                                        "locators": "id",
+                                        "locators_val": "singleframeTGWEBCOMMA1",
+                                        "locator_id": "7",
+                                        "d_h": 300,
+                                        "d_w": 600,
+                                        "d_x": 687.5,
+                                        "d_y": 309.59375,
+                                        "suggest_name": "pyourbrows409"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "#singleframe",
+                                        "locator_id": "9",
+                                        "d_h": 300,
+                                        "d_w": 600,
+                                        "d_x": 687.5,
+                                        "d_y": 309.59375,
+                                        "suggest_name": "pyourbrows409"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "iframe#singleframeTGWEBCOMMA0",
+                                        "locator_id": "9",
+                                        "d_h": 300,
+                                        "d_w": 600,
+                                        "d_x": 687.5,
+                                        "d_y": 309.59375,
+                                        "suggest_name": "pyourbrows409"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//iframe",
+                                        "locator_id": "3",
+                                        "d_h": 300,
+                                        "d_w": 600,
+                                        "d_x": 687.5,
+                                        "d_y": 309.59375,
+                                        "suggest_name": "pyourbrows409"
+                                    },
+                                    {
+                                        "locators": "Tag",
+                                        "locators_val": "iframeTGWEBCOMMA0",
+                                        "locator_id": "8",
+                                        "d_h": 300,
+                                        "d_w": 600,
+                                        "d_x": 687.5,
+                                        "d_y": 309.59375,
+                                        "suggest_name": "pyourbrows409"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "element_type": "iframe"
+                }
+            ],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_textharsh227",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@value='harsh']",
+                    "locator_id": "3",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 263,
+                    "d_y": 185,
+                    "suggest_name": "textharsh227"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[type=\"text\"]",
+                    "locator_id": "9",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 263.328125,
+                    "d_y": 185.390625,
+                    "suggest_name": "textharsh227"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > section > div > div > div > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 263.328125,
+                    "d_y": 185.390625,
+                    "suggest_name": "textharsh227"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 263.328125,
+                    "d_y": 185.390625,
+                    "suggest_name": "textharsh227"
+                }
+            ],
+            "iframe_and_shadow_root_data": [
+                {
+                    "is_secure_field": false,
+                    "is_extension": true,
+                    "element_list": [
+                        {
+                            "ele_id": 2,
+                            "value": "ele_pyourbrows457",
+                            "element_display_name": "pYour browser does not support ",
+                            "elementTag": "iframeTGWEBCOMMA0",
+                            "display_name": "pyourbrows457!@Frames!@",
+                            "page_name": "Frames",
+                            "element_image": "",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//iframe[@id='singleframe']\",\"locator_id\":\"3\",\"d_h\":300,\"d_w\":600,\"d_x\":687.5,\"d_y\":309.59375,\"suggest_name\":\"pyourbrows457\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='Single']/iframe\",\"locator_id\":\"3\",\"d_h\":300,\"d_w\":600,\"d_x\":687.5,\"d_y\":309.59375,\"suggest_name\":\"pyourbrows457\"},{\"locators\":\"id\",\"locators_val\":\"singleframeTGWEBCOMMA1\",\"locator_id\":\"7\",\"d_h\":300,\"d_w\":600,\"d_x\":687.5,\"d_y\":309.59375,\"suggest_name\":\"pyourbrows457\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#singleframe\",\"locator_id\":\"9\",\"d_h\":300,\"d_w\":600,\"d_x\":687.5,\"d_y\":309.59375,\"suggest_name\":\"pyourbrows457\"},{\"locators\":\"CSS selector\",\"locators_val\":\"iframe#singleframeTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":300,\"d_w\":600,\"d_x\":687.5,\"d_y\":309.59375,\"suggest_name\":\"pyourbrows457\"},{\"locators\":\"Xpath\",\"locators_val\":\"//iframe\",\"locator_id\":\"3\",\"d_h\":300,\"d_w\":600,\"d_x\":687.5,\"d_y\":309.59375,\"suggest_name\":\"pyourbrows457\"},{\"locators\":\"Tag\",\"locators_val\":\"iframeTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":300,\"d_w\":600,\"d_x\":687.5,\"d_y\":309.59375,\"suggest_name\":\"pyourbrows457\"}]",
+                            "data": {
+                                "element_name": "pyourbrows457",
+                                "script_type": 1,
+                                "platform": 3,
+                                "typeofelement": "3",
+                                "value": [
+                                    "//iframe[@id='singleframe']"
+                                ],
+                                "temp_element_id": 0,
+                                "pagenameis": "Frames",
+                                "d_h": 300,
+                                "d_w": 600,
+                                "d_x": 687.5,
+                                "d_y": 309.59375,
+                                "radious": 0,
+                                "version_module_id": 0,
+                                "autoheal_elements": [
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//iframe[@id='singleframe']",
+                                        "locator_id": "3",
+                                        "d_h": 300,
+                                        "d_w": 600,
+                                        "d_x": 687.5,
+                                        "d_y": 309.59375,
+                                        "suggest_name": "pyourbrows457"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//div[@id='Single']/iframe",
+                                        "locator_id": "3",
+                                        "d_h": 300,
+                                        "d_w": 600,
+                                        "d_x": 687.5,
+                                        "d_y": 309.59375,
+                                        "suggest_name": "pyourbrows457"
+                                    },
+                                    {
+                                        "locators": "id",
+                                        "locators_val": "singleframeTGWEBCOMMA1",
+                                        "locator_id": "7",
+                                        "d_h": 300,
+                                        "d_w": 600,
+                                        "d_x": 687.5,
+                                        "d_y": 309.59375,
+                                        "suggest_name": "pyourbrows457"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "#singleframe",
+                                        "locator_id": "9",
+                                        "d_h": 300,
+                                        "d_w": 600,
+                                        "d_x": 687.5,
+                                        "d_y": 309.59375,
+                                        "suggest_name": "pyourbrows457"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "iframe#singleframeTGWEBCOMMA0",
+                                        "locator_id": "9",
+                                        "d_h": 300,
+                                        "d_w": 600,
+                                        "d_x": 687.5,
+                                        "d_y": 309.59375,
+                                        "suggest_name": "pyourbrows457"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//iframe",
+                                        "locator_id": "3",
+                                        "d_h": 300,
+                                        "d_w": 600,
+                                        "d_x": 687.5,
+                                        "d_y": 309.59375,
+                                        "suggest_name": "pyourbrows457"
+                                    },
+                                    {
+                                        "locators": "Tag",
+                                        "locators_val": "iframeTGWEBCOMMA0",
+                                        "locator_id": "8",
+                                        "d_h": 300,
+                                        "d_w": 600,
+                                        "d_x": 687.5,
+                                        "d_y": 309.59375,
+                                        "suggest_name": "pyourbrows457"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "element_type": "iframe"
+                }
+            ],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_firstname373",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "placeholder": "First Name",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "ng-model": "FirstName",
+                        "required": ""
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@placeholder='First Name']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723,
+                    "d_y": 222,
+                    "suggest_name": "firstname373"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname373"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname373"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div > div > inputTGWEBCOMMA5",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname373"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname373"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname373"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_firstname802",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "placeholder": "First Name",
+                        "class": "form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-required",
+                        "ng-model": "FirstName",
+                        "required": "",
+                        "value": "hii"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@placeholder='First Name']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723,
+                    "d_y": 222,
+                    "suggest_name": "firstname802"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname802"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input.form-control.ng-untouched.ng-dirty.ng-valid-parse.ng-valid.ng-valid-required",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname802"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div > div > inputTGWEBCOMMA5",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname802"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname802"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-requiredTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname802"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_lastname791",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "placeholder": "Last Name",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "ng-model": "LastName",
+                        "required": ""
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@placeholder='Last Name']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918,
+                    "d_y": 222,
+                    "suggest_name": "lastname791"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div/div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname791"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname791"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div > div:nth-of-type(2) > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname791"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname791"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname791"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_lastname810",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "placeholder": "Last Name",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "ng-model": "LastName",
+                        "required": ""
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@placeholder='Last Name']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918,
+                    "d_y": 222,
+                    "suggest_name": "lastname810"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div/div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname810"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname810"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div > div:nth-of-type(2) > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname810"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname810"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname810"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_lastname365",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "placeholder": "Last Name",
+                        "class": "form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-required",
+                        "ng-model": "LastName",
+                        "required": "",
+                        "value": "heyy"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@placeholder='Last Name']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918,
+                    "d_y": 222,
+                    "suggest_name": "lastname365"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div/div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname365"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input.form-control.ng-untouched.ng-dirty.ng-valid-parse.ng-valid.ng-valid-required",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname365"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div > div:nth-of-type(2) > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname365"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname365"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-requiredTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname365"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_fullnamead157",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-sm-6 col-md-6 col-xs-12"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "id": "basicBootstrapForm",
+                        "ng-submit": "createdata()",
+                        "class": "form-horizontal ng-invalid ng-invalid-required ng-valid-email ng-valid-pattern ng-valid-minlength ng-dirty ng-valid-parse"
+                    },
+                    "tg_text": null
+                },
+                "children": [
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "form-group"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "form-group"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "form-group"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "form-group"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "form-group"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "form-group"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "form-group"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "form-group"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "form-group"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "form-group"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "form-group"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "form-group"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "form-group"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "form group"
+                        },
+                        "tg_text": null
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//form[@id='basicBootstrapForm']",
+                    "locator_id": "3",
+                    "d_h": 686,
+                    "d_w": 555,
+                    "d_x": 577,
+                    "d_y": 222,
+                    "suggest_name": "fullnamead157"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='section']/div/div/div[2]/form",
+                    "locator_id": "3",
+                    "d_h": 686,
+                    "d_w": 555,
+                    "d_x": 577.5,
+                    "d_y": 222.59375,
+                    "suggest_name": "fullnamead157"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "basicBootstrapFormTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 686,
+                    "d_w": 555,
+                    "d_x": 577.5,
+                    "d_y": 222.59375,
+                    "suggest_name": "fullnamead157"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#basicBootstrapForm",
+                    "locator_id": "9",
+                    "d_h": 686,
+                    "d_w": 555,
+                    "d_x": 577.5,
+                    "d_y": 222.59375,
+                    "suggest_name": "fullnamead157"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapFormTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 686,
+                    "d_w": 555,
+                    "d_x": 577.5,
+                    "d_y": 222.59375,
+                    "suggest_name": "fullnamead157"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form",
+                    "locator_id": "3",
+                    "d_h": 686,
+                    "d_w": 555,
+                    "d_x": 577.5,
+                    "d_y": 222.59375,
+                    "suggest_name": "fullnamead157"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-horizontal ng-invalid ng-invalid-required ng-valid-email ng-valid-pattern ng-valid-minlength ng-dirty ng-valid-parseTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 686,
+                    "d_w": 555,
+                    "d_x": 577.5,
+                    "d_y": 222.59375,
+                    "suggest_name": "fullnamead157"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_male319",
+            "tg_text": "Male",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "children": [
+                    {
+                        "tag": "input",
+                        "tg_attributes": {
+                            "type": "radio",
+                            "name": "radiooptions",
+                            "ng-model": "radiovalue",
+                            "value": "Male",
+                            "required": "",
+                            "class": "ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-required"
+                        },
+                        "tg_text": null
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//label[normalize-space()='Male']",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 51,
+                    "d_x": 745,
+                    "d_y": 460,
+                    "suggest_name": "male319"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[5]/div/label",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 51,
+                    "d_x": 745.59375,
+                    "d_y": 460.59375,
+                    "suggest_name": "male319"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div.col-md-4.col-xs-4.col-sm-4 > label",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 51,
+                    "d_x": 745.59375,
+                    "d_y": 460.59375,
+                    "suggest_name": "male319"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div:nth-of-type(5) > div > labelTGWEBCOMMA1",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 51,
+                    "d_x": 745.59375,
+                    "d_y": 460.59375,
+                    "suggest_name": "male319"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[5]/div/label",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 51,
+                    "d_x": 745.59375,
+                    "d_y": 460.59375,
+                    "suggest_name": "male319"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_cricket931",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "children": [
+                    {
+                        "tag": "input",
+                        "tg_attributes": {
+                            "type": "checkbox",
+                            "id": "checkbox1",
+                            "value": "Cricket"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "label",
+                        "tg_attributes": {
+                            "class": "checks",
+                            "style": "text-align: right"
+                        },
+                        "tg_text": "Cricket"
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//body/section[@id='section']/div/div/div/form[@id='basicBootstrapForm']/div/div/div[1]",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 165,
+                    "d_x": 723,
+                    "d_y": 502,
+                    "suggest_name": "cricket931"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[6]/div/div",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 502.59375,
+                    "suggest_name": "cricket931"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div.col-md-4.col-xs-4.col-sm-4 > div",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 502.59375,
+                    "suggest_name": "cricket931"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div:nth-of-type(6) > div > divTGWEBCOMMA2",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 502.59375,
+                    "suggest_name": "cricket931"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[6]/div/div",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 502.59375,
+                    "suggest_name": "cricket931"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
         }
     ]
 }

@@ -146,4 +146,87 @@
     <element type="class">buttonTGWEBCOMMA2</element>
     <element type="image">http://117.240.112.135/s/ele-imgs/211/2168.png</element>
   </locator>
+  <locator name="ele_close327">
+    <element type="xpath">//div[contains(text(),'Close')]</element>
+    <element type="xpath">//div[@id='dismiss-button-element']/div</element>
+    <element type="css">div.continue-prompt-text</element>
+    <element type="css">div#dismiss-button-element &gt; divTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/div</element>
+    <element type="class">continue-prompt-textTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_text295">
+    <element type="xpath">//input[@type='text']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="css">html &gt; body &gt; section &gt; div &gt; div &gt; div &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+  </locator>
+  <locator name="ele_textharsh227">
+    <element type="xpath">//input[@value='harsh']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="css">html &gt; body &gt; section &gt; div &gt; div &gt; div &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+  </locator>
+  <locator name="ele_firstname373">
+    <element type="xpath">//input[@placeholder='First Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div/input</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5</element>
+    <element type="xpath">//input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_firstname802">
+    <element type="xpath">//input[@placeholder='First Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div/input</element>
+    <element type="css">input.form-control.ng-untouched.ng-dirty.ng-valid-parse.ng-valid.ng-valid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5</element>
+    <element type="xpath">//input</element>
+    <element type="class">form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-requiredTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_lastname791">
+    <element type="xpath">//input[@placeholder='Last Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div[2]/input</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_lastname810">
+    <element type="xpath">//input[@placeholder='Last Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div[2]/input</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_lastname365">
+    <element type="xpath">//input[@placeholder='Last Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div[2]/input</element>
+    <element type="css">input.form-control.ng-untouched.ng-dirty.ng-valid-parse.ng-valid.ng-valid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="class">form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-requiredTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_fullnamead157">
+    <element type="xpath">//form[@id='basicBootstrapForm']</element>
+    <element type="xpath">//section[@id='section']/div/div/div[2]/form</element>
+    <element type="id">basicBootstrapFormTGWEBCOMMA1</element>
+    <element type="css">#basicBootstrapForm</element>
+    <element type="css">form#basicBootstrapFormTGWEBCOMMA0</element>
+    <element type="xpath">//form</element>
+    <element type="class">form-horizontal ng-invalid ng-invalid-required ng-valid-email ng-valid-pattern ng-valid-minlength ng-dirty ng-valid-parseTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_male319">
+    <element type="xpath">//label[normalize-space()='Male']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div[5]/div/label</element>
+    <element type="css">div.col-md-4.col-xs-4.col-sm-4 &gt; label</element>
+    <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(5) &gt; div &gt; labelTGWEBCOMMA1</element>
+    <element type="xpath">//div[5]/div/label</element>
+  </locator>
+  <locator name="ele_cricket931">
+    <element type="xpath">//body/section[@id='section']/div/div/div/form[@id='basicBootstrapForm']/div/div/div[1]</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div[6]/div/div</element>
+    <element type="css">div.col-md-4.col-xs-4.col-sm-4 &gt; div</element>
+    <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(6) &gt; div &gt; divTGWEBCOMMA2</element>
+    <element type="xpath">//div[6]/div/div</element>
+  </locator>
 </locators>
