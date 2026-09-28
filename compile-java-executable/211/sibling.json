@@ -1367,7 +1367,7 @@
             "image_url": "http://117.240.112.135/s/ele-imgs/211/2167.png"
         },
         {
-            "testcase_element": "ele_Log118123424227206",
+            "testcase_element": "ele_Log118123424227206sss",
             "tg_text": "",
             "sibling_selector": {
                 "parent": {
@@ -1394,7 +1394,7 @@
                     "d_w": 67,
                     "d_x": 335,
                     "d_y": 386,
-                    "suggest_name": "submitlogi509"
+                    "suggest_name": "ele_Log118123424227206sss"
                 },
                 {
                     "locators": "Xpath",
@@ -1404,7 +1404,7 @@
                     "d_w": 67,
                     "d_x": 335.5,
                     "d_y": 386.015625,
-                    "suggest_name": "submitlogi509"
+                    "suggest_name": "ele_Log118123424227206sss"
                 },
                 {
                     "locators": "CSS selector",
@@ -1414,7 +1414,7 @@
                     "d_w": 67,
                     "d_x": 335.5,
                     "d_y": 386.015625,
-                    "suggest_name": "submitlogi509"
+                    "suggest_name": "ele_Log118123424227206sss"
                 },
                 {
                     "locators": "CSS selector",
@@ -1424,7 +1424,7 @@
                     "d_w": 67,
                     "d_x": 335.5,
                     "d_y": 386.015625,
-                    "suggest_name": "submitlogi509"
+                    "suggest_name": "ele_Log118123424227206sss"
                 },
                 {
                     "locators": "Xpath",
@@ -1434,7 +1434,7 @@
                     "d_w": 67,
                     "d_x": 335.5,
                     "d_y": 386.015625,
-                    "suggest_name": "submitlogi509"
+                    "suggest_name": "ele_Log118123424227206sss"
                 },
                 {
                     "locators": "class",
@@ -1444,7 +1444,7 @@
                     "d_w": 67,
                     "d_x": 335.5,
                     "d_y": 386.015625,
-                    "suggest_name": "submitlogi509"
+                    "suggest_name": "ele_Log118123424227206sss"
                 }
             ],
             "iframe_and_shadow_root_data": [],
