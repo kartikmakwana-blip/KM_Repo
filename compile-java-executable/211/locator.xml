@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_UserN15121939538288">
+    <element type="xpath">//input[@name='username']</element>
+    <element type="xpath">//div[@id='loginPanel']/form/div/input</element>
+    <element type="css">input[name="username"]</element>
+    <element type="css">div#loginPanel &gt; form &gt; div &gt; inputTGWEBCOMMA2</element>
+    <element type="xpath">//input</element>
+    <element type="class">inputTGWEBCOMMA1</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/211/2153.png</element>
+  </locator>
+  <locator name="ele_UserP17121939538288">
+    <element type="xpath">//input[@name='password']</element>
+    <element type="xpath">//div[@id='loginPanel']/form/div[2]/input</element>
+    <element type="css">input[name="password"]</element>
+    <element type="css">div#loginPanel &gt; form &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="class">inputTGWEBCOMMA2</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/211/2154.png</element>
+  </locator>
+  <locator name="ele_Log18121939538288">
+    <element type="xpath">//input[@value='Log In']</element>
+    <element type="xpath">//div[@id='loginPanel']/form/div[3]/input</element>
+    <element type="css">input.button</element>
+    <element type="css">div#loginPanel &gt; form &gt; div:nth-of-type(3) &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//div[3]/input</element>
+    <element type="class">buttonTGWEBCOMMA2</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/211/2155.png</element>
+  </locator>
+  <locator name="ele_Errorh121122009924941">
+    <element type="xpath">//h1[contains(text(),'Error!')]</element>
+    <element type="xpath">//div[@id='rightPanel']/h1</element>
+    <element type="css">h1.title</element>
+    <element type="css">div#rightPanel &gt; h1TGWEBCOMMA0</element>
+    <element type="xpath">//h1</element>
+    <element type="class">titleTGWEBCOMMA1</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/211/2156.png</element>
+  </locator>
+  <locator name="ele_Theusernameandpasswordcouldnotbeverifiedp22122009924941">
+    <element type="xpath">//p[contains(text(),'The username and password could not be verified.')]</element>
+    <element type="xpath">//div[@id='rightPanel']/p</element>
+    <element type="css">p.error</element>
+    <element type="css">div#rightPanel &gt; pTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/p</element>
+    <element type="class">errorTGWEBCOMMA1</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/211/2157.png</element>
+  </locator>
+  <locator name="ele_UserN14122310925978">
+    <element type="xpath">//input[@id='user-name']</element>
+    <element type="xpath">//div[@id='login_button_container']/div/form/div/input</element>
+    <element type="id">user-nameTGWEBCOMMA1</element>
+    <element type="css">#user-name</element>
+    <element type="css">input#user-nameTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="class">input_error form_inputTGWEBCOMMA1</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/211/2158.png</element>
+  </locator>
+  <locator name="ele_UserP15122310925978">
+    <element type="xpath">//input[@id='password']</element>
+    <element type="xpath">//div[@id='login_button_container']/div/form/div[2]/input</element>
+    <element type="id">passwordTGWEBCOMMA1</element>
+    <element type="css">#password</element>
+    <element type="css">input#passwordTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="class">input_error form_inputTGWEBCOMMA2</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/211/2159.png</element>
+  </locator>
+  <locator name="ele_Log16122310925978">
+    <element type="xpath">//input[@id='login-button']</element>
+    <element type="xpath">//div[@id='login_button_container']/div/form/input</element>
+    <element type="id">login-buttonTGWEBCOMMA1</element>
+    <element type="css">#login-button</element>
+    <element type="css">input#login-buttonTGWEBCOMMA0</element>
+    <element type="xpath">//form/input</element>
+    <element type="class">submit-button btn_actionTGWEBCOMMA1</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/211/2160.png</element>
+  </locator>
+  <locator name="ele_Epicsadfaceerrormessage6122336214997">
+    <element type="xpath">//h3[@role='alert']</element>
+    <element type="xpath">//div[@id='login_button_container']/div/form/div[3]/h3</element>
+    <element type="css">h3</element>
+    <element type="css">div#login_button_container &gt; div &gt; form &gt; div:nth-of-type(3) &gt; h3TGWEBCOMMA0</element>
+    <element type="xpath">//h3</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/211/2161.png</element>
+  </locator>
+  <locator name="ele_Dismisserror7122336214997">
+    <element type="xpath">//button[@aria-label='Dismiss error']</element>
+    <element type="xpath">//div[@id='login_button_container']/div/form/div[3]/h3/button</element>
+    <element type="css">button.error-button</element>
+    <element type="css">div#login_button_container &gt; div &gt; form &gt; div:nth-of-type(3) &gt; h3 &gt; buttonTGWEBCOMMA0</element>
+    <element type="xpath">//button</element>
+    <element type="class">error-buttonTGWEBCOMMA1</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/211/2162.png</element>
+  </locator>
+  <locator name="ele_UserN115122623792695">
+    <element type="xpath">//input[@name='username']</element>
+    <element type="xpath">//div[@id='loginPanel']/form/div/input</element>
+    <element type="css">input[name="username"]</element>
+    <element type="css">div#loginPanel &gt; form &gt; div &gt; inputTGWEBCOMMA2</element>
+    <element type="xpath">//input</element>
+    <element type="class">inputTGWEBCOMMA1</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/211/2163.png</element>
+  </locator>
+  <locator name="ele_UserP117122623792695">
+    <element type="xpath">//input[@name='password']</element>
+    <element type="xpath">//div[@id='loginPanel']/form/div[2]/input</element>
+    <element type="css">input[name="password"]</element>
+    <element type="css">div#loginPanel &gt; form &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="class">inputTGWEBCOMMA2</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/211/2164.png</element>
+  </locator>
+  <locator name="ele_Log118122623792695">
+    <element type="xpath">//input[@value='Log In']</element>
+    <element type="xpath">//div[@id='loginPanel']/form/div[3]/input</element>
+    <element type="css">input.button</element>
+    <element type="css">div#loginPanel &gt; form &gt; div:nth-of-type(3) &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//div[3]/input</element>
+    <element type="class">buttonTGWEBCOMMA2</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/211/2165.png</element>
+  </locator>
+  <locator name="ele_UserN115123424227206">
+    <element type="xpath">//input[@name='username']</element>
+    <element type="xpath">//div[@id='loginPanel']/form/div/input</element>
+    <element type="css">input[name="username"]</element>
+    <element type="css">div#loginPanel &gt; form &gt; div &gt; inputTGWEBCOMMA2</element>
+    <element type="xpath">//input</element>
+    <element type="class">inputTGWEBCOMMA1</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/211/2166.png</element>
+  </locator>
+  <locator name="ele_UserP117123424227206">
+    <element type="xpath">//input[@name='password']</element>
+    <element type="xpath">//div[@id='loginPanel']/form/div[2]/input</element>
+    <element type="css">input[name="password"]</element>
+    <element type="css">div#loginPanel &gt; form &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="class">inputTGWEBCOMMA2</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/211/2167.png</element>
+  </locator>
+  <locator name="ele_Log118123424227206">
+    <element type="xpath">//input[@value='Log In']</element>
+    <element type="xpath">//div[@id='loginPanel']/form/div[3]/input</element>
+    <element type="css">input.button</element>
+    <element type="css">div#loginPanel &gt; form &gt; div:nth-of-type(3) &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//div[3]/input</element>
+    <element type="class">buttonTGWEBCOMMA2</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/211/2168.png</element>
+  </locator>
+</locators>

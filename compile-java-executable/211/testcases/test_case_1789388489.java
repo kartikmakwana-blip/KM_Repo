@@ -25,7 +25,11 @@ public class test_case_1789388489 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void test_case_1789388489() {
 		tg.openBrowser();
-		tg.wait(1);
+				tg.click("ele_UserN115123424227206", 1);
+				tg.type("ele_UserN115123424227206", "upen");
+				tg.click("ele_UserP117123424227206", 1);
+				tg.type("ele_UserP117123424227206", "1234");
+				tg.click("ele_Log118123424227206", 1);
 		tg.close();
 	}
 }
