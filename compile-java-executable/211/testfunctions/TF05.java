@@ -19,8 +19,16 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-class tf03_upd {
+class tf05 {
 
-	public static void tf03_upd() {
+	public static void tf05() {
+		tg.click("ele_UserN115123424227206", 1);
+		tg.type("ele_UserN115123424227206", "upen");
+		tg.click("ele_UserP117123424227206", 1);
+		tg.type("ele_UserP117123424227206", "1234");
+		tg.click("ele_Log118123424227206sss", 1);
+		tg.testFunction("TF02", new Object[]{});
+		tg.testFunction("TF03", new Object[]{});
+		tg.testFunction("TF04", new Object[]{});
 	}
 }
