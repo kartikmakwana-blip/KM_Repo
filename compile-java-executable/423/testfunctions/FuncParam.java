@@ -18,5 +18,7 @@ import org.testng.annotations.Test;
 class funcparam {
 
 	public static void funcparam() {
+		tg.wait(2);
+		tg.printLogs(var_gstr);
 	}
 }
