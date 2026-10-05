@@ -19,14 +19,17 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-class copyf {
+@Listeners(TestListener.class);
+public class tc1up {
 
-	public static void copyf() {
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void tc1up() {
+		tg.openBrowser();
 		tg.wait("ele_emailemail498", ComparisonType.IS_VISIBLE);
 		tg.click("ele_emailemail498", 1);
 		tg.wait("ele_emailemail498", ComparisonType.IS_VISIBLE);
 		tg.type("ele_emailemail498", "emaillllllll");
 		tg.wait(5);
-		tg.wait(10);
+		tg.close();
 	}
 }
