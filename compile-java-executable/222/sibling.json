@@ -1,0 +1,134 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_divtgwebcomma966",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "body > section:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > form:nth-child(1) > div:nth-child(1) > div:nth-child(3)",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 195,
+                    "d_x": 903,
+                    "d_y": 222,
+                    "suggest_name": "divtgwebcomma966"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div/div[2]",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 195,
+                    "d_x": 903.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "divtgwebcomma966"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div > div:nth-of-type(2)TGWEBCOMMA2",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 195,
+                    "d_x": 903.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "divtgwebcomma966"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form/div/div[2]",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 195,
+                    "d_x": 903.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "divtgwebcomma966"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "col-md-4 col-xs-4 col-sm-4TGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 195,
+                    "d_x": 903.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "divtgwebcomma966"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://117.240.112.135/s/ele-imgs/222/2291.png"
+        },
+        {
+            "testcase_element": "ele_emailemail498",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@value='emaillllllll']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723,
+                    "d_y": 362,
+                    "suggest_name": "emailemail498"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='eid']/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 362.59375,
+                    "suggest_name": "emailemail498"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input.form-control.ng-untouched.ng-invalid.ng-dirty.ng-invalid-email.ng-valid-required",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 362.59375,
+                    "suggest_name": "emailemail498"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#eid > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 362.59375,
+                    "suggest_name": "emailemail498"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form/div[3]/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 362.59375,
+                    "suggest_name": "emailemail498"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-untouched ng-invalid ng-dirty ng-invalid-email ng-valid-requiredTGWEBCOMMA4",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 362.59375,
+                    "suggest_name": "emailemail498"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://117.240.112.135/s/ele-imgs/222/2292.png"
+        }
+    ]
+}

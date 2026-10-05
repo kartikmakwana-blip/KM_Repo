@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_divtgwebcomma966">
+    <element type="css">body &gt; section:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(2) &gt; form:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(3)</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div[2]</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA2</element>
+    <element type="xpath">//form/div/div[2]</element>
+    <element type="class">col-md-4 col-xs-4 col-sm-4TGWEBCOMMA2</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/222/2291.png</element>
+  </locator>
+  <locator name="ele_emailemail498">
+    <element type="xpath">//input[@value='emaillllllll']</element>
+    <element type="xpath">//div[@id='eid']/input</element>
+    <element type="css">input.form-control.ng-untouched.ng-invalid.ng-dirty.ng-invalid-email.ng-valid-required</element>
+    <element type="css">div#eid &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//form/div[3]/div/input</element>
+    <element type="class">form-control ng-untouched ng-invalid ng-dirty ng-invalid-email ng-valid-requiredTGWEBCOMMA4</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/222/2292.png</element>
+  </locator>
+</locators>

@@ -25,7 +25,10 @@ public class tc1 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc1() {
 		tg.openBrowser();
-		tg.wait(1);
+				tg.wait("ele_emailemail498", ComparisonType.IS_VISIBLE);
+				tg.click("ele_emailemail498", 1);
+				tg.wait("ele_emailemail498", ComparisonType.IS_VISIBLE);
+				tg.type("ele_emailemail498", "emaillllllll");
 		tg.close();
 	}
 }
