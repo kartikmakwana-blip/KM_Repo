@@ -30,6 +30,9 @@ public class tc1upd {
 		tg.wait("ele_emailemail498", ComparisonType.IS_VISIBLE);
 		tg.type("ele_emailemail498", "emaillllllll");
 		tg.wait(5);
+		tg.testFunction("Copyfunc", new Object[]{});
+		var_gint = tg.saveToVariable(55, var_gint);
+		var_ra_rint = tg.saveToVariable(222, var_ra_rint);
 		tg.close();
 	}
 }
