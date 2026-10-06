@@ -19,15 +19,15 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-class copy__func__update {
+class func_copy {
 
-	public static void copy__func__update() {
-		tg.wait("ele_emailemail498Update", ComparisonType.IS_VISIBLE);
-		tg.click("ele_emailemail498Update", 1);
-		tg.wait("ele_emailemail498Update", ComparisonType.IS_VISIBLE);
-		tg.type("ele_emailemail498Update", "emaillllllll");
+	public static void func_copy() {
+		tg.wait("ele_emailemail498Updatejfsjkdhfjkshdfjkhsjkdfhjkshdkfj", ComparisonType.IS_VISIBLE);
+		tg.click("ele_emailemail498Updatejfsjkdhfjkshdfjkhsjkdfhjkshdkfj", 1);
+		tg.wait("ele_emailemail498Updatejfsjkdhfjkshdfjkhsjkdfhjkshdkfj", ComparisonType.IS_VISIBLE);
+		tg.type("ele_emailemail498Updatejfsjkdhfjkshdfjkhsjkdfhjkshdkfj", "emaillllllll");
 		tg.wait(5);
-		tg.wait(15);
-		tg.wait(2);
+		var_gintUpd = tg.saveToVariable(55, var_gintUpd);
+		var_ra_rintupd = tg.saveToVariable(222, var_ra_rintupd);
 	}
 }
