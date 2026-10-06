@@ -19,19 +19,15 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-@Listeners(TestListener.class);
-public class tc1upd {
+class copy__func_ {
 
-	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc1upd() {
-		tg.openBrowser();
-		tg.wait("ele_emailemail498Updatejfsjkdhfjkshdfjkhsjkdfhjkshdkfj", ComparisonType.IS_VISIBLE);
-		tg.click("ele_emailemail498Updatejfsjkdhfjkshdfjkhsjkdfhjkshdkfj", 1);
-		tg.wait("ele_emailemail498Updatejfsjkdhfjkshdfjkhsjkdfhjkshdkfj", ComparisonType.IS_VISIBLE);
-		tg.type("ele_emailemail498Updatejfsjkdhfjkshdfjkhsjkdfhjkshdkfj", "emaillllllll");
+	public static void copy__func_() {
+		tg.wait("ele_emailemail498Update", ComparisonType.IS_VISIBLE);
+		tg.click("ele_emailemail498Update", 1);
+		tg.wait("ele_emailemail498Update", ComparisonType.IS_VISIBLE);
+		tg.type("ele_emailemail498Update", "emaillllllll");
 		tg.wait(5);
-		var_gintUpd = tg.saveToVariable(55, var_gintUpd);
-		var_ra_rintupd = tg.saveToVariable(222, var_ra_rintupd);
-		tg.close();
+		tg.wait(15);
+		tg.wait(2);
 	}
 }
