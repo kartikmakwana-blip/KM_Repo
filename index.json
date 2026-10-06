@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-10-06 15:27:33",
+            "view_updated_date_time": "2026-10-06 15:29:34",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": "2",
@@ -224,11 +224,11 @@
                             "version_page_id": "297",
                             "page_name": "Register",
                             "version_module_id": "222",
-                            "element_name": "ele_emailemail498Updatejfsjkdhfjkshdfjkhsjkdfhjkshdkfj",
-                            "element_display_name": "email_Input_update",
+                            "element_name": "ele_emailemail498Update",
+                            "element_display_name": "email_Input",
                             "element_image_url": "http://117.240.112.135/s/ele-imgs/222/2292.png",
                             "element_path_rid": "//input[@value='emaillllllll']",
-                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/input[@value='emaillllllll']\",\"locator_id\":\"3\",\"d_h\":34,\"d_w\":165,\"d_x\":723.75,\"d_y\":362.59375,\"suggest_name\":\"ele_emailemail498Updatejfsjkdhfjkshdfjkhsjkdfhjkshdkfj\"},{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/div[@id='eid']\\/input\",\"locator_id\":\"3\",\"d_h\":34,\"d_w\":165,\"d_x\":723.75,\"d_y\":362.59375,\"suggest_name\":\"ele_emailemail498Updatejfsjkdhfjkshdfjkhsjkdfhjkshdkfj\"},{\"locators\":\"CSS selector\",\"locators_val\":\"input.form-control.ng-untouched.ng-invalid.ng-dirty.ng-invalid-email.ng-valid-required\",\"locator_id\":\"9\",\"d_h\":34,\"d_w\":165,\"d_x\":723.75,\"d_y\":362.59375,\"suggest_name\":\"ele_emailemail498Updatejfsjkdhfjkshdfjkhsjkdfhjkshdkfj\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div#eid > inputTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":34,\"d_w\":165,\"d_x\":723.75,\"d_y\":362.59375,\"suggest_name\":\"ele_emailemail498Updatejfsjkdhfjkshdfjkhsjkdfhjkshdkfj\"},{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/form\\/div[3]\\/div\\/input\",\"locator_id\":\"3\",\"d_h\":34,\"d_w\":165,\"d_x\":723.75,\"d_y\":362.59375,\"suggest_name\":\"ele_emailemail498Updatejfsjkdhfjkshdfjkhsjkdfhjkshdkfj\"},{\"locators\":\"Tag\",\"locators_val\":\"inputTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":34,\"d_w\":165,\"d_x\":723.75,\"d_y\":362.59375,\"suggest_name\":\"ele_emailemail498Updatejfsjkdhfjkshdfjkhsjkdfhjkshdkfj\"},{\"locators\":\"class\",\"locators_val\":\"form-control ng-untouched ng-invalid ng-dirty ng-invalid-email ng-valid-requiredTGWEBCOMMA4\",\"locator_id\":\"6\",\"d_h\":34,\"d_w\":165,\"d_x\":723.75,\"d_y\":362.59375,\"suggest_name\":\"ele_emailemail498Updatejfsjkdhfjkshdfjkhsjkdfhjkshdkfj\"}]",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/input[@value='emaillllllll']\",\"locator_id\":\"3\",\"d_h\":34,\"d_w\":165,\"d_x\":723.75,\"d_y\":362.59375,\"suggest_name\":\"ele_emailemail498Update\"},{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/div[@id='eid']\\/input\",\"locator_id\":\"3\",\"d_h\":34,\"d_w\":165,\"d_x\":723.75,\"d_y\":362.59375,\"suggest_name\":\"ele_emailemail498Update\"},{\"locators\":\"CSS selector\",\"locators_val\":\"input.form-control.ng-untouched.ng-invalid.ng-dirty.ng-invalid-email.ng-valid-required\",\"locator_id\":\"9\",\"d_h\":34,\"d_w\":165,\"d_x\":723.75,\"d_y\":362.59375,\"suggest_name\":\"ele_emailemail498Update\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div#eid > inputTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":34,\"d_w\":165,\"d_x\":723.75,\"d_y\":362.59375,\"suggest_name\":\"ele_emailemail498Update\"},{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/form\\/div[3]\\/div\\/input\",\"locator_id\":\"3\",\"d_h\":34,\"d_w\":165,\"d_x\":723.75,\"d_y\":362.59375,\"suggest_name\":\"ele_emailemail498Update\"},{\"locators\":\"Tag\",\"locators_val\":\"inputTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":34,\"d_w\":165,\"d_x\":723.75,\"d_y\":362.59375,\"suggest_name\":\"ele_emailemail498Update\"},{\"locators\":\"class\",\"locators_val\":\"form-control ng-untouched ng-invalid ng-dirty ng-invalid-email ng-valid-requiredTGWEBCOMMA4\",\"locator_id\":\"6\",\"d_h\":34,\"d_w\":165,\"d_x\":723.75,\"d_y\":362.59375,\"suggest_name\":\"ele_emailemail498Update\"}]",
                             "shadow_data": "",
                             "sibling_selector": "",
                             "tg_text": "",
@@ -277,11 +277,11 @@
             "app_id": "99",
             "version_id": "206",
             "variable_type": "int",
-            "variable_name": "gintUpd",
+            "variable_name": "ssssgintUpd",
             "variable_value": "200",
             "gv_category": "global",
             "created": "2026-10-05 06:24:44",
-            "updated": "2026-10-06 15:27:24"
+            "updated": "2026-10-06 15:30:02"
         },
         {
             "variable_id": "474",
@@ -289,11 +289,11 @@
             "app_id": "99",
             "version_id": "206",
             "variable_type": "int",
-            "variable_name": "rintupd",
+            "variable_name": "ssssrintupd",
             "variable_value": "100",
             "gv_category": "runtime",
             "created": "2026-10-05 06:24:44",
-            "updated": "2026-10-06 15:27:24"
+            "updated": "2026-10-06 15:30:02"
         }
     ],
     "ab_scheduler": [],
