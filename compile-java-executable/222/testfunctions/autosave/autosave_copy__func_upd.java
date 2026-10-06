@@ -19,13 +19,13 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-class copyfunc {
+class copy__func_upd {
 
-	public static void copyfunc() {
-		tg.wait("ele_emailemail498", ComparisonType.IS_VISIBLE);
-		tg.click("ele_emailemail498", 1);
-		tg.wait("ele_emailemail498", ComparisonType.IS_VISIBLE);
-		tg.type("ele_emailemail498", "emaillllllll");
+	public static void copy__func_upd() {
+		tg.wait("ele_emailemail498Update", ComparisonType.IS_VISIBLE);
+		tg.click("ele_emailemail498Update", 1);
+		tg.wait("ele_emailemail498Update", ComparisonType.IS_VISIBLE);
+		tg.type("ele_emailemail498Update", "emaillllllll");
 		tg.wait(5);
 		tg.wait(15);
 		tg.wait(2);
