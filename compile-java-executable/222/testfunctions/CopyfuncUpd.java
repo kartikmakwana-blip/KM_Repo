@@ -22,10 +22,10 @@ import org.testng.annotations.Test;
 class copyfuncupd {
 
 	public static void copyfuncupd() {
-		tg.wait("ele_emailemail498Update", ComparisonType.IS_VISIBLE);
-		tg.click("ele_emailemail498Update", 1);
-		tg.wait("ele_emailemail498Update", ComparisonType.IS_VISIBLE);
-		tg.type("ele_emailemail498Update", "emaillllllll");
+		tg.wait("ele_emailemail498Updatessssssssss", ComparisonType.IS_VISIBLE);
+		tg.click("ele_emailemail498Updatessssssssss", 1);
+		tg.wait("ele_emailemail498Updatessssssssss", ComparisonType.IS_VISIBLE);
+		tg.type("ele_emailemail498Updatessssssssss", "emaillllllll");
 		tg.wait(5);
 		tg.wait(15);
 		tg.wait(2);
