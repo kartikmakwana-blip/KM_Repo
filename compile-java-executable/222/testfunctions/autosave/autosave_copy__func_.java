@@ -22,10 +22,10 @@ import org.testng.annotations.Test;
 class copy__func_ {
 
 	public static void copy__func_() {
-		tg.wait("ele_emailemail498Updatessssssssss", ComparisonType.IS_VISIBLE);
-		tg.click("ele_emailemail498Updatessssssssss", 1);
-		tg.wait("ele_emailemail498Updatessssssssss", ComparisonType.IS_VISIBLE);
-		tg.type("ele_emailemail498Updatessssssssss", "emaillllllll");
+		tg.wait("ele_emailemail498Updatesss", ComparisonType.IS_VISIBLE);
+		tg.click("ele_emailemail498Updatesss", 1);
+		tg.wait("ele_emailemail498Updatesss", ComparisonType.IS_VISIBLE);
+		tg.type("ele_emailemail498Updatesss", "emaillllllll");
 		tg.wait(5);
 		tg.wait(15);
 		tg.wait(2);
