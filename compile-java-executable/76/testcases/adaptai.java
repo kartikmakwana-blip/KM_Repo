@@ -21,7 +21,11 @@ public class adaptai {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void adaptai() {
 		tg.openDevice();
-		tg.wait(1);
+		tg.wait(2);
+		tg.aiPrompt("- Wait for the visibility of Full name \n- Type demo text in FullName\n");
+		tg.wait(2);
+		tg.aiPrompt("- Wait for the clear button visible\n- Tap on Clear button.");
+		tg.wait(2);
 		tg.close();
 	}
 }

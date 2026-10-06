@@ -21,7 +21,10 @@ public class func_param {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void func_param() {
 		tg.openDevice();
-		tg.wait(1);
+		tg_String var_v1 = "Null";
+		tg.printLogs(var_v1);
+		var_v1 = (String) tg.testFunction("FuncParam", new Object[]{"Jhon", "Doe", "Khadol", "Facebook", "Developer", "abc@demo.com", "Deactive"});
+		tg.printLogs(var_v1);
 		tg.close();
 	}
 }
