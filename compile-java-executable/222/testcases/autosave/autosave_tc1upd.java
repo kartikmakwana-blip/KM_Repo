@@ -25,13 +25,13 @@ public class tc1upd {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc1upd() {
 		tg.openBrowser();
-				tg.wait("ele_emailemail498", ComparisonType.IS_VISIBLE);
-				tg.click("ele_emailemail498", 1);
-				tg.wait("ele_emailemail498", ComparisonType.IS_VISIBLE);
-				tg.type("ele_emailemail498", "emaillllllll");
+				tg.wait("ele_ssssemailemail498", ComparisonType.IS_VISIBLE);
+				tg.click("ele_ssssemailemail498", 1);
+				tg.wait("ele_ssssemailemail498", ComparisonType.IS_VISIBLE);
+				tg.type("ele_ssssemailemail498", "emaillllllll");
 				tg.wait(5);
-				var_gintUpd = tg.saveToVariable(55, var_gintUpd);
-				var_ra_rintupd = tg.saveToVariable(222, var_ra_rintupd);
+				var_sssgintUpd = tg.saveToVariable(55, var_sssgintUpd);
+				var_ra_sssrintupd = tg.saveToVariable(222, var_ra_sssrintupd);
 		tg.close();
 	}
 }
