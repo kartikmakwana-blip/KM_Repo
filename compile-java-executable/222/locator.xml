@@ -8,7 +8,7 @@
     <element type="class">col-md-4 col-xs-4 col-sm-4TGWEBCOMMA2</element>
     <element type="image">http://117.240.112.135/s/ele-imgs/222/2291.png</element>
   </locator>
-  <locator name="ele_emailemail498Updatesss">
+  <locator name="ele_emailemail498Updatessssssss">
     <element type="xpath">//input[@value='emaillllllll']</element>
     <element type="xpath">//div[@id='eid']/input</element>
     <element type="css">input.form-control.ng-untouched.ng-invalid.ng-dirty.ng-invalid-email.ng-valid-required</element>
