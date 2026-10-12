@@ -25,21 +25,23 @@ public class tapbyimageandwrtcsv {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tapbyimageandwrtcsv() {
 		tg.openBrowser();
-				tg_String var_Name = "Ronit";
-				tg_String var_Lname = "Pandulkar";
+				tg_String var_Name = "Test1";
+				tg_String var_Lname = "Team1";
 				tg_int var_Num1 = 1000;
-				tg.type("ele_input387", var_Name);
-				tg.type("ele_input109", var_Lname);
+				tg.type("ele_firstnameInput", var_Name);
+				tg.type("ele_LastName", var_Lname);
 				tg.scrollToElement("ele_Submit", Direction.DOWN);
 				tg.tapByImage("ele_Submit", 0.65);
 				tg.writeToCSV("var_Name", var_Name, "");
 				tg.writeToCSV("var_Lname", var_Lname, "");
 				tg.writeToCSV("var_Num1", var_Num1, "");
-				var_Name = tg.saveToVariable("test", var_Name);
+				var_Name = tg.saveToVariable("Test2", var_Name);
+				var_Lname = tg.saveToVariable("Team2", var_Lname);
 				var_Num1 = tg.saveToVariable(500, var_Num1);
-				tg.writeToCSV("var_Name", var_Name, "");
-				tg.writeToCSV("var_Lname", var_Lname, "");
-				tg.writeToCSV("var_Num1", var_Num1, "");
+				tg.writeToCSV("var_Name", var_Name, var_gstr);
+				tg.writeToCSV("var_Lname", var_Lname, "Abcd");
+				tg.writeToCSV("var_Num1", var_Num1, var_gstr);
+				tg.tapByImage("https://poc28.testgrid.io/drive/file/6?user_token=x8ogrq1a1dw3bx5z4cc7ya16wh45s6tp", 0.65);
 		tg.close();
 	}
 }

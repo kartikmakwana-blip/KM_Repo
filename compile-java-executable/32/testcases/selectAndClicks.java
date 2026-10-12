@@ -25,11 +25,12 @@ public class selectandclicks {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void selectandclicks() {
 		tg.openBrowser();
-				tg.selectDropdownByValue("ele_year191619171918191919201921192219231924","2000");
+				tg.navigateToUrl("https://demo.automationtesting.in/Register.html");
+				tg.selectDropdownByValue("ele_Selectyear","2000");
 				tg.wait(1);
-				tg.selectDropdownByIndex("ele_MonthJanuaryFebruaryMarchAprilMayJuneJulyA",1);
+				tg.selectDropdownByIndex("ele_SelectMonth",4);
 				tg.wait(1);
-				tg.selectDropdownByValue("ele_Day1234567891011121314151617181","5");
+				tg.selectDropdownByValue("ele_SelectDay","5");
 				tg.openNewTab();
 				tg.navigateToUrl("https://demoqa.com/buttons");
 				tg.performDoubleClick("ele_DoubleClickMe");

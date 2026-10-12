@@ -25,12 +25,14 @@ public class iframe {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void iframe() {
 		tg.openBrowser();
+				tg.navigateToUrl(var_iFRameURL);
 				tg.wait(2);
-				tg.click("ele_iframewithinaniframe", 1);
-				tg.wait(1);
-				tg.switchToFrame("ele_pYourbrowserdoesnotsupportiframesp");
-				tg.switchToParentFrame();
-				tg.switchToDefaultContent();
+				tg.click("ele_textboxsha205", 1);
+				tg.type("ele_textboxsha205", "Testgrid");
+				tg.wait("ele_nestediframe", ComparisonType.IS_VISIBLE);
+				tg.click("ele_nestediframe", 1);
+				tg.wait("ele_Nestediframetextbox2", ComparisonType.IS_VISIBLE);
+				tg.type("ele_Nestediframetextbox2", "Testgrid");
 		tg.close();
 	}
 }

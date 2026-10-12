@@ -103,10 +103,10 @@
                     "locators": "CSS Selector",
                     "locators_val": "button#submitbtnTGWEBCOMMA0",
                     "locator_id": "9",
-                    "d_h": 34,
-                    "d_w": 70,
-                    "d_x": 570,
-                    "d_y": 540,
+                    "d_h": 48,
+                    "d_w": 81,
+                    "d_x": 840,
+                    "d_y": 916,
                     "suggest_name": "Submit"
                 },
                 {
@@ -1581,13 +1581,22 @@
             "locator": [
                 {
                     "locators": "CSS Selector",
-                    "locators_val": "button#button-hover-overTGWEBCOMMA0",
+                    "locators_val": "button#button-hover-overTGWEBCOMMA1",
                     "locator_id": "9",
                     "d_h": 38,
                     "d_w": 257,
                     "d_x": 270,
                     "d_y": 287,
-                    "suggest_name": "Hover over me, example no.2"
+                    "suggest_name": "ele_Hoverovermeexampleno2"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 257,
+                    "d_x": 270,
+                    "d_y": 287.296875,
+                    "locators": "CSS selector",
+                    "locators_val": "button#button-hover-overTGWEBCOMMA0",
+                    "suggest_name": "ele_Hoverovermeexampleno2"
                 },
                 {
                     "d_h": 38,
@@ -1596,7 +1605,7 @@
                     "d_y": 287.296875,
                     "locators": "Xpath",
                     "locators_val": "//button[@id='button-hover-over']",
-                    "suggest_name": "Hover over me, example no.2"
+                    "suggest_name": "ele_Hoverovermeexampleno2"
                 },
                 {
                     "d_h": 38,
@@ -1605,7 +1614,7 @@
                     "d_y": 287.296875,
                     "locators": "Xpath",
                     "locators_val": "//html[1]/body[1]/div[1]/div[1]/button[1]",
-                    "suggest_name": "Hover over me, example no.2"
+                    "suggest_name": "ele_Hoverovermeexampleno2"
                 },
                 {
                     "d_h": 38,
@@ -1614,7 +1623,7 @@
                     "d_y": 287.296875,
                     "locators": "class",
                     "locators_val": "btn btn-primary myDIVTGWEBCOMMA2",
-                    "suggest_name": "Hover over me, example no.2"
+                    "suggest_name": "ele_Hoverovermeexampleno2"
                 },
                 {
                     "d_h": 38,
@@ -1623,7 +1632,7 @@
                     "d_y": 287.296875,
                     "locators": "id",
                     "locators_val": "button-hover-overTGWEBCOMMA1",
-                    "suggest_name": "Hover over me, example no.2"
+                    "suggest_name": "ele_Hoverovermeexampleno2"
                 }
             ],
             "iframe_and_shadow_root_data": [],
@@ -1891,6 +1900,3742 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": "http://10.0.161.5/s/ele-imgs/32/392.png"
+        },
+        {
+            "testcase_element": "ele_firstname302",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "placeholder": "First Name",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "ng-model": "FirstName",
+                        "required": "",
+                        "style": "outline: none !important; box-shadow: none !important;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@placeholder='First Name']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723,
+                    "d_y": 222,
+                    "suggest_name": "firstname302"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname302"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname302"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div > div > inputTGWEBCOMMA5",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname302"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname302"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname302"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/463.png"
+        },
+        {
+            "testcase_element": "ele_lastname578",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "placeholder": "Last Name",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "ng-model": "LastName",
+                        "required": "",
+                        "style": "outline: none !important; box-shadow: none !important;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@placeholder='Last Name']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918,
+                    "d_y": 222,
+                    "suggest_name": "lastname578"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div/div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname578"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname578"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div > div:nth-of-type(2) > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname578"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname578"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname578"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/464.png"
+        },
+        {
+            "testcase_element": "ele_textboxsha205",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-xs-6 col-xs-offset-5",
+                        "style": "margin-top: 150px"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "style": "box-shadow: none !important; outline: none !important;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@type='text']",
+                    "locator_id": "3",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 263,
+                    "d_y": 185,
+                    "suggest_name": "textboxsha205"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[type=\"text\"]",
+                    "locator_id": "9",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 263.328125,
+                    "d_y": 185.390625,
+                    "suggest_name": "textboxsha205"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > section > div > div > div > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 263.328125,
+                    "d_y": 185.390625,
+                    "suggest_name": "textboxsha205"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 263.328125,
+                    "d_y": 185.390625,
+                    "suggest_name": "textboxsha205"
+                }
+            ],
+            "iframe_and_shadow_root_data": [
+                {
+                    "is_secure_field": false,
+                    "is_extension": true,
+                    "element_list": [
+                        {
+                            "ele_id": 2,
+                            "value": "ele_pyourbrows580",
+                            "element_display_name": "pYour browser does not support ",
+                            "elementTag": "iframeTGWEBCOMMA0",
+                            "display_name": "pyourbrows580!@!@",
+                            "page_name": "",
+                            "element_image": "",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//iframe[@id='singleframe']\",\"locator_id\":\"3\",\"d_h\":300,\"d_w\":600,\"d_x\":687.5,\"d_y\":309.59375,\"suggest_name\":\"pyourbrows580\"},{\"locators\":\"id\",\"locators_val\":\"singleframeTGWEBCOMMA1\",\"locator_id\":\"7\",\"d_h\":300,\"d_w\":600,\"d_x\":687.5,\"d_y\":309.59375,\"suggest_name\":\"pyourbrows580\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#singleframe\",\"locator_id\":\"9\",\"d_h\":300,\"d_w\":600,\"d_x\":687.5,\"d_y\":309.59375,\"suggest_name\":\"pyourbrows580\"},{\"locators\":\"Tag\",\"locators_val\":\"iframeTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":300,\"d_w\":600,\"d_x\":687.5,\"d_y\":309.59375,\"suggest_name\":\"pyourbrows580\"}]",
+                            "data": {
+                                "element_name": "pyourbrows580",
+                                "script_type": 1,
+                                "platform": 3,
+                                "typeofelement": "3",
+                                "value": [
+                                    "//iframe[@id='singleframe']"
+                                ],
+                                "temp_element_id": 0,
+                                "pagenameis": "",
+                                "d_h": 300,
+                                "d_w": 600,
+                                "d_x": 687.5,
+                                "d_y": 309.59375,
+                                "radious": 0,
+                                "version_module_id": 0,
+                                "autoheal_elements": [
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//iframe[@id='singleframe']",
+                                        "locator_id": "3",
+                                        "d_h": 300,
+                                        "d_w": 600,
+                                        "d_x": 687.5,
+                                        "d_y": 309.59375,
+                                        "suggest_name": "pyourbrows580"
+                                    },
+                                    {
+                                        "locators": "id",
+                                        "locators_val": "singleframeTGWEBCOMMA1",
+                                        "locator_id": "7",
+                                        "d_h": 300,
+                                        "d_w": 600,
+                                        "d_x": 687.5,
+                                        "d_y": 309.59375,
+                                        "suggest_name": "pyourbrows580"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "#singleframe",
+                                        "locator_id": "9",
+                                        "d_h": 300,
+                                        "d_w": 600,
+                                        "d_x": 687.5,
+                                        "d_y": 309.59375,
+                                        "suggest_name": "pyourbrows580"
+                                    },
+                                    {
+                                        "locators": "Tag",
+                                        "locators_val": "iframeTGWEBCOMMA0",
+                                        "locator_id": "8",
+                                        "d_h": 300,
+                                        "d_w": 600,
+                                        "d_x": 687.5,
+                                        "d_y": 309.59375,
+                                        "suggest_name": "pyourbrows580"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "element_type": "iframe"
+                }
+            ],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/465.png"
+        },
+        {
+            "testcase_element": "ele_iframewith844",
+            "tg_text": "Iframe with in an Iframe",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "#Multiple",
+                        "data-toggle": "tab",
+                        "class": "analystic",
+                        "style": "outline: none !important; box-shadow: none !important;"
+                    },
+                    "tg_text": "Iframe with in an Iframe"
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[contains(text(),'Iframe with in an Iframe')]",
+                    "locator_id": "3",
+                    "d_h": 42,
+                    "d_w": 191,
+                    "d_x": 807,
+                    "d_y": 209,
+                    "suggest_name": "iframewith844"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "li:nth-of-type(2) > a.analystic",
+                    "locator_id": "9",
+                    "d_h": 42,
+                    "d_w": 191,
+                    "d_x": 807.125,
+                    "d_y": 209.59375,
+                    "suggest_name": "iframewith844"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > section > div > div > div > div > div > div > ul > li:nth-of-type(2) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 42,
+                    "d_w": 191,
+                    "d_x": 807.125,
+                    "d_y": 209.59375,
+                    "suggest_name": "iframewith844"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Iframe with in an IfTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 42,
+                    "d_w": 191,
+                    "d_x": 807.125,
+                    "d_y": 209.59375,
+                    "suggest_name": "iframewith844"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Iframe with in an IframeTGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 42,
+                    "d_w": 191,
+                    "d_x": 807.125,
+                    "d_y": 209.59375,
+                    "suggest_name": "iframewith844"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/div/div/ul/li[2]/a",
+                    "locator_id": "3",
+                    "d_h": 42,
+                    "d_w": 191,
+                    "d_x": 807.125,
+                    "d_y": 209.59375,
+                    "suggest_name": "iframewith844"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "analysticTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 42,
+                    "d_w": 191,
+                    "d_x": 807.125,
+                    "d_y": 209.59375,
+                    "suggest_name": "iframewith844"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/466.png"
+        },
+        {
+            "testcase_element": "ele_textoutlin781",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-xs-6 col-xs-offset-5",
+                        "style": "margin-top: 150px"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "style": "outline: none !important; box-shadow: none !important;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@type='text']",
+                    "locator_id": "3",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185,
+                    "suggest_name": "textoutlin781"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[type=\"text\"]",
+                    "locator_id": "9",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185.390625,
+                    "suggest_name": "textoutlin781"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > section > div > div > div > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185.390625,
+                    "suggest_name": "textoutlin781"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185.390625,
+                    "suggest_name": "textoutlin781"
+                }
+            ],
+            "iframe_and_shadow_root_data": [
+                {
+                    "is_secure_field": false,
+                    "is_extension": true,
+                    "element_list": [
+                        {
+                            "ele_id": 2,
+                            "value": "ele_pyourbrows711",
+                            "element_display_name": "pYour browser does not support ",
+                            "elementTag": "iframeTGWEBCOMMA0",
+                            "display_name": "pyourbrows711!@!@",
+                            "page_name": "",
+                            "element_image": "",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//iframe[contains(text(),'<p>Your browser does not support iframes.</p>')]\",\"locator_id\":\"3\",\"d_h\":250,\"d_w\":400,\"d_x\":98,\"d_y\":40.6875,\"suggest_name\":\"pyourbrows711\"},{\"locators\":\"CSS selector\",\"locators_val\":\"body > section:nth-child(1) > div:nth-child(1) > div:nth-child(1) > iframe:nth-child(2)\",\"locator_id\":\"9\",\"d_h\":250,\"d_w\":400,\"d_x\":98,\"d_y\":40.6875,\"suggest_name\":\"pyourbrows711\"},{\"locators\":\"Tag\",\"locators_val\":\"iframeTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":250,\"d_w\":400,\"d_x\":98,\"d_y\":40.6875,\"suggest_name\":\"pyourbrows711\"}]",
+                            "data": {
+                                "element_name": "pyourbrows711",
+                                "script_type": 1,
+                                "platform": 3,
+                                "typeofelement": "3",
+                                "value": [
+                                    "//iframe[contains(text(),'<p>Your browser does not support iframes.</p>')]"
+                                ],
+                                "temp_element_id": 0,
+                                "pagenameis": "",
+                                "d_h": 250,
+                                "d_w": 400,
+                                "d_x": 98,
+                                "d_y": 40.6875,
+                                "radious": 0,
+                                "version_module_id": 0,
+                                "autoheal_elements": [
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//iframe[contains(text(),'<p>Your browser does not support iframes.</p>')]",
+                                        "locator_id": "3",
+                                        "d_h": 250,
+                                        "d_w": 400,
+                                        "d_x": 98,
+                                        "d_y": 40.6875,
+                                        "suggest_name": "pyourbrows711"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "body > section:nth-child(1) > div:nth-child(1) > div:nth-child(1) > iframe:nth-child(2)",
+                                        "locator_id": "9",
+                                        "d_h": 250,
+                                        "d_w": 400,
+                                        "d_x": 98,
+                                        "d_y": 40.6875,
+                                        "suggest_name": "pyourbrows711"
+                                    },
+                                    {
+                                        "locators": "Tag",
+                                        "locators_val": "iframeTGWEBCOMMA0",
+                                        "locator_id": "8",
+                                        "d_h": 250,
+                                        "d_w": 400,
+                                        "d_x": 98,
+                                        "d_y": 40.6875,
+                                        "suggest_name": "pyourbrows711"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "element_type": "iframe"
+                }
+            ],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/467.png"
+        },
+        {
+            "testcase_element": "ele_textboxsha305",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-xs-6 col-xs-offset-5",
+                        "style": "margin-top: 150px"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "style": "box-shadow: none; outline: none;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@type='text']",
+                    "locator_id": "3",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185,
+                    "suggest_name": "textboxsha305"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[type=\"text\"]",
+                    "locator_id": "9",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185.390625,
+                    "suggest_name": "textboxsha305"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > section > div > div > div > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185.390625,
+                    "suggest_name": "textboxsha305"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185.390625,
+                    "suggest_name": "textboxsha305"
+                }
+            ],
+            "iframe_and_shadow_root_data": [
+                {
+                    "is_secure_field": false,
+                    "is_extension": true,
+                    "element_list": [
+                        {
+                            "ele_id": 2,
+                            "value": "ele_pyourbrows763",
+                            "element_display_name": "pYour browser does not support ",
+                            "elementTag": "iframeTGWEBCOMMA0",
+                            "display_name": "pyourbrows763!@!@",
+                            "page_name": "",
+                            "element_image": "",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//iframe[contains(text(),'<p>Your browser does not support iframes.</p>')]\",\"locator_id\":\"3\",\"d_h\":250,\"d_w\":400,\"d_x\":98,\"d_y\":40.6875,\"suggest_name\":\"pyourbrows763\"},{\"locators\":\"CSS selector\",\"locators_val\":\"body > section:nth-child(1) > div:nth-child(1) > div:nth-child(1) > iframe:nth-child(2)\",\"locator_id\":\"9\",\"d_h\":250,\"d_w\":400,\"d_x\":98,\"d_y\":40.6875,\"suggest_name\":\"pyourbrows763\"},{\"locators\":\"Tag\",\"locators_val\":\"iframeTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":250,\"d_w\":400,\"d_x\":98,\"d_y\":40.6875,\"suggest_name\":\"pyourbrows763\"}]",
+                            "data": {
+                                "element_name": "pyourbrows763",
+                                "script_type": 1,
+                                "platform": 3,
+                                "typeofelement": "3",
+                                "value": [
+                                    "//iframe[contains(text(),'<p>Your browser does not support iframes.</p>')]"
+                                ],
+                                "temp_element_id": 0,
+                                "pagenameis": "",
+                                "d_h": 250,
+                                "d_w": 400,
+                                "d_x": 98,
+                                "d_y": 40.6875,
+                                "radious": 0,
+                                "version_module_id": 0,
+                                "autoheal_elements": [
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//iframe[contains(text(),'<p>Your browser does not support iframes.</p>')]",
+                                        "locator_id": "3",
+                                        "d_h": 250,
+                                        "d_w": 400,
+                                        "d_x": 98,
+                                        "d_y": 40.6875,
+                                        "suggest_name": "pyourbrows763"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "body > section:nth-child(1) > div:nth-child(1) > div:nth-child(1) > iframe:nth-child(2)",
+                                        "locator_id": "9",
+                                        "d_h": 250,
+                                        "d_w": 400,
+                                        "d_x": 98,
+                                        "d_y": 40.6875,
+                                        "suggest_name": "pyourbrows763"
+                                    },
+                                    {
+                                        "locators": "Tag",
+                                        "locators_val": "iframeTGWEBCOMMA0",
+                                        "locator_id": "8",
+                                        "d_h": 250,
+                                        "d_w": 400,
+                                        "d_x": 98,
+                                        "d_y": 40.6875,
+                                        "suggest_name": "pyourbrows763"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "element_type": "iframe"
+                }
+            ],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/468.png"
+        },
+        {
+            "testcase_element": "ele_textboxsha081",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-xs-6 col-xs-offset-5",
+                        "style": "margin-top: 150px"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "style": "box-shadow: none;",
+                        "value": "testgrid"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@value='testgrid']",
+                    "locator_id": "3",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185,
+                    "suggest_name": "textboxsha081"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[type=\"text\"]",
+                    "locator_id": "9",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185.390625,
+                    "suggest_name": "textboxsha081"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > section > div > div > div > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185.390625,
+                    "suggest_name": "textboxsha081"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185.390625,
+                    "suggest_name": "textboxsha081"
+                }
+            ],
+            "iframe_and_shadow_root_data": [
+                {
+                    "is_secure_field": false,
+                    "is_extension": true,
+                    "element_list": [
+                        {
+                            "ele_id": 2,
+                            "value": "ele_pyourbrows330",
+                            "element_display_name": "pYour browser does not support ",
+                            "elementTag": "iframeTGWEBCOMMA0",
+                            "display_name": "pyourbrows330!@!@",
+                            "page_name": "",
+                            "element_image": "",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//iframe[contains(text(),'<p>Your browser does not support iframes.</p>')]\",\"locator_id\":\"3\",\"d_h\":250,\"d_w\":400,\"d_x\":98,\"d_y\":40.6875,\"suggest_name\":\"pyourbrows330\"},{\"locators\":\"CSS selector\",\"locators_val\":\"body > section:nth-child(1) > div:nth-child(1) > div:nth-child(1) > iframe:nth-child(2)\",\"locator_id\":\"9\",\"d_h\":250,\"d_w\":400,\"d_x\":98,\"d_y\":40.6875,\"suggest_name\":\"pyourbrows330\"},{\"locators\":\"Tag\",\"locators_val\":\"iframeTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":250,\"d_w\":400,\"d_x\":98,\"d_y\":40.6875,\"suggest_name\":\"pyourbrows330\"}]",
+                            "data": {
+                                "element_name": "pyourbrows330",
+                                "script_type": 1,
+                                "platform": 3,
+                                "typeofelement": "3",
+                                "value": [
+                                    "//iframe[contains(text(),'<p>Your browser does not support iframes.</p>')]"
+                                ],
+                                "temp_element_id": 0,
+                                "pagenameis": "",
+                                "d_h": 250,
+                                "d_w": 400,
+                                "d_x": 98,
+                                "d_y": 40.6875,
+                                "radious": 0,
+                                "version_module_id": 0,
+                                "autoheal_elements": [
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//iframe[contains(text(),'<p>Your browser does not support iframes.</p>')]",
+                                        "locator_id": "3",
+                                        "d_h": 250,
+                                        "d_w": 400,
+                                        "d_x": 98,
+                                        "d_y": 40.6875,
+                                        "suggest_name": "pyourbrows330"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "body > section:nth-child(1) > div:nth-child(1) > div:nth-child(1) > iframe:nth-child(2)",
+                                        "locator_id": "9",
+                                        "d_h": 250,
+                                        "d_w": 400,
+                                        "d_x": 98,
+                                        "d_y": 40.6875,
+                                        "suggest_name": "pyourbrows330"
+                                    },
+                                    {
+                                        "locators": "Tag",
+                                        "locators_val": "iframeTGWEBCOMMA0",
+                                        "locator_id": "8",
+                                        "d_h": 250,
+                                        "d_w": 400,
+                                        "d_x": 98,
+                                        "d_y": 40.6875,
+                                        "suggest_name": "pyourbrows330"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "element_type": "iframe"
+                }
+            ],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/469.png"
+        },
+        {
+            "testcase_element": "ele_element729",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "javascript: void(0)",
+                        "id": "nav-hamburger-menu",
+                        "role": "button",
+                        "aria-label": "Open All Categories Menu",
+                        "aria-expanded": "false",
+                        "data-csa-c-type": "widget",
+                        "data-csa-c-slot-id": "HamburgerMenuDesktop",
+                        "data-csa-c-interaction-events": "click",
+                        "data-csa-c-id": "rfrdgp-6ppwjb-21zke4-4apd9e",
+                        "style": "box-shadow: none !important;"
+                    },
+                    "tg_text": null
+                },
+                "next_sibling": {
+                    "tag": "span",
+                    "tg_attributes": {
+                        "class": "hm-icon-label"
+                    },
+                    "tg_text": "All"
+                },
+                "current_element_attrs": {
+                    "tag": "i",
+                    "tg_attributes": {
+                        "class": "hm-icon nav-sprite",
+                        "style": "outline: none !important; box-shadow: none !important;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[@id='nav-hamburger-menu']//i",
+                    "locator_id": "3",
+                    "d_h": 14,
+                    "d_w": 17,
+                    "d_x": 24,
+                    "d_y": 72,
+                    "suggest_name": "element729"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a[@id='nav-hamburger-menu']/i",
+                    "locator_id": "3",
+                    "d_h": 14,
+                    "d_w": 17,
+                    "d_x": 24,
+                    "d_y": 72.5,
+                    "suggest_name": "element729"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "i.hm-icon.nav-sprite",
+                    "locator_id": "9",
+                    "d_h": 14,
+                    "d_w": 17,
+                    "d_x": 24,
+                    "d_y": 72.5,
+                    "suggest_name": "element729"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "a#nav-hamburger-menu > iTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 14,
+                    "d_w": 17,
+                    "d_x": 24,
+                    "d_y": 72.5,
+                    "suggest_name": "element729"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a/i",
+                    "locator_id": "3",
+                    "d_h": 14,
+                    "d_w": 17,
+                    "d_x": 24,
+                    "d_y": 72.5,
+                    "suggest_name": "element729"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "hm-icon nav-spriteTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 14,
+                    "d_w": 17,
+                    "d_x": 24,
+                    "d_y": 72.5,
+                    "suggest_name": "element729"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/470.png"
+        },
+        {
+            "testcase_element": "ele_NametextInput",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "style": "",
+                        "data-wp-interactive": "jetpack/form",
+                        "data-wp-context": "{\"fieldId\":\"g2599-name\",\"fieldType\":\"name\",\"fieldLabel\":\"Name\",\"fieldValue\":\"\",\"fieldPlaceholder\":\"\",\"fieldIsRequired\":\"1\",\"fieldErrorMessage\":\"\",\"fieldExtra\":[],\"formHash\":\"740f3db3b251a0bcbd28bce26964be89cbd6de1c\"}",
+                        "class": "grunion-field-name-wrap grunion-field-wrap",
+                        "data-wp-init": "callbacks.initializeField"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "for": "g2599-name",
+                        "class": "grunion-field-label name",
+                        "style": "box-shadow: none; outline: none;"
+                    },
+                    "tg_text": "Name"
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "id": "g2599-name-text-error",
+                        "class": "contact-form__input-error",
+                        "data-wp-class--has-errors": "state.fieldHasErrors"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "name": "g2599-name",
+                        "id": "g2599-name",
+                        "value": "",
+                        "data-wp-bind--aria-invalid": "state.fieldHasErrors",
+                        "data-wp-bind--value": "state.getFieldValue",
+                        "aria-errormessage": "g2599-name-text-error-message",
+                        "data-wp-on--input": "actions.onFieldChange",
+                        "data-wp-on--blur": "actions.onFieldBlur",
+                        "data-wp-class--has-value": "state.hasFieldValue",
+                        "class": "name  grunion-field",
+                        "required": "true",
+                        "aria-required": "true",
+                        "aria-invalid": "false",
+                        "style": "outline: none !important; box-shadow: none !important;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='g2599-name']",
+                    "locator_id": "3",
+                    "d_h": 59,
+                    "d_w": 336,
+                    "d_x": 352,
+                    "d_y": 357,
+                    "suggest_name": "g2599name160"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='jp-form-740f3db3b251a0bcbd28bce26964be89cbd6de1c']/div/input",
+                    "locator_id": "3",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367.5,
+                    "d_y": 376.25,
+                    "suggest_name": "g2599name160"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "g2599-nameTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367.5,
+                    "d_y": 376.25,
+                    "suggest_name": "g2599name160"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#g2599-name",
+                    "locator_id": "9",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367.5,
+                    "d_y": 376.25,
+                    "suggest_name": "g2599name160"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#g2599-nameTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367.5,
+                    "d_y": 376.25,
+                    "suggest_name": "g2599name160"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/input",
+                    "locator_id": "3",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367.5,
+                    "d_y": 376.25,
+                    "suggest_name": "g2599name160"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "name grunion-fieldTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367.5,
+                    "d_y": 376.25,
+                    "suggest_name": "g2599name160"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/471.png"
+        },
+        {
+            "testcase_element": "ele_EmailInput",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "style": "box-shadow: none; outline: none;",
+                        "data-wp-interactive": "jetpack/form",
+                        "data-wp-context": "{\"fieldId\":\"g2599-email\",\"fieldType\":\"email\",\"fieldLabel\":\"Email\",\"fieldValue\":\"\",\"fieldPlaceholder\":\"\",\"fieldIsRequired\":\"1\",\"fieldErrorMessage\":\"\",\"fieldExtra\":[],\"formHash\":\"740f3db3b251a0bcbd28bce26964be89cbd6de1c\"}",
+                        "class": "grunion-field-email-wrap grunion-field-wrap",
+                        "data-wp-init": "callbacks.initializeField"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "for": "g2599-email",
+                        "class": "grunion-field-label email",
+                        "style": "box-shadow: none; outline: none;"
+                    },
+                    "tg_text": "Email"
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "id": "g2599-email-email-error",
+                        "class": "contact-form__input-error",
+                        "data-wp-class--has-errors": "state.fieldHasErrors"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "email",
+                        "name": "g2599-email",
+                        "id": "g2599-email",
+                        "value": "",
+                        "data-wp-bind--aria-invalid": "state.fieldHasErrors",
+                        "data-wp-bind--value": "state.getFieldValue",
+                        "aria-errormessage": "g2599-email-email-error-message",
+                        "data-wp-on--input": "actions.onFieldChange",
+                        "data-wp-on--blur": "actions.onFieldBlur",
+                        "data-wp-class--has-value": "state.hasFieldValue",
+                        "class": "email grunion-field",
+                        "required": "true",
+                        "aria-required": "true",
+                        "aria-invalid": "false",
+                        "style": "box-shadow: none !important; outline: none !important;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='g2599-email']",
+                    "locator_id": "3",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367,
+                    "d_y": 444,
+                    "suggest_name": "g2599email508"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='jp-form-740f3db3b251a0bcbd28bce26964be89cbd6de1c']/div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367.5,
+                    "d_y": 444.5,
+                    "suggest_name": "g2599email508"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "g2599-emailTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367.5,
+                    "d_y": 444.5,
+                    "suggest_name": "g2599email508"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#g2599-email",
+                    "locator_id": "9",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367.5,
+                    "d_y": 444.5,
+                    "suggest_name": "g2599email508"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#g2599-emailTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367.5,
+                    "d_y": 444.5,
+                    "suggest_name": "g2599email508"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367.5,
+                    "d_y": 444.5,
+                    "suggest_name": "g2599email508"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "email grunion-fieldTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367.5,
+                    "d_y": 444.5,
+                    "suggest_name": "g2599email508"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/472.png"
+        },
+        {
+            "testcase_element": "ele_WebsitetextInput",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "style": "box-shadow: none !important;",
+                        "data-wp-interactive": "jetpack/form",
+                        "data-wp-context": "{\"fieldId\":\"g2599-website\",\"fieldType\":\"url\",\"fieldLabel\":\"Website\",\"fieldValue\":\"\",\"fieldPlaceholder\":\"\",\"fieldIsRequired\":\"\",\"fieldErrorMessage\":\"\",\"fieldExtra\":[],\"formHash\":\"740f3db3b251a0bcbd28bce26964be89cbd6de1c\"}",
+                        "class": "grunion-field-url-wrap grunion-field-wrap",
+                        "data-wp-init": "callbacks.initializeField"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "for": "g2599-website",
+                        "class": "grunion-field-label url",
+                        "style": "box-shadow: none; outline: none;"
+                    },
+                    "tg_text": "Website"
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "id": "g2599-website-text-error",
+                        "class": "contact-form__input-error",
+                        "data-wp-class--has-errors": "state.fieldHasErrors"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "name": "g2599-website",
+                        "id": "g2599-website",
+                        "value": "",
+                        "data-wp-bind--aria-invalid": "state.fieldHasErrors",
+                        "data-wp-bind--value": "state.getFieldValue",
+                        "aria-errormessage": "g2599-website-text-error-message",
+                        "data-wp-on--input": "actions.onFieldChange",
+                        "data-wp-on--blur": "actions.onFieldBlur",
+                        "data-wp-class--has-value": "state.hasFieldValue",
+                        "class": "url grunion-field",
+                        "aria-invalid": "false",
+                        "style": "box-shadow: none !important; outline: none !important;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='g2599-website']",
+                    "locator_id": "3",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367,
+                    "d_y": 512,
+                    "suggest_name": "g2599websi356"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='jp-form-740f3db3b251a0bcbd28bce26964be89cbd6de1c']/div[3]/input",
+                    "locator_id": "3",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367.5,
+                    "d_y": 512.75,
+                    "suggest_name": "g2599websi356"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "g2599-websiteTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367.5,
+                    "d_y": 512.75,
+                    "suggest_name": "g2599websi356"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#g2599-website",
+                    "locator_id": "9",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367.5,
+                    "d_y": 512.75,
+                    "suggest_name": "g2599websi356"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#g2599-websiteTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367.5,
+                    "d_y": 512.75,
+                    "suggest_name": "g2599websi356"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[3]/input",
+                    "locator_id": "3",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367.5,
+                    "d_y": 512.75,
+                    "suggest_name": "g2599websi356"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "url grunion-fieldTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 32,
+                    "d_w": 435,
+                    "d_x": 367.5,
+                    "d_y": 512.75,
+                    "suggest_name": "g2599websi356"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/473.png"
+        },
+        {
+            "testcase_element": "ele_AutomationTestingcheckbox",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "p",
+                    "tg_attributes": {
+                        "class": "contact-form-field"
+                    },
+                    "tg_text": null
+                },
+                "next_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "for": "g2599-expertise-AutomationTesting",
+                        "style": "",
+                        "class": "grunion-checkbox-multiple-label checkbox-multiple"
+                    },
+                    "tg_text": "Automation Testing"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "id": "g2599-expertise-AutomationTesting",
+                        "data-wp-on--change": "actions.onMultipleFieldChange",
+                        "type": "checkbox",
+                        "name": "g2599-expertise[]",
+                        "value": "Automation Testing",
+                        "class": "checkbox-multiple  grunion-field",
+                        "style": "outline: none !important; box-shadow: none !important;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='g2599-expertise-AutomationTesting']",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 16,
+                    "d_x": 367,
+                    "d_y": 746,
+                    "suggest_name": "g2599exper595"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//fieldset[@id='g2599-expertise-label']/div/p[2]/input",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 16,
+                    "d_x": 367.5,
+                    "d_y": 746.6500244140625,
+                    "suggest_name": "g2599exper595"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "g2599-expertise-AutomationTestingTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 16,
+                    "d_w": 16,
+                    "d_x": 367.5,
+                    "d_y": 746.6500244140625,
+                    "suggest_name": "g2599exper595"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#g2599-expertise-AutomationTesting",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 16,
+                    "d_x": 367.5,
+                    "d_y": 746.6500244140625,
+                    "suggest_name": "g2599exper595"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#g2599-expertise-AutomationTestingTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 16,
+                    "d_x": 367.5,
+                    "d_y": 746.6500244140625,
+                    "suggest_name": "g2599exper595"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//p[2]/input",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 16,
+                    "d_x": 367.5,
+                    "d_y": 746.6500244140625,
+                    "suggest_name": "g2599exper595"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "checkbox-multiple grunion-fieldTGWEBCOMMA3",
+                    "locator_id": "6",
+                    "d_h": 16,
+                    "d_w": 16,
+                    "d_x": 367.5,
+                    "d_y": 746.6500244140625,
+                    "suggest_name": "g2599exper595"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/474.png"
+        },
+        {
+            "testcase_element": "ele_GraduateradioButton",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "p",
+                    "tg_attributes": {
+                        "class": "contact-form-field"
+                    },
+                    "tg_text": null
+                },
+                "next_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "for": "g2599-education-Graduate",
+                        "style": "",
+                        "class": "grunion-radio-label radio"
+                    },
+                    "tg_text": "Graduate"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "id": "g2599-education-Graduate",
+                        "type": "radio",
+                        "name": "g2599-education",
+                        "value": "Graduate",
+                        "data-wp-on--change": "actions.onFieldChange",
+                        "class": "radio grunion-field",
+                        "style": "box-shadow: none !important; outline: none !important;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='g2599-education-Graduate']",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 16,
+                    "d_x": 367,
+                    "d_y": 566,
+                    "suggest_name": "g2599educa870"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//fieldset[@id='g2599-education-label']/div/p/input",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 16,
+                    "d_x": 367.5,
+                    "d_y": 566.9000244140625,
+                    "suggest_name": "g2599educa870"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "g2599-education-GraduateTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 16,
+                    "d_w": 16,
+                    "d_x": 367.5,
+                    "d_y": 566.9000244140625,
+                    "suggest_name": "g2599educa870"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#g2599-education-Graduate",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 16,
+                    "d_x": 367.5,
+                    "d_y": 566.9000244140625,
+                    "suggest_name": "g2599educa870"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#g2599-education-GraduateTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 16,
+                    "d_x": 367.5,
+                    "d_y": 566.9000244140625,
+                    "suggest_name": "g2599educa870"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[6]/fieldset/div/p/input",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 16,
+                    "d_x": 367.5,
+                    "d_y": 566.9000244140625,
+                    "suggest_name": "g2599educa870"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "radio grunion-fieldTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 16,
+                    "d_w": 16,
+                    "d_x": 367.5,
+                    "d_y": 566.9000244140625,
+                    "suggest_name": "g2599educa870"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/475.png"
+        },
+        {
+            "testcase_element": "ele_CommentTextArea",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "style": "box-shadow: none; outline: none;",
+                        "data-wp-interactive": "jetpack/form",
+                        "data-wp-context": "{\"fieldId\":\"g2599-comment\",\"fieldType\":\"textarea\",\"fieldLabel\":\"Comment\",\"fieldValue\":\"\",\"fieldPlaceholder\":\"\",\"fieldIsRequired\":\"1\",\"fieldErrorMessage\":\"\",\"fieldExtra\":[],\"formHash\":\"740f3db3b251a0bcbd28bce26964be89cbd6de1c\"}",
+                        "class": "grunion-field-textarea-wrap grunion-field-wrap",
+                        "data-wp-init": "callbacks.initializeField"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "for": "contact-form-comment-g2599-comment",
+                        "class": "grunion-field-label textarea"
+                    },
+                    "tg_text": "Comment"
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "id": "g2599-comment-textarea-error",
+                        "class": "contact-form__input-error",
+                        "data-wp-class--has-errors": "state.fieldHasErrors"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "textarea",
+                    "tg_attributes": {
+                        "style": "box-shadow: none !important; outline: none !important;",
+                        "name": "g2599-comment",
+                        "id": "contact-form-comment-g2599-comment",
+                        "rows": "20",
+                        "data-wp-text": "state.getFieldValue",
+                        "data-wp-on--input": "actions.onFieldChange",
+                        "data-wp-on--blur": "actions.onFieldBlur",
+                        "data-wp-class--has-value": "state.hasFieldValue",
+                        "data-wp-bind--aria-invalid": "state.fieldHasErrors",
+                        "data-wp-on--keydown": "actions.onKeyDownTextarea",
+                        "aria-errormessage": "g2599-comment-textarea-error-message",
+                        "class": "textarea grunion-field",
+                        "required": "",
+                        "aria-required": "true",
+                        "aria-invalid": "false"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//textarea[@id='contact-form-comment-g2599-comment']",
+                    "locator_id": "3",
+                    "d_h": 200,
+                    "d_w": 210,
+                    "d_x": 367,
+                    "d_y": 771,
+                    "suggest_name": "contactfor784"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='jp-form-740f3db3b251a0bcbd28bce26964be89cbd6de1c']/div[7]/textarea",
+                    "locator_id": "3",
+                    "d_h": 200,
+                    "d_w": 210,
+                    "d_x": 367.5,
+                    "d_y": 771.75,
+                    "suggest_name": "contactfor784"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "contact-form-comment-g2599-commentTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 200,
+                    "d_w": 210,
+                    "d_x": 367.5,
+                    "d_y": 771.75,
+                    "suggest_name": "contactfor784"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#contact-form-comment-g2599-comment",
+                    "locator_id": "9",
+                    "d_h": 200,
+                    "d_w": 210,
+                    "d_x": 367.5,
+                    "d_y": 771.75,
+                    "suggest_name": "contactfor784"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "textarea#contact-form-comment-g2599-commentTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 200,
+                    "d_w": 210,
+                    "d_x": 367.5,
+                    "d_y": 771.75,
+                    "suggest_name": "contactfor784"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[7]/textarea",
+                    "locator_id": "3",
+                    "d_h": 200,
+                    "d_w": 210,
+                    "d_x": 367.5,
+                    "d_y": 771.75,
+                    "suggest_name": "contactfor784"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "textarea grunion-fieldTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 200,
+                    "d_w": 210,
+                    "d_x": 367.5,
+                    "d_y": 771.75,
+                    "suggest_name": "contactfor784"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/476.png"
+        },
+        {
+            "testcase_element": "ele_submitbutton",
+            "tg_text": "Submit",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "action": "https://www.globalsqa.com/samplepagetest/#contact-form-2599",
+                        "id": "jp-form-740f3db3b251a0bcbd28bce26964be89cbd6de1c",
+                        "method": "post",
+                        "class": "contact-form commentsblock",
+                        "aria-label": "Sample Page Test",
+                        "data-wp-interactive": "jetpack/form",
+                        "data-wp-context": "{\"formId\":\"2599\",\"formHash\":\"740f3db3b251a0bcbd28bce26964be89cbd6de1c\",\"showErrors\":false,\"errors\":[],\"fields\":[],\"isMultiStep\":false,\"isAjaxSubmissionEnabled\":false}",
+                        "data-wp-on--submit": "actions.onFormSubmit",
+                        "data-wp-class--is-first-step": "state.isFirstStep",
+                        "data-wp-class--is-last-step": "state.isLastStep",
+                        "novalidate": "",
+                        "style": "box-shadow: none !important;"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "contact-form__error",
+                        "data-wp-class--show-errors": "state.showFromErrors"
+                    },
+                    "tg_text": null
+                },
+                "next_sibling": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "hidden",
+                        "name": "contact-form-id",
+                        "value": "2599"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "type": "submit",
+                        "class": "pushbutton-wide",
+                        "style": "box-shadow: none !important; outline: none !important;"
+                    },
+                    "tg_text": "Submit"
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[@type='submit']",
+                    "locator_id": "3",
+                    "d_h": 41,
+                    "d_w": 870,
+                    "d_x": 367,
+                    "d_y": 267,
+                    "suggest_name": "submit530"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='jp-form-740f3db3b251a0bcbd28bce26964be89cbd6de1c']/button[2]",
+                    "locator_id": "3",
+                    "d_h": 41,
+                    "d_w": 870,
+                    "d_x": 367.5,
+                    "d_y": 267.75,
+                    "suggest_name": "submit530"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "button.pushbutton-wide",
+                    "locator_id": "9",
+                    "d_h": 41,
+                    "d_w": 870,
+                    "d_x": 367.5,
+                    "d_y": 267.75,
+                    "suggest_name": "submit530"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#jp-form-740f3db3b251a0bcbd28bce26964be89cbd6de1c > button:nth-of-type(2)TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 41,
+                    "d_w": 870,
+                    "d_x": 367.5,
+                    "d_y": 267.75,
+                    "suggest_name": "submit530"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[2]",
+                    "locator_id": "3",
+                    "d_h": 41,
+                    "d_w": 870,
+                    "d_x": 367.5,
+                    "d_y": 267.75,
+                    "suggest_name": "submit530"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "pushbutton-wideTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 41,
+                    "d_w": 870,
+                    "d_x": 367.5,
+                    "d_y": 267.75,
+                    "suggest_name": "submit530"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/477.png"
+        },
+        {
+            "testcase_element": "ele_Selectyear",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-3 col-xs-3 col-sm-3"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "select",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "placeholder": "Year",
+                        "id": "yearbox",
+                        "ng-model": "yearbox",
+                        "ng-init": "yearbox=''",
+                        "required": "",
+                        "style": "outline: none !important; box-shadow: none !important;"
+                    },
+                    "tg_text": null
+                },
+                "children": [
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": ""
+                        },
+                        "tg_text": "year"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1916"
+                        },
+                        "tg_text": "1916"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1917"
+                        },
+                        "tg_text": "1917"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1918"
+                        },
+                        "tg_text": "1918"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1919"
+                        },
+                        "tg_text": "1919"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1920"
+                        },
+                        "tg_text": "1920"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1921"
+                        },
+                        "tg_text": "1921"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1922"
+                        },
+                        "tg_text": "1922"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1923"
+                        },
+                        "tg_text": "1923"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1924"
+                        },
+                        "tg_text": "1924"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1925"
+                        },
+                        "tg_text": "1925"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1926"
+                        },
+                        "tg_text": "1926"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1927"
+                        },
+                        "tg_text": "1927"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1928"
+                        },
+                        "tg_text": "1928"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1929"
+                        },
+                        "tg_text": "1929"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1930"
+                        },
+                        "tg_text": "1930"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1931"
+                        },
+                        "tg_text": "1931"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1932"
+                        },
+                        "tg_text": "1932"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1933"
+                        },
+                        "tg_text": "1933"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1934"
+                        },
+                        "tg_text": "1934"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1935"
+                        },
+                        "tg_text": "1935"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1936"
+                        },
+                        "tg_text": "1936"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1937"
+                        },
+                        "tg_text": "1937"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1938"
+                        },
+                        "tg_text": "1938"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1939"
+                        },
+                        "tg_text": "1939"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1940"
+                        },
+                        "tg_text": "1940"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1941"
+                        },
+                        "tg_text": "1941"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1942"
+                        },
+                        "tg_text": "1942"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1943"
+                        },
+                        "tg_text": "1943"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1944"
+                        },
+                        "tg_text": "1944"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1945"
+                        },
+                        "tg_text": "1945"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1946"
+                        },
+                        "tg_text": "1946"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1947"
+                        },
+                        "tg_text": "1947"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1948"
+                        },
+                        "tg_text": "1948"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1949"
+                        },
+                        "tg_text": "1949"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1950"
+                        },
+                        "tg_text": "1950"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1951"
+                        },
+                        "tg_text": "1951"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1952"
+                        },
+                        "tg_text": "1952"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1953"
+                        },
+                        "tg_text": "1953"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1954"
+                        },
+                        "tg_text": "1954"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1955"
+                        },
+                        "tg_text": "1955"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1956"
+                        },
+                        "tg_text": "1956"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1957"
+                        },
+                        "tg_text": "1957"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1958"
+                        },
+                        "tg_text": "1958"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1959"
+                        },
+                        "tg_text": "1959"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1960"
+                        },
+                        "tg_text": "1960"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1961"
+                        },
+                        "tg_text": "1961"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1962"
+                        },
+                        "tg_text": "1962"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1963"
+                        },
+                        "tg_text": "1963"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1964"
+                        },
+                        "tg_text": "1964"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1965"
+                        },
+                        "tg_text": "1965"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1966"
+                        },
+                        "tg_text": "1966"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1967"
+                        },
+                        "tg_text": "1967"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1968"
+                        },
+                        "tg_text": "1968"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1969"
+                        },
+                        "tg_text": "1969"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1970"
+                        },
+                        "tg_text": "1970"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1971"
+                        },
+                        "tg_text": "1971"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1972"
+                        },
+                        "tg_text": "1972"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1973"
+                        },
+                        "tg_text": "1973"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1974"
+                        },
+                        "tg_text": "1974"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1975"
+                        },
+                        "tg_text": "1975"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1976"
+                        },
+                        "tg_text": "1976"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1977"
+                        },
+                        "tg_text": "1977"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1978"
+                        },
+                        "tg_text": "1978"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1979"
+                        },
+                        "tg_text": "1979"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1980"
+                        },
+                        "tg_text": "1980"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1981"
+                        },
+                        "tg_text": "1981"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1982"
+                        },
+                        "tg_text": "1982"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1983"
+                        },
+                        "tg_text": "1983"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1984"
+                        },
+                        "tg_text": "1984"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1985"
+                        },
+                        "tg_text": "1985"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1986"
+                        },
+                        "tg_text": "1986"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1987"
+                        },
+                        "tg_text": "1987"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1988"
+                        },
+                        "tg_text": "1988"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1989"
+                        },
+                        "tg_text": "1989"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1990"
+                        },
+                        "tg_text": "1990"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1991"
+                        },
+                        "tg_text": "1991"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1992"
+                        },
+                        "tg_text": "1992"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1993"
+                        },
+                        "tg_text": "1993"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1994"
+                        },
+                        "tg_text": "1994"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1995"
+                        },
+                        "tg_text": "1995"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1996"
+                        },
+                        "tg_text": "1996"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1997"
+                        },
+                        "tg_text": "1997"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1998"
+                        },
+                        "tg_text": "1998"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1999"
+                        },
+                        "tg_text": "1999"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2000"
+                        },
+                        "tg_text": "2000"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2001"
+                        },
+                        "tg_text": "2001"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2002"
+                        },
+                        "tg_text": "2002"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2003"
+                        },
+                        "tg_text": "2003"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2004"
+                        },
+                        "tg_text": "2004"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2005"
+                        },
+                        "tg_text": "2005"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2006"
+                        },
+                        "tg_text": "2006"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2007"
+                        },
+                        "tg_text": "2007"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2008"
+                        },
+                        "tg_text": "2008"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2009"
+                        },
+                        "tg_text": "2009"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2010"
+                        },
+                        "tg_text": "2010"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2011"
+                        },
+                        "tg_text": "2011"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2012"
+                        },
+                        "tg_text": "2012"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2013"
+                        },
+                        "tg_text": "2013"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2014"
+                        },
+                        "tg_text": "2014"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2015"
+                        },
+                        "tg_text": "2015"
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//select[@id='yearbox']",
+                    "locator_id": "3",
+                    "d_h": 37,
+                    "d_w": 119,
+                    "d_x": 721,
+                    "d_y": 764,
+                    "suggest_name": "year351"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[11]/div/select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 723.75,
+                    "d_y": 763.59375,
+                    "suggest_name": "year351"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "yearboxTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 723.75,
+                    "d_y": 763.59375,
+                    "suggest_name": "year351"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#yearbox",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 723.75,
+                    "d_y": 763.59375,
+                    "suggest_name": "year351"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "select#yearboxTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 723.75,
+                    "d_y": 763.59375,
+                    "suggest_name": "year351"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[11]/div/select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 723.75,
+                    "d_y": 763.59375,
+                    "suggest_name": "year351"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA8",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 723.75,
+                    "d_y": 763.59375,
+                    "suggest_name": "year351"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/478.png"
+        },
+        {
+            "testcase_element": "ele_SelectMonth",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-3 col-xs-3 col-sm-3"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "select",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "placeholder": "Month",
+                        "ng-model": "monthbox",
+                        "ng-init": "monthbox=''",
+                        "required": "",
+                        "style": "outline: none !important; box-shadow: none !important;"
+                    },
+                    "tg_text": null
+                },
+                "children": [
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": ""
+                        },
+                        "tg_text": "Month"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "January"
+                        },
+                        "tg_text": "January"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "February"
+                        },
+                        "tg_text": "February"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "March"
+                        },
+                        "tg_text": "March"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "April"
+                        },
+                        "tg_text": "April"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "May"
+                        },
+                        "tg_text": "May"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "June"
+                        },
+                        "tg_text": "June"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "July"
+                        },
+                        "tg_text": "July"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "August"
+                        },
+                        "tg_text": "August"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "September"
+                        },
+                        "tg_text": "September"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "October"
+                        },
+                        "tg_text": "October"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "November"
+                        },
+                        "tg_text": "November"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "December"
+                        },
+                        "tg_text": "December"
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//select[@placeholder='Month']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 870,
+                    "d_y": 763,
+                    "suggest_name": "monthjanua276"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[11]/div[2]/select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 870,
+                    "d_y": 763.59375,
+                    "suggest_name": "monthjanua276"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "select[placeholder='Month']",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 870,
+                    "d_y": 763.59375,
+                    "suggest_name": "monthjanua276"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div:nth-of-type(11) > div:nth-of-type(2) > selectTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 870,
+                    "d_y": 763.59375,
+                    "suggest_name": "monthjanua276"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 870,
+                    "d_y": 763.59375,
+                    "suggest_name": "monthjanua276"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA9",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 870,
+                    "d_y": 763.59375,
+                    "suggest_name": "monthjanua276"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/479.png"
+        },
+        {
+            "testcase_element": "ele_SelectDay",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-3 col-xs-3 col-sm-3"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "select",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "placeholder": "Day",
+                        "id": "daybox",
+                        "ng-model": "daybox",
+                        "ng-init": "daybox=''",
+                        "required": "",
+                        "style": "outline: none !important; box-shadow: none !important;"
+                    },
+                    "tg_text": null
+                },
+                "children": [
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": ""
+                        },
+                        "tg_text": "Day"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "3"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "4"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "5"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "6"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "7"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "8"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "9"
+                        },
+                        "tg_text": null
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "10"
+                        },
+                        "tg_text": "10"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "11"
+                        },
+                        "tg_text": "11"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "12"
+                        },
+                        "tg_text": "12"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "13"
+                        },
+                        "tg_text": "13"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "14"
+                        },
+                        "tg_text": "14"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "15"
+                        },
+                        "tg_text": "15"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "16"
+                        },
+                        "tg_text": "16"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "17"
+                        },
+                        "tg_text": "17"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "18"
+                        },
+                        "tg_text": "18"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "19"
+                        },
+                        "tg_text": "19"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "20"
+                        },
+                        "tg_text": "20"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "21"
+                        },
+                        "tg_text": "21"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "22"
+                        },
+                        "tg_text": "22"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "23"
+                        },
+                        "tg_text": "23"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "24"
+                        },
+                        "tg_text": "24"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "25"
+                        },
+                        "tg_text": "25"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "26"
+                        },
+                        "tg_text": "26"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "27"
+                        },
+                        "tg_text": "27"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "28"
+                        },
+                        "tg_text": "28"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "29"
+                        },
+                        "tg_text": "29"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "30"
+                        },
+                        "tg_text": "30"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "31"
+                        },
+                        "tg_text": "31"
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//select[@id='daybox']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 1016,
+                    "d_y": 763,
+                    "suggest_name": "day144"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[11]/div[3]/select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 1016.25,
+                    "d_y": 763.59375,
+                    "suggest_name": "day144"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "dayboxTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 1016.25,
+                    "d_y": 763.59375,
+                    "suggest_name": "day144"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#daybox",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 1016.25,
+                    "d_y": 763.59375,
+                    "suggest_name": "day144"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "select#dayboxTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 1016.25,
+                    "d_y": 763.59375,
+                    "suggest_name": "day144"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[3]/select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 1016.25,
+                    "d_y": 763.59375,
+                    "suggest_name": "day144"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA10",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 1016.25,
+                    "d_y": 763.59375,
+                    "suggest_name": "day144"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/480.png"
+        },
+        {
+            "testcase_element": "ele_firstnameInput",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "placeholder": "First Name",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "ng-model": "FirstName",
+                        "required": "",
+                        "style": "outline: none !important; box-shadow: none !important;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@placeholder='First Name']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723,
+                    "d_y": 222,
+                    "suggest_name": "firstname364"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname364"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname364"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div > div > inputTGWEBCOMMA5",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname364"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname364"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname364"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/481.png"
+        },
+        {
+            "testcase_element": "ele_LastName",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "placeholder": "Last Name",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "ng-model": "LastName",
+                        "required": "",
+                        "style": "outline: none !important; box-shadow: none !important;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@placeholder='Last Name']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918,
+                    "d_y": 222,
+                    "suggest_name": "lastname698"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div/div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname698"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[placeholder='Last Name']",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname698"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div > div:nth-of-type(2) > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname698"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname698"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname698"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/482.png"
+        },
+        {
+            "testcase_element": "ele_PhoneNoInput",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "tel",
+                        "class": "form-control ng-pristine ng-invalid ng-invalid-required ng-valid-pattern ng-touched",
+                        "ng-model": "Phone",
+                        "required": "",
+                        "pattern": "^\\d{10}$",
+                        "style": "box-shadow: none !important; outline: none !important;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@type='tel']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723,
+                    "d_y": 411,
+                    "suggest_name": "telphoned034"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[4]/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 411.59375,
+                    "suggest_name": "telphoned034"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input.form-control.ng-pristine.ng-invalid.ng-invalid-required.ng-valid-pattern.ng-touched",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 411.59375,
+                    "suggest_name": "telphoned034"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div:nth-of-type(4) > div > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 411.59375,
+                    "suggest_name": "telphoned034"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[4]/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 411.59375,
+                    "suggest_name": "telphoned034"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-invalid ng-invalid-required ng-valid-pattern ng-touchedTGWEBCOMMA5",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 411.59375,
+                    "suggest_name": "telphoned034"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/483.png"
+        },
+        {
+            "testcase_element": "ele_NestediframeTextbox",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-xs-6 col-xs-offset-5",
+                        "style": "margin-top: 150px"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "style": "box-shadow: none !important; outline: none !important;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@type='text']",
+                    "locator_id": "3",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185,
+                    "suggest_name": "textboxsha128"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[type=\"text\"]",
+                    "locator_id": "9",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185.390625,
+                    "suggest_name": "textboxsha128"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > section > div > div > div > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185.390625,
+                    "suggest_name": "textboxsha128"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185.390625,
+                    "suggest_name": "textboxsha128"
+                }
+            ],
+            "iframe_and_shadow_root_data": [
+                {
+                    "is_secure_field": false,
+                    "is_extension": true,
+                    "element_list": [
+                        {
+                            "ele_id": 2,
+                            "value": "ele_pyourbrows371",
+                            "element_display_name": "pYour browser does not support ",
+                            "elementTag": "iframeTGWEBCOMMA0",
+                            "display_name": "pyourbrows371!@!@",
+                            "page_name": "",
+                            "element_image": "",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//iframe[contains(text(),'<p>Your browser does not support iframes.</p>')]\",\"locator_id\":\"3\",\"d_h\":250,\"d_w\":400,\"d_x\":98,\"d_y\":40.6875,\"suggest_name\":\"pyourbrows371\"},{\"locators\":\"CSS selector\",\"locators_val\":\"body > section:nth-child(1) > div:nth-child(1) > div:nth-child(1) > iframe:nth-child(2)\",\"locator_id\":\"9\",\"d_h\":250,\"d_w\":400,\"d_x\":98,\"d_y\":40.6875,\"suggest_name\":\"pyourbrows371\"},{\"locators\":\"Tag\",\"locators_val\":\"iframeTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":250,\"d_w\":400,\"d_x\":98,\"d_y\":40.6875,\"suggest_name\":\"pyourbrows371\"}]",
+                            "data": {
+                                "element_name": "pyourbrows371",
+                                "script_type": 1,
+                                "platform": 3,
+                                "typeofelement": "3",
+                                "value": [
+                                    "//iframe[contains(text(),'<p>Your browser does not support iframes.</p>')]"
+                                ],
+                                "temp_element_id": 0,
+                                "pagenameis": "",
+                                "d_h": 250,
+                                "d_w": 400,
+                                "d_x": 98,
+                                "d_y": 40.6875,
+                                "radious": 0,
+                                "version_module_id": 0,
+                                "autoheal_elements": [
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//iframe[contains(text(),'<p>Your browser does not support iframes.</p>')]",
+                                        "locator_id": "3",
+                                        "d_h": 250,
+                                        "d_w": 400,
+                                        "d_x": 98,
+                                        "d_y": 40.6875,
+                                        "suggest_name": "pyourbrows371"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "body > section:nth-child(1) > div:nth-child(1) > div:nth-child(1) > iframe:nth-child(2)",
+                                        "locator_id": "9",
+                                        "d_h": 250,
+                                        "d_w": 400,
+                                        "d_x": 98,
+                                        "d_y": 40.6875,
+                                        "suggest_name": "pyourbrows371"
+                                    },
+                                    {
+                                        "locators": "Tag",
+                                        "locators_val": "iframeTGWEBCOMMA0",
+                                        "locator_id": "8",
+                                        "d_h": 250,
+                                        "d_w": 400,
+                                        "d_x": 98,
+                                        "d_y": 40.6875,
+                                        "suggest_name": "pyourbrows371"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "element_type": "iframe"
+                }
+            ],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/484.png"
+        },
+        {
+            "testcase_element": "ele_nestediframe",
+            "tg_text": "Iframe with in an Iframe",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "li",
+                    "tg_attributes": {
+                        "class": "active"
+                    },
+                    "tg_text": "Iframe with in an Iframe"
+                },
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "#Multiple",
+                        "data-toggle": "tab",
+                        "class": "analystic",
+                        "aria-expanded": "true",
+                        "style": "box-shadow: none !important; outline: none !important;"
+                    },
+                    "tg_text": "Iframe with in an Iframe"
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[contains(text(),'Iframe with in an Iframe')]",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 189,
+                    "d_x": 809,
+                    "d_y": 155,
+                    "suggest_name": "iframewith629"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "li.active > a.analystic",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 189,
+                    "d_x": 809.125,
+                    "d_y": 155.59375,
+                    "suggest_name": "iframewith629"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > section > div > div > div > div > div > div > ul > li:nth-of-type(2) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 189,
+                    "d_x": 809.125,
+                    "d_y": 155.59375,
+                    "suggest_name": "iframewith629"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Iframe with in an IfTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 40,
+                    "d_w": 189,
+                    "d_x": 809.125,
+                    "d_y": 155.59375,
+                    "suggest_name": "iframewith629"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Iframe with in an IframeTGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 40,
+                    "d_w": 189,
+                    "d_x": 809.125,
+                    "d_y": 155.59375,
+                    "suggest_name": "iframewith629"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/div/div/ul/li[2]/a",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 189,
+                    "d_x": 809.125,
+                    "d_y": 155.59375,
+                    "suggest_name": "iframewith629"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "analysticTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 40,
+                    "d_w": 189,
+                    "d_x": 809.125,
+                    "d_y": 155.59375,
+                    "suggest_name": "iframewith629"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/485.png"
+        },
+        {
+            "testcase_element": "ele_Nestediframetextbox2",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-xs-6 col-xs-offset-5",
+                        "style": "margin-top: 150px"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "style": "outline: none !important; box-shadow: none !important;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@type='text']",
+                    "locator_id": "3",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185,
+                    "suggest_name": "textip1ip536"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[type=\"text\"]",
+                    "locator_id": "9",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185.390625,
+                    "suggest_name": "textip1ip536"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > section > div > div > div > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185.390625,
+                    "suggest_name": "textip1ip536"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185.390625,
+                    "suggest_name": "textip1ip536"
+                }
+            ],
+            "iframe_and_shadow_root_data": [
+                {
+                    "is_secure_field": false,
+                    "is_extension": true,
+                    "element_list": [
+                        {
+                            "ele_id": 2,
+                            "value": "ele_pyourbrows604",
+                            "element_display_name": "pYour browser does not support ",
+                            "elementTag": "iframeTGWEBCOMMA0",
+                            "display_name": "pyourbrows604!@!@",
+                            "page_name": "",
+                            "element_image": "",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//iframe[contains(text(),'<p>Your browser does not support iframes.</p>')]\",\"locator_id\":\"3\",\"d_h\":250,\"d_w\":400,\"d_x\":98,\"d_y\":40.6875,\"suggest_name\":\"pyourbrows604\"},{\"locators\":\"CSS selector\",\"locators_val\":\"iframe\",\"locator_id\":\"9\",\"d_h\":250,\"d_w\":400,\"d_x\":98,\"d_y\":40.6875,\"suggest_name\":\"pyourbrows604\"},{\"locators\":\"Tag\",\"locators_val\":\"iframeTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":250,\"d_w\":400,\"d_x\":98,\"d_y\":40.6875,\"suggest_name\":\"pyourbrows604\"}]",
+                            "data": {
+                                "element_name": "pyourbrows604",
+                                "script_type": 1,
+                                "platform": 3,
+                                "typeofelement": "3",
+                                "value": [
+                                    "//iframe[contains(text(),'<p>Your browser does not support iframes.</p>')]"
+                                ],
+                                "temp_element_id": 0,
+                                "pagenameis": "",
+                                "d_h": 250,
+                                "d_w": 400,
+                                "d_x": 98,
+                                "d_y": 40.6875,
+                                "radious": 0,
+                                "version_module_id": 0,
+                                "autoheal_elements": [
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//iframe[contains(text(),'<p>Your browser does not support iframes.</p>')]",
+                                        "locator_id": "3",
+                                        "d_h": 250,
+                                        "d_w": 400,
+                                        "d_x": 98,
+                                        "d_y": 40.6875,
+                                        "suggest_name": "pyourbrows604"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "iframe",
+                                        "locator_id": "9",
+                                        "d_h": 250,
+                                        "d_w": 400,
+                                        "d_x": 98,
+                                        "d_y": 40.6875,
+                                        "suggest_name": "pyourbrows604"
+                                    },
+                                    {
+                                        "locators": "Tag",
+                                        "locators_val": "iframeTGWEBCOMMA0",
+                                        "locator_id": "8",
+                                        "d_h": 250,
+                                        "d_w": 400,
+                                        "d_x": 98,
+                                        "d_y": 40.6875,
+                                        "suggest_name": "pyourbrows604"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "element_type": "iframe"
+                }
+            ],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/486.png"
         }
     ]
 }

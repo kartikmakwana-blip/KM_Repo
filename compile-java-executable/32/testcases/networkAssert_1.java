@@ -25,11 +25,10 @@ public class networkassert_1 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void networkassert_1() {
 		tg.openBrowser();
-		tg.wait(2);
-		tg.declare("ele_sendreq", "//span[@id='rp-send-label']");
-		tg.scrollToElement("ele_sendreq", Direction.DOWN);
-		tg.wait(1);
-		tg.click("ele_sendreq");
+				tg.navigateToUrl("https://www.amazon.in/");
+				tg.wait(2);
+				tg.wait("ele_element729", ComparisonType.IS_VISIBLE);
+				tg.click("ele_element729", 1);
 		tg.close();
 	}
 }

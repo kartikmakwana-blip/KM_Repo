@@ -26,13 +26,13 @@ public class tdptgvar {
 	public void tdptgvar() {
 		tg.openBrowser();
 				tg.wait(2);
-				tg.type("ele_input092", "#TGITVAR.Firstname");
+				tg.type("ele_firstnameInput", "#TGITVAR.Firstname");
 				tg.wait(1);
-				tg.type("ele_input109", "#TGITVAR.Lastname");
+				tg.type("ele_LastName", "#TGITVAR.Lastname");
 				tg.wait(1);
-				tg.type("ele_input118", "#TGITVAR.Email");
+				tg.type("ele_EmailInput", "#TGITVAR.Email");
 				tg.wait(1);
-				tg.typeEncrypted("ele_input100", "shNNy3w0BOz8gIbgp/tvtQ==:MTIzNDU2Nzg5MTAxMTEyMQ==");
+				tg.typeEncrypted("ele_PhoneNoInput", "shNNy3w0BOz8gIbgp/tvtQ==:MTIzNDU2Nzg5MTAxMTEyMQ==");
 		tg.close();
 	}
 }

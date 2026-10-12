@@ -25,6 +25,8 @@ public class callfunction {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void callfunction() {
 		tg.openBrowser();
+		tg.wait(1);
+		tg.navigateToUrl("https://demo.automationtesting.in/Register.html");
 		tg.testFunction("Checkfunc", new Object[]{});
 		tg.close();
 	}

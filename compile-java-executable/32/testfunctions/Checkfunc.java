@@ -22,16 +22,16 @@ import org.testng.annotations.Test;
 class checkfunc {
 
 	public static void checkfunc() {
-		tg.type("ele_input092", "40");
-		tg.wait(1);
-		tg.check.isEqualTo(40,"40");
-		tg.check.isGreaterThanOrEqualTo(40,"39");
-		tg.check.isLessThan(40,"41");
-		tg.check.isNotEqualTo(40,"55");
-		tg.check.isEnabled("ele_input092");
-		tg.check.isVisible("ele_input092");
-		tg.check.isEqualTo("ele_Submit","Submit");
-		tg.check.contains("Testgrid","g");
-		tg.printLogs("ELEMENT CHECK ACTION CHECKED..........");
+				tg.type("ele_firstnameInput", "40");
+				tg.wait(1);
+				tg.check.isEqualTo(40,"40");
+				tg.check.isGreaterThanOrEqualTo(40,"39");
+				tg.check.isLessThan(40,"41");
+				tg.check.isNotEqualTo(40,"55");
+				tg.check.isEnabled("ele_firstnameInput");
+				tg.check.isVisible("ele_firstnameInput");
+				tg.check.isEqualTo("Submit","Submit");
+				tg.check.contains("Testgrid","g");
+				tg.printLogs("ELEMENT CHECK ACTION CHECKED..........");
 	}
 }
