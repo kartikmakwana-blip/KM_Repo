@@ -13,7 +13,7 @@
                     "d_w": 165,
                     "d_x": 443,
                     "d_y": 97,
-                    "suggest_name": "input092"
+                    "suggest_name": "ele_input092"
                 },
                 {
                     "d_h": 34,
@@ -22,7 +22,7 @@
                     "d_y": 97.59375,
                     "locators": "CSS selector",
                     "locators_val": "form#basicBootstrapForm > div > div > inputTGWEBCOMMA5",
-                    "suggest_name": "input092"
+                    "suggest_name": "ele_input092"
                 },
                 {
                     "d_h": 34,
@@ -31,7 +31,7 @@
                     "d_y": 97.59375,
                     "locators": "Xpath",
                     "locators_val": "//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[1]/div[1]/input[1]",
-                    "suggest_name": "input092"
+                    "suggest_name": "ele_input092"
                 },
                 {
                     "d_h": 34,
@@ -40,7 +40,7 @@
                     "d_y": 97.59375,
                     "locators": "class",
                     "locators_val": "form-control ng-untouched ng-dirty ng-valid-parse ng-invalid ng-invalid-requiredTGWEBCOMMA1",
-                    "suggest_name": "input092"
+                    "suggest_name": "ele_input092"
                 }
             ],
             "iframe_and_shadow_root_data": [],
