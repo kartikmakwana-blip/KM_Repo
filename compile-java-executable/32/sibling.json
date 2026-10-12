@@ -1,0 +1,1896 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_input109",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@placeholder='Last Name']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 638,
+                    "d_y": 188,
+                    "suggest_name": "input109"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 638.75,
+                    "d_y": 188.59375,
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div > div:nth-of-type(2) > inputTGWEBCOMMA0",
+                    "suggest_name": "input109"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 638.75,
+                    "d_y": 188.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[1]/div[2]/input[1]",
+                    "suggest_name": "input109"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 638.75,
+                    "d_y": 188.59375,
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2",
+                    "suggest_name": "input109"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/356.png"
+        },
+        {
+            "testcase_element": "ele_input092",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@placeholder='First Name']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443,
+                    "d_y": 97,
+                    "suggest_name": "input092"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 97.59375,
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div > div > inputTGWEBCOMMA5",
+                    "suggest_name": "input092"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 97.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[1]/div[1]/input[1]",
+                    "suggest_name": "input092"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 97.59375,
+                    "locators": "class",
+                    "locators_val": "form-control ng-untouched ng-dirty ng-valid-parse ng-invalid ng-invalid-requiredTGWEBCOMMA1",
+                    "suggest_name": "input092"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/357.png"
+        },
+        {
+            "testcase_element": "ele_Submit",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "button#submitbtnTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 70,
+                    "d_x": 570,
+                    "d_y": 540,
+                    "suggest_name": "Submit"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 70,
+                    "d_x": 570.125,
+                    "d_y": 540.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//button[@id='submitbtn']",
+                    "suggest_name": "Submit"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 70,
+                    "d_x": 570.125,
+                    "d_y": 540.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[14]/div[1]/button[1]",
+                    "suggest_name": "Submit"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 70,
+                    "d_x": 570.125,
+                    "d_y": 540.59375,
+                    "locators": "class",
+                    "locators_val": "btn btn-primaryTGWEBCOMMA2",
+                    "suggest_name": "Submit"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 70,
+                    "d_x": 570.125,
+                    "d_y": 540.59375,
+                    "locators": "id",
+                    "locators_val": "submitbtnTGWEBCOMMA1",
+                    "suggest_name": "Submit"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/358.png"
+        },
+        {
+            "testcase_element": "ele_input118",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@type='email']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443,
+                    "d_y": 328,
+                    "suggest_name": "input118"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 328.59375,
+                    "locators": "CSS selector",
+                    "locators_val": "div#eid > inputTGWEBCOMMA0",
+                    "suggest_name": "input118"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 328.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[3]/div[1]/input[1]",
+                    "suggest_name": "input118"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 328.59375,
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-valid-email ng-invalid ng-invalid-requiredTGWEBCOMMA4",
+                    "suggest_name": "input118"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/359.png"
+        },
+        {
+            "testcase_element": "ele_input100",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@type='tel']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443,
+                    "d_y": 377,
+                    "suggest_name": "input100"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 377.59375,
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div:nth-of-type(4) > div > inputTGWEBCOMMA0",
+                    "suggest_name": "input100"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 377.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[4]/div[1]/input[1]",
+                    "suggest_name": "input100"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 377.59375,
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required ng-valid-patternTGWEBCOMMA5",
+                    "suggest_name": "input100"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/360.png"
+        },
+        {
+            "testcase_element": "ele_year191619171918191919201921192219231924",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "select#yearboxTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 443,
+                    "d_y": 729,
+                    "suggest_name": "year\n1916\n1917\n1918\n1919\n1920\n1921\n1922\n1923\n1924\n"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 443.75,
+                    "d_y": 729.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//select[@id='yearbox']",
+                    "suggest_name": "year\n1916\n1917\n1918\n1919\n1920\n1921\n1922\n1923\n1924\n"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 443.75,
+                    "d_y": 729.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[11]/div[1]/select[1]",
+                    "suggest_name": "year\n1916\n1917\n1918\n1919\n1920\n1921\n1922\n1923\n1924\n"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 443.75,
+                    "d_y": 729.59375,
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA8",
+                    "suggest_name": "year\n1916\n1917\n1918\n1919\n1920\n1921\n1922\n1923\n1924\n"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 443.75,
+                    "d_y": 729.59375,
+                    "locators": "id",
+                    "locators_val": "yearboxTGWEBCOMMA1",
+                    "suggest_name": "year\n1916\n1917\n1918\n1919\n1920\n1921\n1922\n1923\n1924\n"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/361.png"
+        },
+        {
+            "testcase_element": "ele_MonthJanuaryFebruaryMarchAprilMayJuneJulyA",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "form#basicBootstrapForm > div:nth-of-type(11) > div:nth-of-type(2) > selectTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 590,
+                    "d_y": 729,
+                    "suggest_name": "Month\nJanuary\nFebruary\nMarch\nApril\nMay\nJune\nJuly\nA"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 590,
+                    "d_y": 729.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//select[@placeholder='Month']",
+                    "suggest_name": "Month\nJanuary\nFebruary\nMarch\nApril\nMay\nJune\nJuly\nA"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 590,
+                    "d_y": 729.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[11]/div[2]/select[1]",
+                    "suggest_name": "Month\nJanuary\nFebruary\nMarch\nApril\nMay\nJune\nJuly\nA"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 590,
+                    "d_y": 729.59375,
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA9",
+                    "suggest_name": "Month\nJanuary\nFebruary\nMarch\nApril\nMay\nJune\nJuly\nA"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/362.png"
+        },
+        {
+            "testcase_element": "ele_Day1234567891011121314151617181",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "select#dayboxTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 736,
+                    "d_y": 729,
+                    "suggest_name": "Day\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n1"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 736.25,
+                    "d_y": 729.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//select[@id='daybox']",
+                    "suggest_name": "Day\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n1"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 736.25,
+                    "d_y": 729.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[11]/div[3]/select[1]",
+                    "suggest_name": "Day\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n1"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 736.25,
+                    "d_y": 729.59375,
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-invalid ng-invalid-required ng-touchedTGWEBCOMMA10",
+                    "suggest_name": "Day\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n1"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 736.25,
+                    "d_y": 729.59375,
+                    "locators": "id",
+                    "locators_val": "dayboxTGWEBCOMMA1",
+                    "suggest_name": "Day\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/363.png"
+        },
+        {
+            "testcase_element": "ele_frame11",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "frame1TGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 350,
+                    "d_w": 500,
+                    "d_x": 245,
+                    "d_y": 295,
+                    "suggest_name": "frame1TGWEBCOMMA1"
+                },
+                {
+                    "d_h": 350,
+                    "d_w": 500,
+                    "d_x": 245.125,
+                    "d_y": 295,
+                    "locators": "CSS selector",
+                    "locators_val": "iframe#frame1TGWEBCOMMA0",
+                    "suggest_name": "frame1TGWEBCOMMA1"
+                },
+                {
+                    "d_h": 350,
+                    "d_w": 500,
+                    "d_x": 245.125,
+                    "d_y": 295,
+                    "locators": "Xpath",
+                    "locators_val": "//iframe[@id='frame1']",
+                    "suggest_name": "frame1TGWEBCOMMA1"
+                },
+                {
+                    "d_h": 350,
+                    "d_w": 500,
+                    "d_x": 245.125,
+                    "d_y": 295,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/iframe[1]",
+                    "suggest_name": "frame1TGWEBCOMMA1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/364.png"
+        },
+        {
+            "testcase_element": "ele_NestedFrames",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "li#item-3 > a > spanTGWEBCOMMA4",
+                    "locator_id": "9",
+                    "d_h": 44,
+                    "d_w": 85,
+                    "d_x": 60,
+                    "d_y": 607,
+                    "suggest_name": "Nested Frames"
+                },
+                {
+                    "d_h": 44,
+                    "d_w": 85,
+                    "d_x": 60.25,
+                    "d_y": 607,
+                    "locators": "Xpath",
+                    "locators_val": "//span[normalize-space()='Nested Frames']",
+                    "suggest_name": "Nested Frames"
+                },
+                {
+                    "d_h": 44,
+                    "d_w": 85,
+                    "d_x": 60.25,
+                    "d_y": 607,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[4]/a[1]/span[1]",
+                    "suggest_name": "Nested Frames"
+                },
+                {
+                    "d_h": 44,
+                    "d_w": 85,
+                    "d_x": 60.25,
+                    "d_y": 607,
+                    "locators": "class",
+                    "locators_val": "textTGWEBCOMMA14",
+                    "suggest_name": "Nested Frames"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/365.png"
+        },
+        {
+            "testcase_element": "ele_iframe013",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "div#main > div:nth-of-type(2) > div > div > div > div > div > div > div > iframe:nth-of-type(2)TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 897,
+                    "d_w": 369,
+                    "d_x": 495,
+                    "d_y": 235,
+                    "suggest_name": "iframe013"
+                },
+                {
+                    "d_h": 897,
+                    "d_w": 369,
+                    "d_x": 495.328125,
+                    "d_y": 235.828125,
+                    "locators": "Xpath",
+                    "locators_val": "//iframe[@title='Alert & Popup']",
+                    "suggest_name": "iframe013"
+                },
+                {
+                    "d_h": 897,
+                    "d_w": 369,
+                    "d_x": 495.328125,
+                    "d_y": 235.828125,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/iframe[2]",
+                    "suggest_name": "iframe013"
+                },
+                {
+                    "d_h": 897,
+                    "d_w": 369,
+                    "d_x": 495.328125,
+                    "d_y": 235.828125,
+                    "locators": "class",
+                    "locators_val": "entered litespeed-loadedTGWEBCOMMA2",
+                    "suggest_name": "iframe013"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/366.png"
+        },
+        {
+            "testcase_element": "ele_iframe901",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "div#main > div:nth-of-type(2) > div > div > div > div > div > div > div > iframe:nth-of-type(3)TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 897,
+                    "d_w": 369,
+                    "d_x": 872,
+                    "d_y": 0,
+                    "suggest_name": "iframe901"
+                },
+                {
+                    "d_h": 897,
+                    "d_w": 369,
+                    "d_x": 872.65625,
+                    "d_y": -0.171875,
+                    "locators": "Xpath",
+                    "locators_val": "//iframe[@title='Registration Form']",
+                    "suggest_name": "iframe901"
+                },
+                {
+                    "d_h": 897,
+                    "d_w": 369,
+                    "d_x": 872.65625,
+                    "d_y": -0.171875,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/iframe[3]",
+                    "suggest_name": "iframe901"
+                },
+                {
+                    "d_h": 897,
+                    "d_w": 369,
+                    "d_x": 872.65625,
+                    "d_y": -0.171875,
+                    "locators": "class",
+                    "locators_val": "entered litespeed-loadedTGWEBCOMMA3",
+                    "suggest_name": "iframe901"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/367.png"
+        },
+        {
+            "testcase_element": "ele_DoubleClickMe",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "button#doubleClickBtnTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 155,
+                    "d_x": 245,
+                    "d_y": 223,
+                    "suggest_name": "Double Click Me"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 155,
+                    "d_x": 245.125,
+                    "d_y": 223,
+                    "locators": "Xpath",
+                    "locators_val": "//button[@id='doubleClickBtn']",
+                    "suggest_name": "Double Click Me"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 155,
+                    "d_x": 245.125,
+                    "d_y": 223,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/button[1]",
+                    "suggest_name": "Double Click Me"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 155,
+                    "d_x": 245.125,
+                    "d_y": 223,
+                    "locators": "class",
+                    "locators_val": "btn btn-primaryTGWEBCOMMA34",
+                    "suggest_name": "Double Click Me"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 155,
+                    "d_x": 245.125,
+                    "d_y": 223,
+                    "locators": "id",
+                    "locators_val": "doubleClickBtnTGWEBCOMMA1",
+                    "suggest_name": "Double Click Me"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/368.png"
+        },
+        {
+            "testcase_element": "ele_RightClickMe",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "button#rightClickBtnTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 140,
+                    "d_x": 245,
+                    "d_y": 285,
+                    "suggest_name": "Right Click Me"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 140,
+                    "d_x": 245.125,
+                    "d_y": 285,
+                    "locators": "Xpath",
+                    "locators_val": "//button[@id='rightClickBtn']",
+                    "suggest_name": "Right Click Me"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 140,
+                    "d_x": 245.125,
+                    "d_y": 285,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/button[1]",
+                    "suggest_name": "Right Click Me"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 140,
+                    "d_x": 245.125,
+                    "d_y": 285,
+                    "locators": "class",
+                    "locators_val": "btn btn-primaryTGWEBCOMMA35",
+                    "suggest_name": "Right Click Me"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 140,
+                    "d_x": 245.125,
+                    "d_y": 285,
+                    "locators": "id",
+                    "locators_val": "rightClickBtnTGWEBCOMMA1",
+                    "suggest_name": "Right Click Me"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/369.png"
+        },
+        {
+            "testcase_element": "ele_ClickMe",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "EstjlTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 38,
+                    "d_w": 93,
+                    "d_x": 245,
+                    "d_y": 347,
+                    "suggest_name": "Click Me"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 93,
+                    "d_x": 245.125,
+                    "d_y": 347,
+                    "locators": "CSS selector",
+                    "locators_val": "button#EstjlTGWEBCOMMA0",
+                    "suggest_name": "Click Me"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 93,
+                    "d_x": 245.125,
+                    "d_y": 347,
+                    "locators": "Xpath",
+                    "locators_val": "//button[@id='Estjl']",
+                    "suggest_name": "Click Me"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 93,
+                    "d_x": 245.125,
+                    "d_y": 347,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/button[1]",
+                    "suggest_name": "Click Me"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 93,
+                    "d_x": 245.125,
+                    "d_y": 347,
+                    "locators": "class",
+                    "locators_val": "btn btn-primaryTGWEBCOMMA36",
+                    "suggest_name": "Click Me"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/370.png"
+        },
+        {
+            "testcase_element": "ele_circle1",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "div#circleTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 96,
+                    "d_w": 96,
+                    "d_x": 632,
+                    "d_y": 359,
+                    "suggest_name": "circleTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 96,
+                    "d_w": 96,
+                    "d_x": 632.484375,
+                    "d_y": 359.5625,
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='circle']",
+                    "suggest_name": "circleTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 96,
+                    "d_w": 96,
+                    "d_x": 632.484375,
+                    "d_y": 359.5625,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/section[1]/main[1]/section[1]/article[1]/aside[1]/div[1]/aside[1]/div[1]/section[1]/div[1]",
+                    "suggest_name": "circleTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 96,
+                    "d_w": 96,
+                    "d_x": 632.484375,
+                    "d_y": 359.5625,
+                    "locators": "class",
+                    "locators_val": "zoom-button TGWEBCOMMA1",
+                    "suggest_name": "circleTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 96,
+                    "d_w": 96,
+                    "d_x": 632.484375,
+                    "d_y": 359.5625,
+                    "locators": "id",
+                    "locators_val": "circleTGWEBCOMMA1",
+                    "suggest_name": "circleTGWEBCOMMA1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/371.png"
+        },
+        {
+            "testcase_element": "ele_Home",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "a#simpleLinkTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 19,
+                    "d_w": 47,
+                    "d_x": 245,
+                    "d_y": 257,
+                    "suggest_name": "Home"
+                },
+                {
+                    "d_h": 19,
+                    "d_w": 47,
+                    "d_x": 245.125,
+                    "d_y": 257,
+                    "locators": "LinkText",
+                    "locators_val": "HomeTGWEBCOMMA1",
+                    "suggest_name": "Home"
+                },
+                {
+                    "d_h": 19,
+                    "d_w": 47,
+                    "d_x": 245.125,
+                    "d_y": 257,
+                    "locators": "Xpath",
+                    "locators_val": "//a[@id='simpleLink']",
+                    "suggest_name": "Home"
+                },
+                {
+                    "d_h": 19,
+                    "d_w": 47,
+                    "d_x": 245.125,
+                    "d_y": 257,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/a[1]",
+                    "suggest_name": "Home"
+                },
+                {
+                    "d_h": 19,
+                    "d_w": 47,
+                    "d_x": 245.125,
+                    "d_y": 257,
+                    "locators": "id",
+                    "locators_val": "simpleLinkTGWEBCOMMA1",
+                    "suggest_name": "Home"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/372.png"
+        },
+        {
+            "testcase_element": "ele_input387",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "form#basicBootstrapForm > div > div > inputTGWEBCOMMA5",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443,
+                    "d_y": 188,
+                    "suggest_name": "input387"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 188.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//input[@placeholder='First Name']",
+                    "suggest_name": "input387"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 188.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[1]/div[1]/input[1]",
+                    "suggest_name": "input387"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 188.59375,
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1",
+                    "suggest_name": "input387"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/373.png"
+        },
+        {
+            "testcase_element": "ele_Updatelocation",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "span#glow-ingress-line2TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 149,
+                    "d_x": 154,
+                    "d_y": 29,
+                    "suggest_name": "Update location"
+                },
+                {
+                    "d_h": 16,
+                    "d_w": 149,
+                    "d_x": 154,
+                    "d_y": 29,
+                    "locators": "Xpath",
+                    "locators_val": "//span[@id='glow-ingress-line2']",
+                    "suggest_name": "Update location"
+                },
+                {
+                    "d_h": 16,
+                    "d_w": 149,
+                    "d_x": 154,
+                    "d_y": 29,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/span[1]/a[1]/div[2]/span[2]",
+                    "suggest_name": "Update location"
+                },
+                {
+                    "d_h": 16,
+                    "d_w": 149,
+                    "d_x": 154,
+                    "d_y": 29,
+                    "locators": "class",
+                    "locators_val": "nav-line-2 nav-progressive-contentTGWEBCOMMA1",
+                    "suggest_name": "Update location"
+                },
+                {
+                    "d_h": 16,
+                    "d_w": 149,
+                    "d_x": 154,
+                    "d_y": 29,
+                    "locators": "id",
+                    "locators_val": "glow-ingress-line2TGWEBCOMMA1",
+                    "suggest_name": "Update location"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/374.png"
+        },
+        {
+            "testcase_element": "ele_India",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "span#GLUXCountryListDropdown > span > spanTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 30,
+                    "d_w": 323,
+                    "d_x": 518,
+                    "d_y": 533,
+                    "suggest_name": "India"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 323,
+                    "d_x": 518.5,
+                    "d_y": 533,
+                    "locators": "Xpath",
+                    "locators_val": "//span[@role='radiogroup']",
+                    "suggest_name": "India"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 323,
+                    "d_x": 518.5,
+                    "d_y": 533,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[16]/div[1]/div[1]/div[2]/div[1]/div[2]/div[3]/div[4]/span[1]/span[1]/span[1]/span[1]",
+                    "suggest_name": "India"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 323,
+                    "d_x": 518.5,
+                    "d_y": 533,
+                    "locators": "class",
+                    "locators_val": "a-button-text a-declarativeTGWEBCOMMA4",
+                    "suggest_name": "India"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/375.png"
+        },
+        {
+            "testcase_element": "ele_Choose",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "span#GLUXCountryListDropdown > span > spanTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 30,
+                    "d_w": 323,
+                    "d_x": 518,
+                    "d_y": 533,
+                    "suggest_name": "Choose"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 323,
+                    "d_x": 518.5,
+                    "d_y": 533,
+                    "locators": "Xpath",
+                    "locators_val": "//span[@role='radiogroup']",
+                    "suggest_name": "Choose"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 323,
+                    "d_x": 518.5,
+                    "d_y": 533,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[17]/div[1]/div[1]/div[2]/div[1]/div[2]/div[3]/div[4]/span[1]/span[1]/span[1]/span[1]",
+                    "suggest_name": "Choose"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 323,
+                    "d_x": 518.5,
+                    "d_y": 533,
+                    "locators": "class",
+                    "locators_val": "a-button-text a-declarativeTGWEBCOMMA6",
+                    "suggest_name": "Choose"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/376.png"
+        },
+        {
+            "testcase_element": "ele_BOOKS",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "html > body > div:nth-of-type(4) > div > div:nth-of-type(2) > ul > li > aTGWEBCOMMA13",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 75,
+                    "d_x": 225,
+                    "d_y": 190,
+                    "suggest_name": "BOOKS"
+                },
+                {
+                    "d_h": 20,
+                    "d_w": 75,
+                    "d_x": 225.5,
+                    "d_y": 190,
+                    "locators": "LinkText",
+                    "locators_val": "BooksTGWEBCOMMA0",
+                    "suggest_name": "BOOKS"
+                },
+                {
+                    "d_h": 20,
+                    "d_w": 75,
+                    "d_x": 225.5,
+                    "d_y": 190,
+                    "locators": "Xpath",
+                    "locators_val": "//body/div/div/div/ul[1]/li[1]/a[1]",
+                    "suggest_name": "BOOKS"
+                },
+                {
+                    "d_h": 20,
+                    "d_w": 75,
+                    "d_x": 225.5,
+                    "d_y": 190,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[4]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+                    "suggest_name": "BOOKS"
+                },
+                {
+                    "d_h": 20,
+                    "d_w": 75,
+                    "d_x": 225.5,
+                    "d_y": 190,
+                    "locators": "PartialLinkText",
+                    "locators_val": "BooksTGWEBCOMMA2",
+                    "suggest_name": "BOOKS"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/377.png"
+        },
+        {
+            "testcase_element": "ele_twotabsearchtextbox1",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "input#twotabsearchtextboxTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 517,
+                    "d_x": 378,
+                    "d_y": 11,
+                    "suggest_name": "twotabsearchtextboxTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 517,
+                    "d_x": 378.75,
+                    "d_y": 11,
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='twotabsearchtextbox']",
+                    "suggest_name": "twotabsearchtextboxTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 517,
+                    "d_x": 378.75,
+                    "d_y": 11,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[2]/div[1]/input[1]",
+                    "suggest_name": "twotabsearchtextboxTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 517,
+                    "d_x": 378.75,
+                    "d_y": 11,
+                    "locators": "class",
+                    "locators_val": "nav-input nav-progressive-attribute hokuto-rotate-fadeTGWEBCOMMA1",
+                    "suggest_name": "twotabsearchtextboxTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 517,
+                    "d_x": 378.75,
+                    "d_y": 11,
+                    "locators": "id",
+                    "locators_val": "twotabsearchtextboxTGWEBCOMMA1",
+                    "suggest_name": "twotabsearchtextboxTGWEBCOMMA1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/378.png"
+        },
+        {
+            "testcase_element": "ele_navsearchsubmitbutton1",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "input#nav-search-submit-buttonTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 45,
+                    "d_x": 886,
+                    "d_y": 10,
+                    "suggest_name": "navsearchsubmitbuttonTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 45,
+                    "d_x": 886.03125,
+                    "d_y": 10,
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='nav-search-submit-button']",
+                    "suggest_name": "navsearchsubmitbuttonTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 45,
+                    "d_x": 886.03125,
+                    "d_y": 10,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[3]/div[1]/span[1]/input[1]",
+                    "suggest_name": "navsearchsubmitbuttonTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 45,
+                    "d_x": 886.03125,
+                    "d_y": 10,
+                    "locators": "class",
+                    "locators_val": "nav-input nav-progressive-attributeTGWEBCOMMA2",
+                    "suggest_name": "navsearchsubmitbuttonTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 45,
+                    "d_x": 886.03125,
+                    "d_y": 10,
+                    "locators": "id",
+                    "locators_val": "nav-search-submit-buttonTGWEBCOMMA1",
+                    "suggest_name": "navsearchsubmitbuttonTGWEBCOMMA1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/379.png"
+        },
+        {
+            "testcase_element": "ele_Cart",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "div#nav-cart-text-container > span:nth-of-type(2)TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 15,
+                    "d_w": 28,
+                    "d_x": 1297,
+                    "d_y": 29,
+                    "suggest_name": "Cart"
+                },
+                {
+                    "d_h": 15,
+                    "d_w": 28,
+                    "d_x": 1297,
+                    "d_y": 29,
+                    "locators": "Xpath",
+                    "locators_val": "//span[@aria-hidden='true'][normalize-space()='Cart']",
+                    "suggest_name": "Cart"
+                },
+                {
+                    "d_h": 15,
+                    "d_w": 28,
+                    "d_x": 1297,
+                    "d_y": 29,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[3]/div[1]/a[2]/div[2]/span[2]",
+                    "suggest_name": "Cart"
+                },
+                {
+                    "d_h": 15,
+                    "d_w": 28,
+                    "d_x": 1297,
+                    "d_y": 29,
+                    "locators": "class",
+                    "locators_val": "nav-line-2TGWEBCOMMA5",
+                    "suggest_name": "Cart"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/380.png"
+        },
+        {
+            "testcase_element": "ele_input778",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "form#basicBootstrapForm > div > div > inputTGWEBCOMMA5",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443,
+                    "d_y": 188,
+                    "suggest_name": "input778"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 188.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//input[@placeholder='First Name']",
+                    "suggest_name": "input778"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 188.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[1]/div[1]/input[1]",
+                    "suggest_name": "input778"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 188.59375,
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1",
+                    "suggest_name": "input778"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/381.png"
+        },
+        {
+            "testcase_element": "ele_input225",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "form#basicBootstrapForm > div > div > inputTGWEBCOMMA5",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443,
+                    "d_y": 188,
+                    "suggest_name": "input225"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 188.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//input[@placeholder='First Name']",
+                    "suggest_name": "input225"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 188.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[1]/div[1]/input[1]",
+                    "suggest_name": "input225"
+                },
+                {
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 188.59375,
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1",
+                    "suggest_name": "input225"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/382.png"
+        },
+        {
+            "testcase_element": "ele_RunTest",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "div#root > div:nth-of-type(2) > main > div > div > div > div:nth-of-type(3) > div > div > div > div > buttonTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 36,
+                    "d_w": 93,
+                    "d_x": 891,
+                    "d_y": 235,
+                    "suggest_name": "Run Test"
+                },
+                {
+                    "d_h": 36,
+                    "d_w": 93,
+                    "d_x": 891.125,
+                    "d_y": 235,
+                    "locators": "Xpath",
+                    "locators_val": "//button[normalize-space()='Run Test']",
+                    "suggest_name": "Run Test"
+                },
+                {
+                    "d_h": 36,
+                    "d_w": 93,
+                    "d_x": 891.125,
+                    "d_y": 235,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/button[1]",
+                    "suggest_name": "Run Test"
+                },
+                {
+                    "d_h": 36,
+                    "d_w": 93,
+                    "d_x": 891.125,
+                    "d_y": 235,
+                    "locators": "class",
+                    "locators_val": "inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 border border-input bg-background shadow-sm hover:bg-accent hover:text-accent-foreground h-9 px-4 py-2TGWEBCOMMA5",
+                    "suggest_name": "Run Test"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/383.png"
+        },
+        {
+            "testcase_element": "ele_Sendrequest",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//span[@id='rp-send-label']",
+                    "locator_id": "3",
+                    "d_h": 21,
+                    "d_w": 89,
+                    "d_x": 574,
+                    "d_y": 552,
+                    "suggest_name": "Sendrequest"
+                },
+                {
+                    "d_h": 21,
+                    "d_w": 89,
+                    "d_x": 574.609375,
+                    "d_y": 552.515625,
+                    "locators": "CSS selector",
+                    "locators_val": "span#rp-send-labelTGWEBCOMMA0",
+                    "suggest_name": "Sendrequest"
+                },
+                {
+                    "d_h": 21,
+                    "d_w": 89,
+                    "d_x": 574.609375,
+                    "d_y": 552.515625,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[2]/button[1]/span[1]",
+                    "suggest_name": "Sendrequest"
+                },
+                {
+                    "d_h": 21,
+                    "d_w": 89,
+                    "d_x": 574.609375,
+                    "d_y": 552.515625,
+                    "locators": "id",
+                    "locators_val": "rp-send-labelTGWEBCOMMA1",
+                    "suggest_name": "Sendrequest"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/384.png"
+        },
+        {
+            "testcase_element": "ele_pYourbrowserdoesnotsupportiframesp",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "div#Multiple > iframeTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 300,
+                    "d_w": 600,
+                    "d_x": 407,
+                    "d_y": 275,
+                    "suggest_name": "<p>Your browser does not support iframes.</p>"
+                },
+                {
+                    "d_h": 300,
+                    "d_w": 600,
+                    "d_x": 407.5,
+                    "d_y": 275.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//iframe[@src='MultipleFrames.html']",
+                    "suggest_name": "<p>Your browser does not support iframes.</p>"
+                },
+                {
+                    "d_h": 300,
+                    "d_w": 600,
+                    "d_x": 407.5,
+                    "d_y": 275.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/iframe[1]",
+                    "suggest_name": "<p>Your browser does not support iframes.</p>"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/385.png"
+        },
+        {
+            "testcase_element": "ele_iframewithinaniframe",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "html > body > section > div > div > div > div > div > div > ul > li:nth-of-type(2) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 176,
+                    "d_x": 523,
+                    "d_y": 175,
+                    "suggest_name": "Iframe with in an Iframe"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 176,
+                    "d_x": 523.984375,
+                    "d_y": 175.59375,
+                    "locators": "LinkText",
+                    "locators_val": "Iframe with in an IframeTGWEBCOMMA0",
+                    "suggest_name": "Iframe with in an Iframe"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 176,
+                    "d_x": 523.984375,
+                    "d_y": 175.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//a[normalize-space()='Iframe with in an Iframe']",
+                    "suggest_name": "Iframe with in an Iframe"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 176,
+                    "d_x": 523.984375,
+                    "d_y": 175.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+                    "suggest_name": "Iframe with in an Iframe"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 176,
+                    "d_x": 523.984375,
+                    "d_y": 175.59375,
+                    "locators": "PartialLinkText",
+                    "locators_val": "Iframe with in an IfTGWEBCOMMA0",
+                    "suggest_name": "Iframe with in an Iframe"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 176,
+                    "d_x": 523.984375,
+                    "d_y": 175.59375,
+                    "locators": "class",
+                    "locators_val": "analysticTGWEBCOMMA2",
+                    "suggest_name": "Iframe with in an Iframe"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/386.png"
+        },
+        {
+            "testcase_element": "ele_Hoverovermeexampleno2",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "button#button-hover-overTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 257,
+                    "d_x": 270,
+                    "d_y": 287,
+                    "suggest_name": "Hover over me, example no.2"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 257,
+                    "d_x": 270,
+                    "d_y": 287.296875,
+                    "locators": "Xpath",
+                    "locators_val": "//button[@id='button-hover-over']",
+                    "suggest_name": "Hover over me, example no.2"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 257,
+                    "d_x": 270,
+                    "d_y": 287.296875,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/button[1]",
+                    "suggest_name": "Hover over me, example no.2"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 257,
+                    "d_x": 270,
+                    "d_y": 287.296875,
+                    "locators": "class",
+                    "locators_val": "btn btn-primary myDIVTGWEBCOMMA2",
+                    "suggest_name": "Hover over me, example no.2"
+                },
+                {
+                    "d_h": 38,
+                    "d_w": 257,
+                    "d_x": 270,
+                    "d_y": 287.296875,
+                    "locators": "id",
+                    "locators_val": "button-hover-overTGWEBCOMMA1",
+                    "suggest_name": "Hover over me, example no.2"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/387.png"
+        },
+        {
+            "testcase_element": "ele_All",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "a#nav-hamburger-menu > spanTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 12,
+                    "d_w": 23,
+                    "d_x": 37,
+                    "d_y": 73,
+                    "suggest_name": "All"
+                },
+                {
+                    "d_h": 12,
+                    "d_w": 23,
+                    "d_x": 37,
+                    "d_y": 73.5,
+                    "locators": "Xpath",
+                    "locators_val": "//a[@id='nav-hamburger-menu']//span[contains(text(),'All')]",
+                    "suggest_name": "All"
+                },
+                {
+                    "d_h": 12,
+                    "d_w": 23,
+                    "d_x": 37,
+                    "d_y": 73.5,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/header[1]/div[1]/div[5]/div[1]/a[1]/span[1]",
+                    "suggest_name": "All"
+                },
+                {
+                    "d_h": 12,
+                    "d_w": 23,
+                    "d_x": 37,
+                    "d_y": 73.5,
+                    "locators": "class",
+                    "locators_val": "hm-icon-labelTGWEBCOMMA1",
+                    "suggest_name": "All"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/388.png"
+        },
+        {
+            "testcase_element": "ele_i161",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "a#nav-hamburger-menu > iTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 14,
+                    "d_w": 17,
+                    "d_x": 20,
+                    "d_y": 72,
+                    "suggest_name": "i161"
+                },
+                {
+                    "d_h": 14,
+                    "d_w": 17,
+                    "d_x": 20,
+                    "d_y": 72.5,
+                    "locators": "Xpath",
+                    "locators_val": "//a[@id='nav-hamburger-menu']//i",
+                    "suggest_name": "i161"
+                },
+                {
+                    "d_h": 14,
+                    "d_w": 17,
+                    "d_x": 20,
+                    "d_y": 72.5,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/header[1]/div[1]/div[4]/div[1]/a[1]/i[1]",
+                    "suggest_name": "i161"
+                },
+                {
+                    "d_h": 14,
+                    "d_w": 17,
+                    "d_x": 20,
+                    "d_y": 72.5,
+                    "locators": "class",
+                    "locators_val": "hm-icon nav-spriteTGWEBCOMMA1",
+                    "suggest_name": "i161"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/389.png"
+        },
+        {
+            "testcase_element": "ele_PrimeVideo",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "div#hmenu-content > div > section:nth-of-type(2) > ul > li > a > divTGWEBCOMMA9",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 76,
+                    "d_x": 36,
+                    "d_y": 257,
+                    "suggest_name": "Prime Video"
+                },
+                {
+                    "d_h": 16,
+                    "d_w": 76,
+                    "d_x": 36,
+                    "d_y": 257,
+                    "locators": "Xpath",
+                    "locators_val": "//a[@role='button']//div[contains(text(),'Prime Video')]",
+                    "suggest_name": "Prime Video"
+                },
+                {
+                    "d_h": 16,
+                    "d_w": 76,
+                    "d_x": 36,
+                    "d_y": 257,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[16]/div[2]/div[2]/div[1]/section[2]/ul[1]/li[1]/a[1]/div[1]",
+                    "suggest_name": "Prime Video"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/390.png"
+        },
+        {
+            "testcase_element": "ele_Categories",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "div#hmenu-content > div:nth-of-type(2) > section > ul > li:nth-of-type(2) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 42,
+                    "d_w": 350,
+                    "d_x": 0,
+                    "d_y": 188,
+                    "suggest_name": "Categories"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 350,
+                    "d_x": 0,
+                    "d_y": 188,
+                    "locators": "LinkText",
+                    "locators_val": "CategoriesTGWEBCOMMA0",
+                    "suggest_name": "Categories"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 350,
+                    "d_x": 0,
+                    "d_y": 188,
+                    "locators": "Xpath",
+                    "locators_val": "//a[normalize-space()='Categories']",
+                    "suggest_name": "Categories"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 350,
+                    "d_x": 0,
+                    "d_y": 188,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[16]/div[2]/div[2]/div[2]/section[1]/ul[1]/li[2]/a[1]",
+                    "suggest_name": "Categories"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 350,
+                    "d_x": 0,
+                    "d_y": 188,
+                    "locators": "PartialLinkText",
+                    "locators_val": "CategoriTGWEBCOMMA0",
+                    "suggest_name": "Categories"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 350,
+                    "d_x": 0,
+                    "d_y": 188,
+                    "locators": "class",
+                    "locators_val": "hmenu-itemTGWEBCOMMA69",
+                    "suggest_name": "Categories"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/391.png"
+        },
+        {
+            "testcase_element": "ele_FranaisFrance",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/span[1]/a[1]",
+                    "locator_id": "3",
+                    "d_h": 18,
+                    "d_w": 128,
+                    "d_x": 351,
+                    "d_y": 877,
+                    "suggest_name": "Franais (France)"
+                },
+                {
+                    "d_h": 18,
+                    "d_w": 128,
+                    "d_x": 351.5,
+                    "d_y": 877,
+                    "locators": "PartialLinkText",
+                    "locators_val": "Franais (FrancTGWEBCOMMA0",
+                    "suggest_name": "Franais (France)"
+                },
+                {
+                    "d_h": 18,
+                    "d_w": 128,
+                    "d_x": 351.5,
+                    "d_y": 877,
+                    "locators": "class",
+                    "locators_val": "x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 xggy1nq x1a2a7pz x1lku1pv xi81zsa xo1l8bmTGWEBCOMMA7",
+                    "suggest_name": "Franais (France)"
+                },
+                {
+                    "d_h": 18,
+                    "d_w": 128,
+                    "d_x": 351.5,
+                    "d_y": 877,
+                    "locators": "CSS selector",
+                    "locators_val": "div#mount_0_0_/y > div > div > div > div > div > div > div > div > div > div > div:nth-of-type(3) > div > div > div > div > div > div:nth-of-type(2) > div > div > div > div > div > div > div:nth-of-type(3) > span > aTGWEBCOMMA0",
+                    "suggest_name": "Franais (France)"
+                },
+                {
+                    "d_h": 18,
+                    "d_w": 128,
+                    "d_x": 351.5,
+                    "d_y": 877,
+                    "locators": "LinkText",
+                    "locators_val": "Franais (France)TGWEBCOMMA0",
+                    "suggest_name": "Franais (France)"
+                },
+                {
+                    "d_h": 18,
+                    "d_w": 128,
+                    "d_x": 351.5,
+                    "d_y": 877,
+                    "locators": "Xpath",
+                    "locators_val": "//a[normalize-space()='Franais (France)']",
+                    "suggest_name": "Franais (France)"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/392.png"
+        }
+    ]
+}
