@@ -37,7 +37,6 @@ public class dateutility {
 		var_dateutility = tg.dateUtilities("{datetime}");
 		tg.printLogs(var_dateutility);
 		var_dateutility = tg.dateUtilities("{date[adddays][14.09.2026,10][dd/MM/yyyy]}");
-		tg.type("ele_input092", var_dateutility);
 		tg.printLogs(var_dateutility);
 		var_ans1 = tg.performCalculations("{math["+var_one+" + "+var_two+" * 5]}").toString();
 		tg.printLogs(var_ans1);
