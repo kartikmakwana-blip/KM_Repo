@@ -31,15 +31,15 @@ public class conditionaltc {
 		tg.printLogs(var_ra_RT_int);
 		while(tg.verify.isEqualTo("Testgrid", var_GL_Str)){
 		while(tg.verify.isNotEqualTo("USA", var_ra_RT_Str)){
-		while(tg.verify.isLessThanOrEqualTo(100, var_GL_int)){
-		while(tg.verify.isGreaterThanOrEqualTo(500, var_ra_RT_int)){
-		while(tg.verify.isLessThan(100, var_GL_int)){
-		while(tg.verify.isGreaterThan(500, var_ra_RT_int)){
-		while(tg.verify.contains("Test", var_GL_Str)){
+		while(tg.verify.isLessThanOrEqualTo(10, var_GL_int)){
+		while(tg.verify.isGreaterThanOrEqualTo(700, var_ra_RT_int)){
+		while(tg.verify.isLessThan(10, var_GL_int)){
+		while(tg.verify.isGreaterThan(700, var_ra_RT_int)){
+		while(tg.verify.contains(var_GL_Str, "Test")){
 		var_GL_Str = tg.saveToVariable("Google", var_GL_Str);
-		var_GL_int = tg.saveToVariable(90, var_GL_int);
+		var_GL_int = tg.saveToVariable(5, var_GL_int);
 		var_ra_RT_Str = tg.saveToVariable("USA", var_ra_RT_Str);
-		var_ra_RT_int = tg.saveToVariable(5000, var_ra_RT_int);
+		var_ra_RT_int = tg.saveToVariable(1000, var_ra_RT_int);
 		tg.printLogs(var_GL_Str);
 		tg.printLogs(var_GL_int);
 		tg.printLogs(var_ra_RT_Str);
@@ -52,13 +52,13 @@ public class conditionaltc {
 		}
 		}
 		tg.printLogs("REPEAT IF ACTION COMPLETED........");
-		if(tg.performAssert(var_GL_Str, ComparisonType.EQUAL_TO, "Testgrid")){
+		if(tg.performAssert(var_GL_Str, ComparisonType.EQUAL_TO, "Google")){
 		if(tg.performAssert(var_GL_int, ComparisonType.NOT_EQUAL_TO, 11)){
-		if(tg.performAssert(var_GL_int, ComparisonType.GREATER_THAN_OR_EQUAL_TO, 200)){
+		if(tg.performAssert(var_GL_int, ComparisonType.GREATER_THAN_OR_EQUAL_TO, 1)){
 		if(tg.performAssert(var_GL_int, ComparisonType.LESS_THAN_OR_EQUAL_TO , 1000)){
-		if(tg.performAssert(var_GL_int, ComparisonType.GREATER_THAN , 100)){
+		if(tg.performAssert(var_GL_int, ComparisonType.GREATER_THAN , 1)){
 		if(tg.performAssert(var_GL_int, ComparisonType.LESS_THAN , 300)){
-		if(tg.performAssert(var_GL_Str, ComparisonType.CONTAINS , "Test")){
+		if(tg.performAssert(var_GL_Str, ComparisonType.CONTAINS , "oo")){
 		if(tg.performAssert("ele_firstnameInput", ComparisonType.IS_ENABLE)){
 		tg.type("ele_firstnameInput", var_GL_Str);
 		}
@@ -68,6 +68,11 @@ public class conditionaltc {
 		}
 		}
 		}
+		}
+		while(tg.verify.isEqualTo(var_GL_int, 5)){
+		tg.printLogs(var_GL_int);
+		tg.printLogs("Breaked.......");
+		break;
 		}
 		if(tg.performAssert(var_GL_Str, ComparisonType.EQUAL_TO, "Google")){
 		tg.printLogs("IF Statement Pass");

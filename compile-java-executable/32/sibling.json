@@ -5033,7 +5033,7 @@
                     "d_w": 165,
                     "d_x": 723,
                     "d_y": 222,
-                    "suggest_name": "firstname364"
+                    "suggest_name": "ele_firstnameInput"
                 },
                 {
                     "locators": "Xpath",
@@ -5043,7 +5043,7 @@
                     "d_w": 165,
                     "d_x": 723.75,
                     "d_y": 222.59375,
-                    "suggest_name": "firstname364"
+                    "suggest_name": "ele_firstnameInput"
                 },
                 {
                     "locators": "CSS selector",
@@ -5053,7 +5053,7 @@
                     "d_w": 165,
                     "d_x": 723.75,
                     "d_y": 222.59375,
-                    "suggest_name": "firstname364"
+                    "suggest_name": "ele_firstnameInput"
                 },
                 {
                     "locators": "CSS selector",
@@ -5063,7 +5063,7 @@
                     "d_w": 165,
                     "d_x": 723.75,
                     "d_y": 222.59375,
-                    "suggest_name": "firstname364"
+                    "suggest_name": "ele_firstnameInput"
                 },
                 {
                     "locators": "Xpath",
@@ -5073,7 +5073,7 @@
                     "d_w": 165,
                     "d_x": 723.75,
                     "d_y": 222.59375,
-                    "suggest_name": "firstname364"
+                    "suggest_name": "ele_firstnameInput"
                 },
                 {
                     "locators": "class",
@@ -5083,7 +5083,7 @@
                     "d_w": 165,
                     "d_x": 723.75,
                     "d_y": 222.59375,
-                    "suggest_name": "firstname364"
+                    "suggest_name": "ele_firstnameInput"
                 }
             ],
             "iframe_and_shadow_root_data": [],

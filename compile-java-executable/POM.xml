@@ -88,6 +88,58 @@
                     <configuration>
                         <failOnError>false</failOnError>
                     </configuration>
+                </execution>                                    
+                <execution>
+                    <id>compile-javac-plugin</id>
+                    <phase>process-resources</phase>
+                    <goals>
+                        <goal>compile</goal>
+                    </goals>
+                    <configuration>
+                        <includes>
+                            <include>io/testgrid/javac/**</include>
+                        </includes>
+                        <compilerArgs>
+                            <arg>-processorpath</arg>
+                            <arg>${project.build.directory}/no-processors</arg>
+                        </compilerArgs>
+                    </configuration>
+                </execution>
+                <execution>
+                    <id>default-compile</id>
+                    <configuration>
+                        <excludes>
+                            <exclude>io/testgrid/javac/**</exclude>
+                        </excludes>
+                    </configuration>
+                </execution>
+            </executions>
+        </plugin>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-antrun-plugin</artifactId>
+            <version>3.1.0</version>
+            <executions>
+                <execution>
+                    <id>write-javac-plugin-registration</id>
+                    <phase>process-resources</phase>
+                    <goals>
+                        <goal>run</goal>
+                    </goals>
+                    <configuration>
+                        <target>
+                            <echo file="${project.build.outputDirectory}/META-INF/services/com.sun.source.util.Plugin"
+                                            message="io.testgrid.javac.TgJavacPlugin${line.separator}"/>
+                            <!-- Standalone copy for IntelliJ's own build (.idea/compiler.xml annotation profile
+                                            points at .idea/javac-plugin-classes). Kept outside target/ because IntelliJ Rebuild and mvn clean wipe target/. -->
+                            <copy todir="${project.basedir}/.idea/javac-plugin-classes">
+                                <fileset dir="${project.build.outputDirectory}">
+                                    <include name="io/testgrid/javac/**"/>
+                                    <include name="META-INF/services/com.sun.source.util.Plugin"/>
+                                </fileset>
+                            </copy>
+                        </target>
+                    </configuration>
                 </execution>
             </executions>
         </plugin>
