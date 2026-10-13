@@ -519,4 +519,21 @@
     <element type="class">form-control ng-pristine ng-untouched ng-valid-email ng-invalid ng-invalid-requiredTGWEBCOMMA4</element>
     <element type="image">http://10.0.161.5/s/ele-imgs/32/487.png</element>
   </locator>
+  <locator name="ele_HamburgerMenu">
+    <element type="xpath">//a[@id='nav-hamburger-menu']//i</element>
+    <element type="xpath">//a[@id='nav-hamburger-menu']/i</element>
+    <element type="css">i.hm-icon.nav-sprite</element>
+    <element type="css">a#nav-hamburger-menu &gt; iTGWEBCOMMA0</element>
+    <element type="xpath">//a/i</element>
+    <element type="class">hm-icon nav-spriteTGWEBCOMMA1</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/32/488.png</element>
+  </locator>
+  <locator name="ele_NestediframeTextbox3">
+    <element type="coordinates"/>
+    <element type="xpath">//input[@type='text']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="css">html &gt; body &gt; section &gt; div &gt; div &gt; div &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/32/489.png</element>
+  </locator>
 </locators>

@@ -27,8 +27,8 @@ public class networkassert_1 {
 		tg.openBrowser();
 				tg.navigateToUrl("https://www.amazon.in/");
 				tg.wait(2);
-				tg.wait("ele_element729", ComparisonType.IS_VISIBLE);
-				tg.click("ele_element729", 1);
+				tg.wait("ele_HamburgerMenu", ComparisonType.IS_VISIBLE);
+				tg.click("ele_HamburgerMenu", 1);
 		tg.close();
 	}
 }

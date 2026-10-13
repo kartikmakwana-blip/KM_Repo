@@ -31,8 +31,9 @@ public class iframe {
 				tg.type("ele_textboxsha205", "Testgrid");
 				tg.wait("ele_nestediframe", ComparisonType.IS_VISIBLE);
 				tg.click("ele_nestediframe", 1);
-				tg.wait("ele_Nestediframetextbox2", ComparisonType.IS_VISIBLE);
-				tg.type("ele_Nestediframetextbox2", "Testgrid");
+				tg.wait("ele_NestediframeTextbox3", ComparisonType.IS_VISIBLE);
+				tg.click("ele_NestediframeTextbox3", 1);
+				tg.type("ele_NestediframeTextbox3", "Testgrid");
 		tg.close();
 	}
 }

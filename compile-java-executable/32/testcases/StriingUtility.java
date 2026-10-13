@@ -53,9 +53,9 @@ public class striingutility {
 		tg.printLogs(var_strthree);
 		var_strthree = tg.stringUtilities("{STRING[CONCAT]["+var_strtwo+"]}");
 		tg.printLogs(var_strthree);
-		var_strthree = tg.stringUtilities("{STRING[COMPARE]["+var_strone+",m[]}");
+		var_strthree = tg.stringUtilities("{STRING[COMPARE]["+var_strone+",Mina]}");
 		tg.printLogs(var_strthree);
-		var_strthree = tg.stringUtilities("{STRING[COMPAREIGNORECASE]["+var_strone+"][m]}");
+		var_strthree = tg.stringUtilities("{STRING[COMPAREIGNORECASE]["+var_strone+"],[ronit]]}");
 		tg.printLogs(var_strthree);
 		tg.close();
 	}

@@ -5726,6 +5726,243 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": "http://10.0.161.5/s/ele-imgs/32/487.png"
+        },
+        {
+            "testcase_element": "ele_HamburgerMenu",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "javascript: void(0)",
+                        "id": "nav-hamburger-menu",
+                        "role": "button",
+                        "aria-label": "Open All Categories Menu",
+                        "aria-expanded": "false",
+                        "data-csa-c-type": "widget",
+                        "data-csa-c-slot-id": "HamburgerMenuDesktop",
+                        "data-csa-c-interaction-events": "click",
+                        "data-csa-c-id": "efy2xn-lpsfeq-26q5me-pv312y",
+                        "style": "box-shadow: none !important;"
+                    },
+                    "tg_text": null
+                },
+                "next_sibling": {
+                    "tag": "span",
+                    "tg_attributes": {
+                        "class": "hm-icon-label",
+                        "style": "box-shadow: none; outline: none;"
+                    },
+                    "tg_text": "All"
+                },
+                "current_element_attrs": {
+                    "tag": "i",
+                    "tg_attributes": {
+                        "class": "hm-icon nav-sprite",
+                        "style": "box-shadow: none !important; outline: none !important;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[@id='nav-hamburger-menu']//i",
+                    "locator_id": "3",
+                    "d_h": 14,
+                    "d_w": 17,
+                    "d_x": 24,
+                    "d_y": 72,
+                    "suggest_name": "element632"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a[@id='nav-hamburger-menu']/i",
+                    "locator_id": "3",
+                    "d_h": 14,
+                    "d_w": 17,
+                    "d_x": 24,
+                    "d_y": 72.5,
+                    "suggest_name": "element632"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "i.hm-icon.nav-sprite",
+                    "locator_id": "9",
+                    "d_h": 14,
+                    "d_w": 17,
+                    "d_x": 24,
+                    "d_y": 72.5,
+                    "suggest_name": "element632"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "a#nav-hamburger-menu > iTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 14,
+                    "d_w": 17,
+                    "d_x": 24,
+                    "d_y": 72.5,
+                    "suggest_name": "element632"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a/i",
+                    "locator_id": "3",
+                    "d_h": 14,
+                    "d_w": 17,
+                    "d_x": 24,
+                    "d_y": 72.5,
+                    "suggest_name": "element632"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "hm-icon nav-spriteTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 14,
+                    "d_w": 17,
+                    "d_x": 24,
+                    "d_y": 72.5,
+                    "suggest_name": "element632"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/488.png"
+        },
+        {
+            "testcase_element": "ele_NestediframeTextbox3",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-xs-6 col-xs-offset-5",
+                        "style": "margin-top: 150px"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "style": "box-shadow: none !important; outline: none !important;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@type='text']",
+                    "locator_id": "3",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185.390625,
+                    "suggest_name": "textip1ip375"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[type=\"text\"]",
+                    "locator_id": "9",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185.390625,
+                    "suggest_name": "textip1ip375"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > section > div > div > div > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185.390625,
+                    "suggest_name": "textip1ip375"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 26,
+                    "d_w": 210,
+                    "d_x": 180,
+                    "d_y": 185.390625,
+                    "suggest_name": "textip1ip375"
+                }
+            ],
+            "iframe_and_shadow_root_data": [
+                {
+                    "is_secure_field": false,
+                    "is_extension": true,
+                    "element_list": [
+                        {
+                            "ele_id": 2,
+                            "value": "ele_pyourbrows853",
+                            "element_display_name": "pYour browser does not support ",
+                            "elementTag": "iframeTGWEBCOMMA0",
+                            "display_name": "pyourbrows853!@!@",
+                            "page_name": "",
+                            "element_image": "",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//iframe[contains(text(),'<p>Your browser does not support iframes.</p>')]\",\"locator_id\":\"3\",\"d_h\":250,\"d_w\":400,\"d_x\":98,\"d_y\":40.6875,\"suggest_name\":\"pyourbrows853\"},{\"locators\":\"CSS selector\",\"locators_val\":\"iframe\",\"locator_id\":\"9\",\"d_h\":250,\"d_w\":400,\"d_x\":98,\"d_y\":40.6875,\"suggest_name\":\"pyourbrows853\"},{\"locators\":\"Tag\",\"locators_val\":\"iframeTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":250,\"d_w\":400,\"d_x\":98,\"d_y\":40.6875,\"suggest_name\":\"pyourbrows853\"}]",
+                            "data": {
+                                "element_name": "pyourbrows853",
+                                "script_type": 1,
+                                "platform": 3,
+                                "typeofelement": "3",
+                                "value": [
+                                    "//iframe[contains(text(),'<p>Your browser does not support iframes.</p>')]"
+                                ],
+                                "temp_element_id": 0,
+                                "pagenameis": "",
+                                "d_h": 250,
+                                "d_w": 400,
+                                "d_x": 98,
+                                "d_y": 40.6875,
+                                "radious": 0,
+                                "version_module_id": 0,
+                                "autoheal_elements": [
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//iframe[contains(text(),'<p>Your browser does not support iframes.</p>')]",
+                                        "locator_id": "3",
+                                        "d_h": 250,
+                                        "d_w": 400,
+                                        "d_x": 98,
+                                        "d_y": 40.6875,
+                                        "suggest_name": "pyourbrows853"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "iframe",
+                                        "locator_id": "9",
+                                        "d_h": 250,
+                                        "d_w": 400,
+                                        "d_x": 98,
+                                        "d_y": 40.6875,
+                                        "suggest_name": "pyourbrows853"
+                                    },
+                                    {
+                                        "locators": "Tag",
+                                        "locators_val": "iframeTGWEBCOMMA0",
+                                        "locator_id": "8",
+                                        "d_h": 250,
+                                        "d_w": 400,
+                                        "d_x": 98,
+                                        "d_y": 40.6875,
+                                        "suggest_name": "pyourbrows853"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "element_type": "iframe"
+                }
+            ],
+            "element_type": "coordinates",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/489.png"
         }
     ]
 }
