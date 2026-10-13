@@ -29,7 +29,7 @@
         "user_id": "2",
         "os_type": "0",
         "platform": "3",
-        "nob": "47",
+        "nob": "49",
         "cm_version_id": "1,25,34,35,36,37",
         "is_autoheal": "1",
         "is_autoheal_autofixed": "0",
@@ -59,9 +59,9 @@
             "cm_test_function": "19",
             "cm_test_case": "209,210,212,213,214,215,216,217,218,219,222,223,224,254,255,256,257",
             "cm_test_case_ai": "",
-            "cm_network": "",
+            "cm_network": "9",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-10-13 10:09:59",
+            "view_updated_date_time": "2026-10-13 10:23:40",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -114,7 +114,7 @@
                     "created_source": "import_zip",
                     "created_source_ref": null,
                     "is_draft": "0",
-                    "updated_at": "2026-10-13 10:10:23",
+                    "updated_at": "2026-10-13 10:23:58",
                     "created_at": "2026-10-12 09:05:08",
                     "status": "2",
                     "qtest_skip_sync": "1",
@@ -554,7 +554,73 @@
                 }
             ],
             "abo_vm_test_case_manual": [],
-            "abo_vm_network_assert": [],
+            "abo_vm_network_assert": [
+                {
+                    "na_id": "9",
+                    "version_module_id": "32",
+                    "na_name": "AmazonNA",
+                    "na_description": "",
+                    "cm_step_list": "23,24,25,26,27",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "abo_na_steps": [
+                        {
+                            "na_step_id": "23",
+                            "na_id": "9",
+                            "keyword_id": "4",
+                            "order": "0",
+                            "param1": "Req1",
+                            "param2": "www.amazon.in/portal-migration/hz/glow/get-rendered-toaster",
+                            "param3": "",
+                            "param4": "",
+                            "param5": ""
+                        },
+                        {
+                            "na_step_id": "24",
+                            "na_id": "9",
+                            "keyword_id": "7",
+                            "order": "1",
+                            "param1": "param_pageType",
+                            "param2": "Req1",
+                            "param3": "pageType",
+                            "param4": "Gateway",
+                            "param5": ""
+                        },
+                        {
+                            "na_step_id": "25",
+                            "na_id": "9",
+                            "keyword_id": "7",
+                            "order": "2",
+                            "param1": "param_aisTransitionState",
+                            "param2": "Req1",
+                            "param3": "aisTransitionState",
+                            "param4": "null",
+                            "param5": ""
+                        },
+                        {
+                            "na_step_id": "26",
+                            "na_id": "9",
+                            "keyword_id": "7",
+                            "order": "3",
+                            "param1": "param_rancorLocationSource",
+                            "param2": "Req1",
+                            "param3": "rancorLocationSource",
+                            "param4": "REALM_DEFAULT",
+                            "param5": ""
+                        },
+                        {
+                            "na_step_id": "27",
+                            "na_id": "9",
+                            "keyword_id": "1",
+                            "order": "4",
+                            "param1": "Req1",
+                            "param2": "Is Exists",
+                            "param3": "",
+                            "param4": "",
+                            "param5": ""
+                        }
+                    ]
+                }
+            ],
             "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [

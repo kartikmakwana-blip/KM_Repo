@@ -25,10 +25,11 @@ public class networkassert_1 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void networkassert_1() {
 		tg.openBrowser();
-				tg.navigateToUrl("https://www.amazon.in/");
-				tg.wait(2);
-				tg.wait("ele_HamburgerMenu", ComparisonType.IS_VISIBLE);
-				tg.click("ele_HamburgerMenu", 1);
+		tg.navigateToUrl("https://www.amazon.in/");
+		tg.wait(2);
+		tg.wait("ele_HamburgerMenu", ComparisonType.IS_VISIBLE);
+		tg.click("ele_HamburgerMenu", 1);
+		tg.networkAssert("AmazonNA");
 		tg.close();
 	}
 }
