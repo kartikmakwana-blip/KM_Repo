@@ -5636,6 +5636,96 @@
             ],
             "element_type": "xpath",
             "image_url": "http://10.0.161.5/s/ele-imgs/32/486.png"
+        },
+        {
+            "testcase_element": "ele_EmailField",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4",
+                        "id": "eid"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "email",
+                        "class": "form-control ng-pristine ng-untouched ng-valid-email ng-invalid ng-invalid-required",
+                        "ng-model": "EmailAdress",
+                        "required": "",
+                        "style": "outline: none !important; box-shadow: none !important;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@type='email']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723,
+                    "d_y": 362,
+                    "suggest_name": "emailemail121"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='eid']/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 362.59375,
+                    "suggest_name": "emailemail121"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input.form-control.ng-pristine.ng-untouched.ng-valid-email.ng-invalid.ng-invalid-required",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 362.59375,
+                    "suggest_name": "emailemail121"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#eid > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 362.59375,
+                    "suggest_name": "emailemail121"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form/div[3]/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 362.59375,
+                    "suggest_name": "emailemail121"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-valid-email ng-invalid ng-invalid-requiredTGWEBCOMMA4",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 362.59375,
+                    "suggest_name": "emailemail121"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/32/487.png"
         }
     ]
 }
