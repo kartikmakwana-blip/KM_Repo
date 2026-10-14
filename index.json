@@ -1,0 +1,2903 @@
+{
+    "status": true,
+    "message": "Version data loaded successfully.",
+    "version_id": "44",
+    "user_id": 11,
+    "abo_version": {
+        "version_id": "44",
+        "app_id": "30",
+        "version_name": "VCoTest",
+        "version_description": "",
+        "cm_version_module": "44",
+        "platform": "1",
+        "ai_modal_id": "cotester_client_v2_6acf27ba6a208191a461977ed99f4e22",
+        "script_type": "1",
+        "is_master": "1",
+        "is_delete": "0",
+        "xray_project_version": null,
+        "restore_id": "0",
+        "is_git_enabled": "0",
+        "git_restore_id": "0"
+    },
+    "app_id": "30",
+    "platform": "1",
+    "ab_applications": {
+        "app_id": "30",
+        "project_id": "15",
+        "name": "CoTest1_963d8ab9ad98768f",
+        "display_name": "CoTest1",
+        "user_id": "11",
+        "os_type": "0",
+        "platform": "1",
+        "nob": "22",
+        "cm_version_id": "44,47",
+        "is_autoheal": "1",
+        "is_autoheal_autofixed": "0",
+        "is_testcase_retries": "0",
+        "is_adaptive_ai": "0",
+        "testcase_retries_number": "3",
+        "is_ai_autoheal": "0",
+        "is_ai_autoheal_autofixed": "0",
+        "ai_modal_id": "",
+        "jira_project_id": "6",
+        "created_by": "16",
+        "project_restriction_type": "0",
+        "is_delete": "0",
+        "created": "2026-10-14 06:56:58",
+        "updated": "2026-10-14 08:28:53"
+    },
+    "abo_version_module": [
+        {
+            "version_module_id": "44",
+            "version_id": "44",
+            "parent_id": "0",
+            "module_name": "SSuite",
+            "module_description": "",
+            "count_resource": "0",
+            "cm_resource_pages": "",
+            "cm_default_resource": "",
+            "cm_test_function": "38",
+            "cm_test_case": "325,328,329,330,331,332,337,341,342,402,403,404,405,406",
+            "cm_test_case_ai": "",
+            "cm_network": "14,15",
+            "cm_renderer": "",
+            "view_updated_date_time": "2026-10-14 11:45:34",
+            "is_updated": "1",
+            "is_complie": "1",
+            "server_ids": null,
+            "is_running": "0",
+            "is_delete": "0",
+            "qtest_skip_module_sync": "0",
+            "qtest_skip_exec_sync": "0",
+            "default_wait_timeout": "0",
+            "abo_vm_test_case": [
+                {
+                    "tc_id": "325",
+                    "version_module_id": "44",
+                    "tc_name": "test_case_1791960952",
+                    "tc_description": "Extract testcases for the url ",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
+                    "is_draft": "16",
+                    "updated_at": "2026-10-14 07:03:10",
+                    "created_at": "2026-10-14 07:03:10",
+                    "status": "2",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/30/44/44/testcases/test_case_1791960952.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "328",
+                    "version_module_id": "44",
+                    "tc_name": "KeyboardReopenPreservesNames1791962101483",
+                    "tc_description": "Edge scenario reopening and dismissing the keyboard without changing entered values",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "1",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "1",
+                    "created_source": "ai_variation",
+                    "created_source_ref": "tc_325",
+                    "is_draft": "16",
+                    "updated_at": "2026-10-14 07:15:02",
+                    "created_at": "2026-10-14 07:15:02",
+                    "status": "2",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/30/44/44/testcases/keyboardreopenpreservesnames1791962101483.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "329",
+                    "version_module_id": "44",
+                    "tc_name": "EmptyClearAndSingleCharacterEntry1791962101204",
+                    "tc_description": "Boundary scenario clearing empty fields and entering single character values",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "1",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "1",
+                    "created_source": "ai_variation",
+                    "created_source_ref": "tc_325",
+                    "is_draft": "16",
+                    "updated_at": "2026-10-14 07:15:11",
+                    "created_at": "2026-10-14 07:15:11",
+                    "status": "2",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/30/44/44/testcases/emptyclearandsinglecharacterentry1791962101204.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "330",
+                    "version_module_id": "44",
+                    "tc_name": "ReverseEntryAndMaleSelection1791962100929",
+                    "tc_description": "Alternate workflow entering first name before full name and selecting male",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "1",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "1",
+                    "created_source": "ai_variation",
+                    "created_source_ref": "tc_325",
+                    "is_draft": "16",
+                    "updated_at": "2026-10-14 07:15:21",
+                    "created_at": "2026-10-14 07:15:21",
+                    "status": "2",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/30/44/44/testcases/reverseentryandmaleselection1791962100929.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "331",
+                    "version_module_id": "44",
+                    "tc_name": "GenderSelectionExclusivity1791962100659",
+                    "tc_description": "Negative scenario verifying gender selections cannot remain active simultaneously",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "1",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "1",
+                    "created_source": "ai_variation",
+                    "created_source_ref": "tc_325",
+                    "is_draft": "16",
+                    "updated_at": "2026-10-14 07:15:30",
+                    "created_at": "2026-10-14 07:15:30",
+                    "status": "2",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/30/44/44/testcases/genderselectionexclusivity1791962100659.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "332",
+                    "version_module_id": "44",
+                    "tc_name": "test_case_1791962368",
+                    "tc_description": "Extract testcases for the url ",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
+                    "is_draft": "16",
+                    "updated_at": "2026-10-14 07:19:50",
+                    "created_at": "2026-10-14 07:19:50",
+                    "status": "2",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/30/44/44/testcases/test_case_1791962368.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "337",
+                    "version_module_id": "44",
+                    "tc_name": "Testcase1",
+                    "tc_description": "",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "577,578",
+                    "is_compiled": "1",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "created_source": "manual_add",
+                    "created_source_ref": null,
+                    "is_draft": "16",
+                    "updated_at": "2026-10-14 07:26:12",
+                    "created_at": "2026-10-14 07:26:12",
+                    "status": "2",
+                    "qtest_skip_sync": "0",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/30/44/44/testcases/testcase1.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "341",
+                    "version_module_id": "44",
+                    "tc_name": "TCSuccessfulSubmissionofUserInformationandNavigationFlow",
+                    "tc_description": "Test Case Title: Successful Submission of User Information and Navigation Flow\nModule: Demo iOS - User Flow\nPriority: High\n\nPreconditions:\n- - User has installed and launched the Demo iOS application.\n- - User is on the landing screen with form fields visible.\n\nTest Steps:\n1. Wait for the Full Name field to be visible.\n2. Enter \"DemoFull\" in the Full Name field.\n3. Wait for 2 seconds.\n4. Enter \"DemoFirst\" in the First Name field.\n5. Wait for the keyboard Done button to be visible.\n6. Tap the Done button on the keyboard.\n7. Wait for the Clear button to be visible.\n8. Tap the Clear button.\n9. Tap the Controls tab.\n10. Wait for the Male option to be visible.\n11. Tap the Female radio button.\n12. Tap the Screens tab.\n13. Wait for the Open Modal Sheet option to be visible.\n14. Tap Open Modal Sheet.\n15. Wait for the Close button to become visible.\n16. Swipe down on the modal sheet to dismiss it.\n17. Wait for the Open Detail Screen option to be visible.\n18. Wait for 2 seconds.\n19. Tap Open Detail Screen.\n20. Wait for the Push Another Screen button to be visible.\n21. Tap Push Another Screen.\n22. Wait for the Nested Detail screen to be visible.\n23. Tap the Back navigation button.\n24. Wait for the Detail Screen to be visible.\n25. Tap the Back navigation button.\n26. Wait for 2 seconds.\n27. Tap the Form tab.\n\nExpected Result:\n- - Full Name and First Name fields accept the input correctly.\n- - Done keyboard button and Clear button respond as intended.\n- - Selection of Female radio button is successful.\n- - Modal sheet opens and closes as expected.\n- - User can navigate to and from nested screens without issues.\n- - Returning to the main form is successful and app remains stable. (Generated from Manual Test Case)",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "1",
+                    "created_source": "manual_conversion",
+                    "created_source_ref": "mtc_163",
+                    "is_draft": "16",
+                    "updated_at": "2026-10-14 07:44:44",
+                    "created_at": "2026-10-14 07:44:44",
+                    "status": "2",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/30/44/44/testcases/tcsuccessfulsubmissionofuserinformationandnavigationflow.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "342",
+                    "version_module_id": "44",
+                    "tc_name": "TCMn1",
+                    "tc_description": " (Generated from Manual Test Case)",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "1",
+                    "created_source": "manual_conversion",
+                    "created_source_ref": "mtc_179",
+                    "is_draft": "16",
+                    "updated_at": "2026-10-14 07:52:49",
+                    "created_at": "2026-10-14 07:52:49",
+                    "status": "2",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/30/44/44/testcases/tcmn1.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "402",
+                    "version_module_id": "44",
+                    "tc_name": "test_case_1791973990",
+                    "tc_description": "Extract testcases for the url ",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
+                    "is_draft": "16",
+                    "updated_at": "2026-10-14 10:34:18",
+                    "created_at": "2026-10-14 10:34:18",
+                    "status": "2",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/30/44/44/testcases/test_case_1791973990.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "403",
+                    "version_module_id": "44",
+                    "tc_name": "test_case_1791974160",
+                    "tc_description": "Extract testcases for the url ",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
+                    "is_draft": "16",
+                    "updated_at": "2026-10-14 10:36:06",
+                    "created_at": "2026-10-14 10:36:06",
+                    "status": "2",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/30/44/44/testcases/test_case_1791974160.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "404",
+                    "version_module_id": "44",
+                    "tc_name": "test_case_1791974252",
+                    "tc_description": "Extract testcases for the url ",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
+                    "is_draft": "16",
+                    "updated_at": "2026-10-14 10:37:41",
+                    "created_at": "2026-10-14 10:37:41",
+                    "status": "2",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/30/44/44/testcases/test_case_1791974252.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "405",
+                    "version_module_id": "44",
+                    "tc_name": "test_case_1791974292",
+                    "tc_description": "Extract testcases for the url ",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
+                    "is_draft": "16",
+                    "updated_at": "2026-10-14 10:38:20",
+                    "created_at": "2026-10-14 10:38:20",
+                    "status": "2",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/30/44/44/testcases/test_case_1791974292.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "406",
+                    "version_module_id": "44",
+                    "tc_name": "test_case_1791974858",
+                    "tc_description": "Extract testcases for the url ",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
+                    "is_draft": "16",
+                    "updated_at": "2026-10-14 10:47:56",
+                    "created_at": "2026-10-14 10:47:56",
+                    "status": "2",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/30/44/44/testcases/test_case_1791974858.java",
+                    "vault_paths": []
+                }
+            ],
+            "abo_version_proc": [
+                {
+                    "proc_id": "38",
+                    "version_module_id": "44",
+                    "proc_name": "Sec1Tc1",
+                    "proc_description": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "is_ai_generated": "0",
+                    "created_source": "recorder_wizard",
+                    "created_source_ref": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_draft": "16",
+                    "has_parameters": "0",
+                    "param_data": null,
+                    "return_type": null,
+                    "status": "2",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/30/44/44/testfunctions/sec1tc1.java",
+                    "vault_paths": []
+                }
+            ],
+            "abo_vm_test_case_manual": [
+                {
+                    "tc_id": "154",
+                    "test_case_id": "0",
+                    "jira_id": "25",
+                    "azure_id": "0",
+                    "version_module_id": "44",
+                    "tc_name": "Positive Flow – Entering User Details, Validating Actions, and Navigating Through Form and Control Screens",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Positive Flow – Entering User Details, Validating Actions, and Navigating Through Form and Control Screens\nModule: Form Controls – Text Field and Radio Button Interaction\nPriority: High\n\nPreconditions:\n- - User is logged into the application.\n- - Application is launched and at Home/initial screen.\n\nTest Steps:\n1. Navigate to the Form tab.\n2. Wait until the Full Name field is displayed.\n3. Enter \"DemoFull\" in the Full Name field.\n4. Wait for 2 seconds.\n5. Enter \"DemoFirst\" in the First Name field.\n6. Wait until the Done button on the keyboard is visible.\n7. Tap on the Done button.\n8. Wait until the Clear button is visible.\n9. Tap on the Clear button.\n10. Tap on the Controls tab.\n11. Wait until the Male option is displayed.\n12. Tap on the Female radio button.\n13. Tap on the Screens tab.\n14. Wait until Open Modal Sheet is displayed.\n15. Tap on Open Modal Sheet.\n16. Wait until the Close button on the modal sheet is visible.\n17. Swipe down to dismiss the modal sheet.\n18. Wait until Open Detail Screen is visible.\n19. Wait for 2 seconds.\n20. Tap on Open Detail Screen.\n21. Wait until \"Push Another Screen\" button is visible.\n22. Tap on \"Push Another Screen\" button.\n23. Wait until \"Nested Detail\" screen is displayed.\n24. Tap on the Back navigation button.\n25. Wait until the Detail Screen is displayed.\n26. Tap on the Back navigation button.\n27. Wait for 2 seconds.\n28. Tap on the Form tab.\n\nExpected Result:\n- - User is able to enter details without errors.\n- - The Done button dismisses the keyboard.\n- - The Clear button clears the field values.\n- - The Female radio button can be selected and reflects properly.\n- - Modal sheet opens and can be dismissed as expected.\n- - Navigation through detail and nested detail screens works and Back returns the user to the correct previous screens.\n- - No errors, crashes, or UI breaks occur throughout the process.",
+                    "created_source": "jira",
+                    "created_source_ref": "jira_SCRIP-10",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-10-14 07:01:43",
+                    "created_at": "2026-10-14 07:01:43",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1247",
+                            "tc_id": "154",
+                            "step_order": "1",
+                            "step_action": "Navigate to the Form tab.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1248",
+                            "tc_id": "154",
+                            "step_order": "2",
+                            "step_action": "Wait until the Full Name field is displayed.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1249",
+                            "tc_id": "154",
+                            "step_order": "3",
+                            "step_action": "Enter \"DemoFull\" in the Full Name field.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1250",
+                            "tc_id": "154",
+                            "step_order": "4",
+                            "step_action": "Wait for 2 seconds.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1251",
+                            "tc_id": "154",
+                            "step_order": "5",
+                            "step_action": "Enter \"DemoFirst\" in the First Name field.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1252",
+                            "tc_id": "154",
+                            "step_order": "6",
+                            "step_action": "Wait until the Done button on the keyboard is visible.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1253",
+                            "tc_id": "154",
+                            "step_order": "7",
+                            "step_action": "Tap on the Done button.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1254",
+                            "tc_id": "154",
+                            "step_order": "8",
+                            "step_action": "Wait until the Clear button is visible.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1255",
+                            "tc_id": "154",
+                            "step_order": "9",
+                            "step_action": "Tap on the Clear button.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1256",
+                            "tc_id": "154",
+                            "step_order": "10",
+                            "step_action": "Tap on the Controls tab.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1257",
+                            "tc_id": "154",
+                            "step_order": "11",
+                            "step_action": "Wait until the Male option is displayed.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1258",
+                            "tc_id": "154",
+                            "step_order": "12",
+                            "step_action": "Tap on the Female radio button.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1259",
+                            "tc_id": "154",
+                            "step_order": "13",
+                            "step_action": "Tap on the Screens tab.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1260",
+                            "tc_id": "154",
+                            "step_order": "14",
+                            "step_action": "Wait until Open Modal Sheet is displayed.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1261",
+                            "tc_id": "154",
+                            "step_order": "15",
+                            "step_action": "Tap on Open Modal Sheet.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1262",
+                            "tc_id": "154",
+                            "step_order": "16",
+                            "step_action": "Wait until the Close button on the modal sheet is visible.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1263",
+                            "tc_id": "154",
+                            "step_order": "17",
+                            "step_action": "Swipe down to dismiss the modal sheet.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1264",
+                            "tc_id": "154",
+                            "step_order": "18",
+                            "step_action": "Wait until Open Detail Screen is visible.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1265",
+                            "tc_id": "154",
+                            "step_order": "19",
+                            "step_action": "Wait for 2 seconds.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1266",
+                            "tc_id": "154",
+                            "step_order": "20",
+                            "step_action": "Tap on Open Detail Screen.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1267",
+                            "tc_id": "154",
+                            "step_order": "21",
+                            "step_action": "Wait until \"Push Another Screen\" button is visible.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1268",
+                            "tc_id": "154",
+                            "step_order": "22",
+                            "step_action": "Tap on \"Push Another Screen\" button.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1269",
+                            "tc_id": "154",
+                            "step_order": "23",
+                            "step_action": "Wait until \"Nested Detail\" screen is displayed.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1270",
+                            "tc_id": "154",
+                            "step_order": "24",
+                            "step_action": "Tap on the Back navigation button.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1271",
+                            "tc_id": "154",
+                            "step_order": "25",
+                            "step_action": "Wait until the Detail Screen is displayed.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1272",
+                            "tc_id": "154",
+                            "step_order": "26",
+                            "step_action": "Tap on the Back navigation button.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1273",
+                            "tc_id": "154",
+                            "step_order": "27",
+                            "step_action": "Wait for 2 seconds.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1274",
+                            "tc_id": "154",
+                            "step_order": "28",
+                            "step_action": "Tap on the Form tab.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "215",
+                            "tc_id": "154",
+                            "thread_id": "cotester_thread_v2_6acf28cff1248193bd4f5f3e469a430b0badb0330cc4e574",
+                            "user_id": "16",
+                            "message": "Please generate a manual test case based on JIRA story - 10238",
+                            "message_type": "sender",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "id": "216",
+                            "tc_id": "154",
+                            "thread_id": "cotester_thread_v2_6acf28cff1248193bd4f5f3e469a430b0badb0330cc4e574",
+                            "user_id": "16",
+                            "message": "Test Case Title: Positive Flow – Entering User Details, Validating Actions, and Navigating Through Form and Control Screens\nModule: Form Controls – Text Field and Radio Button Interaction\nPriority: High\n\nPreconditions:\n- - User is logged into the application.\n- - Application is launched and at Home/initial screen.\n\nTest Steps:\n1. Navigate to the Form tab.\n2. Wait until the Full Name field is displayed.\n3. Enter \"DemoFull\" in the Full Name field.\n4. Wait for 2 seconds.\n5. Enter \"DemoFirst\" in the First Name field.\n6. Wait until the Done button on the keyboard is visible.\n7. Tap on the Done button.\n8. Wait until the Clear button is visible.\n9. Tap on the Clear button.\n10. Tap on the Controls tab.\n11. Wait until the Male option is displayed.\n12. Tap on the Female radio button.\n13. Tap on the Screens tab.\n14. Wait until Open Modal Sheet is displayed.\n15. Tap on Open Modal Sheet.\n16. Wait until the Close button on the modal sheet is visible.\n17. Swipe down to dismiss the modal sheet.\n18. Wait until Open Detail Screen is visible.\n19. Wait for 2 seconds.\n20. Tap on Open Detail Screen.\n21. Wait until \"Push Another Screen\" button is visible.\n22. Tap on \"Push Another Screen\" button.\n23. Wait until \"Nested Detail\" screen is displayed.\n24. Tap on the Back navigation button.\n25. Wait until the Detail Screen is displayed.\n26. Tap on the Back navigation button.\n27. Wait for 2 seconds.\n28. Tap on the Form tab.\n\nExpected Result:\n- - User is able to enter details without errors.\n- - The Done button dismisses the keyboard.\n- - The Clear button clears the field values.\n- - The Female radio button can be selected and reflects properly.\n- - Modal sheet opens and can be dismissed as expected.\n- - Navigation through detail and nested detail screens works and Back returns the user to the correct previous screens.\n- - No errors, crashes, or UI breaks occur throughout the process.",
+                            "message_type": "replier",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "155",
+                    "test_case_id": "0",
+                    "jira_id": "25",
+                    "azure_id": "0",
+                    "version_module_id": "44",
+                    "tc_name": "Negative Test – Attempt to Tap Done Button Without Entering Any Data",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Negative Test – Attempt to Tap Done Button Without Entering Any Data\nModule: Form Controls – Text Field and Radio Button Interaction\nPriority: Medium\n\nPreconditions:\n- - User is logged into the application.\n- - Application is launched and on the Form tab.\n\nTest Steps:\n1. Wait until the Full Name field is displayed.\n2. Do not enter any text in the Full Name or First Name fields.\n3. Wait until the Done button on the keyboard is visible.\n4. Tap on the Done button.\n\nExpected Result:\n- - The application either keeps the focus on text fields or displays a validation message indicating that required fields are empty.\n- - User is not allowed to proceed without entering required details.\n- - No crashes or unexpected navigation occurs.",
+                    "created_source": "jira",
+                    "created_source_ref": "jira_SCRIP-10",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-10-14 07:01:43",
+                    "created_at": "2026-10-14 07:01:43",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1275",
+                            "tc_id": "155",
+                            "step_order": "1",
+                            "step_action": "Wait until the Full Name field is displayed.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1276",
+                            "tc_id": "155",
+                            "step_order": "2",
+                            "step_action": "Do not enter any text in the Full Name or First Name fields.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1277",
+                            "tc_id": "155",
+                            "step_order": "3",
+                            "step_action": "Wait until the Done button on the keyboard is visible.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1278",
+                            "tc_id": "155",
+                            "step_order": "4",
+                            "step_action": "Tap on the Done button.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "217",
+                            "tc_id": "155",
+                            "thread_id": "cotester_thread_v2_6acf28cff1248193bd4f5f3e469a430b0badb0330cc4e574",
+                            "user_id": "16",
+                            "message": "Please generate a manual test case based on JIRA story - 10238",
+                            "message_type": "sender",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "id": "218",
+                            "tc_id": "155",
+                            "thread_id": "cotester_thread_v2_6acf28cff1248193bd4f5f3e469a430b0badb0330cc4e574",
+                            "user_id": "16",
+                            "message": "Test Case Title: Negative Test – Attempt to Tap Done Button Without Entering Any Data\nModule: Form Controls – Text Field and Radio Button Interaction\nPriority: Medium\n\nPreconditions:\n- - User is logged into the application.\n- - Application is launched and on the Form tab.\n\nTest Steps:\n1. Wait until the Full Name field is displayed.\n2. Do not enter any text in the Full Name or First Name fields.\n3. Wait until the Done button on the keyboard is visible.\n4. Tap on the Done button.\n\nExpected Result:\n- - The application either keeps the focus on text fields or displays a validation message indicating that required fields are empty.\n- - User is not allowed to proceed without entering required details.\n- - No crashes or unexpected navigation occurs.",
+                            "message_type": "replier",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "156",
+                    "test_case_id": "0",
+                    "jira_id": "25",
+                    "azure_id": "0",
+                    "version_module_id": "44",
+                    "tc_name": "Edge Case – Form Submission and Field Action Under Slow Network or Delayed UI Response",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Edge Case – Form Submission and Field Action Under Slow Network or Delayed UI Response\nModule: Form Controls – Text Field and Radio Button Interaction\nPriority: Low\n\nPreconditions:\n- - User is logged into the application.\n- - Application is launched and on the Form tab.\n- - Test device is set to simulate a slow network or forced delayed UI rendering (using device settings or test tools).\n\nTest Steps:\n1. Wait for the Full Name field to eventually load.\n2. Enter \"DemoFull\" in the Full Name field once visible.\n3. Wait for 5 seconds to allow slow UI update.\n4. Enter \"DemoFirst\" in the First Name field once it appears.\n5. Wait for the Done button to become visible.\n6. Tap on the Done button.\n7. Wait for the Clear button to eventually appear.\n8. Tap on the Clear button.\n\nExpected Result:\n- - All form fields, keyboard actions, and buttons eventually become visible and interactive, even with slow loading.\n- - No permanent unresponsiveness, crashes, or skipped actions occur due to the delayed network/UI response.\n- - User can still complete the workflow successfully, albeit with delays.",
+                    "created_source": "jira",
+                    "created_source_ref": "jira_SCRIP-10",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-10-14 07:01:43",
+                    "created_at": "2026-10-14 07:01:43",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1279",
+                            "tc_id": "156",
+                            "step_order": "1",
+                            "step_action": "Wait for the Full Name field to eventually load.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1280",
+                            "tc_id": "156",
+                            "step_order": "2",
+                            "step_action": "Enter \"DemoFull\" in the Full Name field once visible.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1281",
+                            "tc_id": "156",
+                            "step_order": "3",
+                            "step_action": "Wait for 5 seconds to allow slow UI update.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1282",
+                            "tc_id": "156",
+                            "step_order": "4",
+                            "step_action": "Enter \"DemoFirst\" in the First Name field once it appears.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1283",
+                            "tc_id": "156",
+                            "step_order": "5",
+                            "step_action": "Wait for the Done button to become visible.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1284",
+                            "tc_id": "156",
+                            "step_order": "6",
+                            "step_action": "Tap on the Done button.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1285",
+                            "tc_id": "156",
+                            "step_order": "7",
+                            "step_action": "Wait for the Clear button to eventually appear.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "step_id": "1286",
+                            "tc_id": "156",
+                            "step_order": "8",
+                            "step_action": "Tap on the Clear button.",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "219",
+                            "tc_id": "156",
+                            "thread_id": "cotester_thread_v2_6acf28cff1248193bd4f5f3e469a430b0badb0330cc4e574",
+                            "user_id": "16",
+                            "message": "Please generate a manual test case based on JIRA story - 10238",
+                            "message_type": "sender",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        },
+                        {
+                            "id": "220",
+                            "tc_id": "156",
+                            "thread_id": "cotester_thread_v2_6acf28cff1248193bd4f5f3e469a430b0badb0330cc4e574",
+                            "user_id": "16",
+                            "message": "Test Case Title: Edge Case – Form Submission and Field Action Under Slow Network or Delayed UI Response\nModule: Form Controls – Text Field and Radio Button Interaction\nPriority: Low\n\nPreconditions:\n- - User is logged into the application.\n- - Application is launched and on the Form tab.\n- - Test device is set to simulate a slow network or forced delayed UI rendering (using device settings or test tools).\n\nTest Steps:\n1. Wait for the Full Name field to eventually load.\n2. Enter \"DemoFull\" in the Full Name field once visible.\n3. Wait for 5 seconds to allow slow UI update.\n4. Enter \"DemoFirst\" in the First Name field once it appears.\n5. Wait for the Done button to become visible.\n6. Tap on the Done button.\n7. Wait for the Clear button to eventually appear.\n8. Tap on the Clear button.\n\nExpected Result:\n- - All form fields, keyboard actions, and buttons eventually become visible and interactive, even with slow loading.\n- - No permanent unresponsiveness, crashes, or skipped actions occur due to the delayed network/UI response.\n- - User can still complete the workflow successfully, albeit with delays.",
+                            "message_type": "replier",
+                            "created_at": "2026-10-14 07:01:43",
+                            "updated_at": "2026-10-14 07:01:43"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "157",
+                    "test_case_id": "0",
+                    "jira_id": "25",
+                    "azure_id": "0",
+                    "version_module_id": "44",
+                    "tc_name": "Positive - Complete User Interaction with Form Fields, Controls, and Navigation",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Positive - Complete User Interaction with Form Fields, Controls, and Navigation\nModule: Form Controls and Navigation\nPriority: High\n\nPreconditions:\n- - User is logged into the application.\n- - Application is launched and on the main screen.\n\nTest Steps:\n1. Navigate to the Form tab if not already present.\n2. Wait for the Full Name field to appear.\n3. Enter \"DemoFull\" in the Full Name field.\n4. Wait for 2 seconds.\n5. Enter \"DemoFirst\" in the First Name field.\n6. Wait for the Done keyboard button to appear.\n7. Tap on the Done button on the keyboard.\n8. Wait for the Clear button to display.\n9. Tap on the Clear button.\n10. Tap on the Controls tab.\n11. Wait for the Male option to appear.\n12. Tap on the Female radio button.\n13. Tap on the Screens tab.\n14. Wait for the Open Modal Sheet button to appear.\n15. Tap on Open Modal Sheet.\n16. Wait for the Close button to appear on the modal sheet.\n17. Swipe down to dismiss the modal sheet.\n18. Wait for the Open Detail Screen button to appear.\n19. Wait for 2 seconds.\n20. Tap on Open Detail Screen.\n21. Wait for the Push Another Screen button to appear.\n22. Tap on the Push Another Screen button.\n23. Wait for the Nested Detail screen to load.\n24. Tap the Back navigation button.\n25. Wait for the Detail Screen to be visible.\n26. Tap the Back navigation button again.\n27. Wait for 2 seconds.\n28. Tap on the Form tab.\n\nExpected Result:\n- - All form fields accept user input and display the entered values.\n- - Done button submits and dismisses the keyboard.\n- - Clear button erases the text in the form fields.\n- - Radio button selection updates visually and only one option can be selected at a time.\n- - Screens, modal sheets, and nested screens are navigable per the described flow without errors.\n- - Modal sheet displays and dismisses as expected.\n- - Back navigation works and returns user to expected previous screens without data loss or errors.",
+                    "created_source": "jira",
+                    "created_source_ref": "jira_SCRIP-10",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-10-14 07:01:48",
+                    "created_at": "2026-10-14 07:01:48",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1287",
+                            "tc_id": "157",
+                            "step_order": "1",
+                            "step_action": "Navigate to the Form tab if not already present.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1288",
+                            "tc_id": "157",
+                            "step_order": "2",
+                            "step_action": "Wait for the Full Name field to appear.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1289",
+                            "tc_id": "157",
+                            "step_order": "3",
+                            "step_action": "Enter \"DemoFull\" in the Full Name field.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1290",
+                            "tc_id": "157",
+                            "step_order": "4",
+                            "step_action": "Wait for 2 seconds.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1291",
+                            "tc_id": "157",
+                            "step_order": "5",
+                            "step_action": "Enter \"DemoFirst\" in the First Name field.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1292",
+                            "tc_id": "157",
+                            "step_order": "6",
+                            "step_action": "Wait for the Done keyboard button to appear.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1293",
+                            "tc_id": "157",
+                            "step_order": "7",
+                            "step_action": "Tap on the Done button on the keyboard.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1294",
+                            "tc_id": "157",
+                            "step_order": "8",
+                            "step_action": "Wait for the Clear button to display.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1295",
+                            "tc_id": "157",
+                            "step_order": "9",
+                            "step_action": "Tap on the Clear button.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1296",
+                            "tc_id": "157",
+                            "step_order": "10",
+                            "step_action": "Tap on the Controls tab.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1297",
+                            "tc_id": "157",
+                            "step_order": "11",
+                            "step_action": "Wait for the Male option to appear.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1298",
+                            "tc_id": "157",
+                            "step_order": "12",
+                            "step_action": "Tap on the Female radio button.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1299",
+                            "tc_id": "157",
+                            "step_order": "13",
+                            "step_action": "Tap on the Screens tab.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1300",
+                            "tc_id": "157",
+                            "step_order": "14",
+                            "step_action": "Wait for the Open Modal Sheet button to appear.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1301",
+                            "tc_id": "157",
+                            "step_order": "15",
+                            "step_action": "Tap on Open Modal Sheet.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1302",
+                            "tc_id": "157",
+                            "step_order": "16",
+                            "step_action": "Wait for the Close button to appear on the modal sheet.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1303",
+                            "tc_id": "157",
+                            "step_order": "17",
+                            "step_action": "Swipe down to dismiss the modal sheet.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1304",
+                            "tc_id": "157",
+                            "step_order": "18",
+                            "step_action": "Wait for the Open Detail Screen button to appear.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1305",
+                            "tc_id": "157",
+                            "step_order": "19",
+                            "step_action": "Wait for 2 seconds.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1306",
+                            "tc_id": "157",
+                            "step_order": "20",
+                            "step_action": "Tap on Open Detail Screen.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1307",
+                            "tc_id": "157",
+                            "step_order": "21",
+                            "step_action": "Wait for the Push Another Screen button to appear.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1308",
+                            "tc_id": "157",
+                            "step_order": "22",
+                            "step_action": "Tap on the Push Another Screen button.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1309",
+                            "tc_id": "157",
+                            "step_order": "23",
+                            "step_action": "Wait for the Nested Detail screen to load.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1310",
+                            "tc_id": "157",
+                            "step_order": "24",
+                            "step_action": "Tap the Back navigation button.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1311",
+                            "tc_id": "157",
+                            "step_order": "25",
+                            "step_action": "Wait for the Detail Screen to be visible.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1312",
+                            "tc_id": "157",
+                            "step_order": "26",
+                            "step_action": "Tap the Back navigation button again.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1313",
+                            "tc_id": "157",
+                            "step_order": "27",
+                            "step_action": "Wait for 2 seconds.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1314",
+                            "tc_id": "157",
+                            "step_order": "28",
+                            "step_action": "Tap on the Form tab.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "221",
+                            "tc_id": "157",
+                            "thread_id": "cotester_thread_v2_6acf28d70c548193958732813e911b8208cfc1cc74429df1",
+                            "user_id": "16",
+                            "message": "Please generate a manual test case based on JIRA story - 10238",
+                            "message_type": "sender",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "id": "222",
+                            "tc_id": "157",
+                            "thread_id": "cotester_thread_v2_6acf28d70c548193958732813e911b8208cfc1cc74429df1",
+                            "user_id": "16",
+                            "message": "Test Case Title: Positive - Complete User Interaction with Form Fields, Controls, and Navigation\nModule: Form Controls and Navigation\nPriority: High\n\nPreconditions:\n- - User is logged into the application.\n- - Application is launched and on the main screen.\n\nTest Steps:\n1. Navigate to the Form tab if not already present.\n2. Wait for the Full Name field to appear.\n3. Enter \"DemoFull\" in the Full Name field.\n4. Wait for 2 seconds.\n5. Enter \"DemoFirst\" in the First Name field.\n6. Wait for the Done keyboard button to appear.\n7. Tap on the Done button on the keyboard.\n8. Wait for the Clear button to display.\n9. Tap on the Clear button.\n10. Tap on the Controls tab.\n11. Wait for the Male option to appear.\n12. Tap on the Female radio button.\n13. Tap on the Screens tab.\n14. Wait for the Open Modal Sheet button to appear.\n15. Tap on Open Modal Sheet.\n16. Wait for the Close button to appear on the modal sheet.\n17. Swipe down to dismiss the modal sheet.\n18. Wait for the Open Detail Screen button to appear.\n19. Wait for 2 seconds.\n20. Tap on Open Detail Screen.\n21. Wait for the Push Another Screen button to appear.\n22. Tap on the Push Another Screen button.\n23. Wait for the Nested Detail screen to load.\n24. Tap the Back navigation button.\n25. Wait for the Detail Screen to be visible.\n26. Tap the Back navigation button again.\n27. Wait for 2 seconds.\n28. Tap on the Form tab.\n\nExpected Result:\n- - All form fields accept user input and display the entered values.\n- - Done button submits and dismisses the keyboard.\n- - Clear button erases the text in the form fields.\n- - Radio button selection updates visually and only one option can be selected at a time.\n- - Screens, modal sheets, and nested screens are navigable per the described flow without errors.\n- - Modal sheet displays and dismisses as expected.\n- - Back navigation works and returns user to expected previous screens without data loss or errors.",
+                            "message_type": "replier",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "158",
+                    "test_case_id": "0",
+                    "jira_id": "25",
+                    "azure_id": "0",
+                    "version_module_id": "44",
+                    "tc_name": "Negative - Attempt Form Submission Without Entering Required Information",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Negative - Attempt Form Submission Without Entering Required Information\nModule: Form Controls - Validation\nPriority: Medium\n\nPreconditions:\n- - User is logged into the application.\n- - Application is launched and on the Form tab.\n- - Both Full Name and First Name fields are empty.\n\nTest Steps:\n1. Ensure Full Name and First Name fields are empty.\n2. Tap on the Done button on the keyboard without entering any information.\n3. Observe if any validation messages or errors appear.\n4. Attempt to navigate to next tab or continue with the form controls.\n\nExpected Result:\n- - Application displays an appropriate error or validation message indicating mandatory fields are required.\n- - User is prevented from proceeding with empty mandatory fields, if required by business logic.\n- - No unexpected navigation or app crash occurs.",
+                    "created_source": "jira",
+                    "created_source_ref": "jira_SCRIP-10",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-10-14 07:01:48",
+                    "created_at": "2026-10-14 07:01:48",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1315",
+                            "tc_id": "158",
+                            "step_order": "1",
+                            "step_action": "Ensure Full Name and First Name fields are empty.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1316",
+                            "tc_id": "158",
+                            "step_order": "2",
+                            "step_action": "Tap on the Done button on the keyboard without entering any information.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1317",
+                            "tc_id": "158",
+                            "step_order": "3",
+                            "step_action": "Observe if any validation messages or errors appear.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "step_id": "1318",
+                            "tc_id": "158",
+                            "step_order": "4",
+                            "step_action": "Attempt to navigate to next tab or continue with the form controls.",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "223",
+                            "tc_id": "158",
+                            "thread_id": "cotester_thread_v2_6acf28d70c548193958732813e911b8208cfc1cc74429df1",
+                            "user_id": "16",
+                            "message": "Please generate a manual test case based on JIRA story - 10238",
+                            "message_type": "sender",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        },
+                        {
+                            "id": "224",
+                            "tc_id": "158",
+                            "thread_id": "cotester_thread_v2_6acf28d70c548193958732813e911b8208cfc1cc74429df1",
+                            "user_id": "16",
+                            "message": "Test Case Title: Negative - Attempt Form Submission Without Entering Required Information\nModule: Form Controls - Validation\nPriority: Medium\n\nPreconditions:\n- - User is logged into the application.\n- - Application is launched and on the Form tab.\n- - Both Full Name and First Name fields are empty.\n\nTest Steps:\n1. Ensure Full Name and First Name fields are empty.\n2. Tap on the Done button on the keyboard without entering any information.\n3. Observe if any validation messages or errors appear.\n4. Attempt to navigate to next tab or continue with the form controls.\n\nExpected Result:\n- - Application displays an appropriate error or validation message indicating mandatory fields are required.\n- - User is prevented from proceeding with empty mandatory fields, if required by business logic.\n- - No unexpected navigation or app crash occurs.",
+                            "message_type": "replier",
+                            "created_at": "2026-10-14 07:01:48",
+                            "updated_at": "2026-10-14 07:01:48"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "159",
+                    "test_case_id": "0",
+                    "jira_id": "25",
+                    "azure_id": "0",
+                    "version_module_id": "44",
+                    "tc_name": "Boundary/Edge - Input Maximum Length in Full Name Field and Verify Behavior",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Boundary/Edge - Input Maximum Length in Full Name Field and Verify Behavior\nModule: Form Controls - Text Field\nPriority: Medium\n\nPreconditions:\n- - User is logged into the application.\n- - Application is launched and on the Form tab.\n- - Input field maximum length specification is known (assume 50 characters if not specified).\n\nTest Steps:\n1. Wait for the Full Name field to appear.\n2. Enter a string of exactly 50 characters in the Full Name field (for example: \"ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMN012345678912345\").\n3. Enter \"DemoFirst\" in the First Name field.\n4. Tap on the Done button on the keyboard.\n5. Observe if only 50 characters appear in the Full Name field.\n6. Try to input an additional character beyond 50.\n7. Check for any UI handling or truncation.\n\nExpected Result:\n- - Full Name field accepts a maximum of 50 characters.\n- - Additional input beyond the limit is either disallowed or truncated.\n- - No UI break, overlap, or application errors occur.\n- - User receives feedback if character limit is exceeded (if applicable).",
+                    "created_source": "jira",
+                    "created_source_ref": "jira_SCRIP-10",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-10-14 07:01:48",
+                    "created_at": "2026-10-14 07:01:48",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1319",
+                            "tc_id": "159",
+                            "step_order": "1",
+                            "step_action": "Wait for the Full Name field to appear.",
+                            "created_at": "2026-10-14 07:01:49",
+                            "updated_at": "2026-10-14 07:01:49"
+                        },
+                        {
+                            "step_id": "1320",
+                            "tc_id": "159",
+                            "step_order": "2",
+                            "step_action": "Enter a string of exactly 50 characters in the Full Name field (for example: \"ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMN012345678912345\").",
+                            "created_at": "2026-10-14 07:01:49",
+                            "updated_at": "2026-10-14 07:01:49"
+                        },
+                        {
+                            "step_id": "1321",
+                            "tc_id": "159",
+                            "step_order": "3",
+                            "step_action": "Enter \"DemoFirst\" in the First Name field.",
+                            "created_at": "2026-10-14 07:01:49",
+                            "updated_at": "2026-10-14 07:01:49"
+                        },
+                        {
+                            "step_id": "1322",
+                            "tc_id": "159",
+                            "step_order": "4",
+                            "step_action": "Tap on the Done button on the keyboard.",
+                            "created_at": "2026-10-14 07:01:49",
+                            "updated_at": "2026-10-14 07:01:49"
+                        },
+                        {
+                            "step_id": "1323",
+                            "tc_id": "159",
+                            "step_order": "5",
+                            "step_action": "Observe if only 50 characters appear in the Full Name field.",
+                            "created_at": "2026-10-14 07:01:49",
+                            "updated_at": "2026-10-14 07:01:49"
+                        },
+                        {
+                            "step_id": "1324",
+                            "tc_id": "159",
+                            "step_order": "6",
+                            "step_action": "Try to input an additional character beyond 50.",
+                            "created_at": "2026-10-14 07:01:49",
+                            "updated_at": "2026-10-14 07:01:49"
+                        },
+                        {
+                            "step_id": "1325",
+                            "tc_id": "159",
+                            "step_order": "7",
+                            "step_action": "Check for any UI handling or truncation.",
+                            "created_at": "2026-10-14 07:01:49",
+                            "updated_at": "2026-10-14 07:01:49"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "225",
+                            "tc_id": "159",
+                            "thread_id": "cotester_thread_v2_6acf28d70c548193958732813e911b8208cfc1cc74429df1",
+                            "user_id": "16",
+                            "message": "Please generate a manual test case based on JIRA story - 10238",
+                            "message_type": "sender",
+                            "created_at": "2026-10-14 07:01:49",
+                            "updated_at": "2026-10-14 07:01:49"
+                        },
+                        {
+                            "id": "226",
+                            "tc_id": "159",
+                            "thread_id": "cotester_thread_v2_6acf28d70c548193958732813e911b8208cfc1cc74429df1",
+                            "user_id": "16",
+                            "message": "Test Case Title: Boundary/Edge - Input Maximum Length in Full Name Field and Verify Behavior\nModule: Form Controls - Text Field\nPriority: Medium\n\nPreconditions:\n- - User is logged into the application.\n- - Application is launched and on the Form tab.\n- - Input field maximum length specification is known (assume 50 characters if not specified).\n\nTest Steps:\n1. Wait for the Full Name field to appear.\n2. Enter a string of exactly 50 characters in the Full Name field (for example: \"ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMN012345678912345\").\n3. Enter \"DemoFirst\" in the First Name field.\n4. Tap on the Done button on the keyboard.\n5. Observe if only 50 characters appear in the Full Name field.\n6. Try to input an additional character beyond 50.\n7. Check for any UI handling or truncation.\n\nExpected Result:\n- - Full Name field accepts a maximum of 50 characters.\n- - Additional input beyond the limit is either disallowed or truncated.\n- - No UI break, overlap, or application errors occur.\n- - User receives feedback if character limit is exceeded (if applicable).",
+                            "message_type": "replier",
+                            "created_at": "2026-10-14 07:01:49",
+                            "updated_at": "2026-10-14 07:01:49"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "160",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "4",
+                    "version_module_id": "44",
+                    "tc_name": "Successful Weather Update After App Launch",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Successful Weather Update After App Launch\nModule: App Launch & Weather Update\nPriority: High\n\nPreconditions:\n- - The user has the GoodWeather app installed.\n- - The user is on the device home screen.\n\nTest Steps:\n1. Launch the GoodWeather app.\n2. Wait until the “OK” button is visible on the screen.\n3. Tap on the “OK” button.\n4. Wait until the “Wind” text is visible.\n5. Swipe down on the main screen.\n6. Wait until the “Update” text view is visible.\n7. Tap on the “Update” text view.\n\nExpected Result:\n- - The app launches successfully and displays the “OK” button.\n- - After tapping “OK”, the “Wind” text appears on the screen.\n- - Swiping down reveals the “Update” text view.\n- - Tapping the “Update” text view successfully refreshes the weather information.",
+                    "created_source": "azure_board",
+                    "created_source_ref": "azure_19",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-10-14 07:03:12",
+                    "created_at": "2026-10-14 07:03:12",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1326",
+                            "tc_id": "160",
+                            "step_order": "1",
+                            "step_action": "Launch the GoodWeather app.",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        },
+                        {
+                            "step_id": "1327",
+                            "tc_id": "160",
+                            "step_order": "2",
+                            "step_action": "Wait until the “OK” button is visible on the screen.",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        },
+                        {
+                            "step_id": "1328",
+                            "tc_id": "160",
+                            "step_order": "3",
+                            "step_action": "Tap on the “OK” button.",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        },
+                        {
+                            "step_id": "1329",
+                            "tc_id": "160",
+                            "step_order": "4",
+                            "step_action": "Wait until the “Wind” text is visible.",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        },
+                        {
+                            "step_id": "1330",
+                            "tc_id": "160",
+                            "step_order": "5",
+                            "step_action": "Swipe down on the main screen.",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        },
+                        {
+                            "step_id": "1331",
+                            "tc_id": "160",
+                            "step_order": "6",
+                            "step_action": "Wait until the “Update” text view is visible.",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        },
+                        {
+                            "step_id": "1332",
+                            "tc_id": "160",
+                            "step_order": "7",
+                            "step_action": "Tap on the “Update” text view.",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "227",
+                            "tc_id": "160",
+                            "thread_id": "cotester_thread_v2_6acf292aab008193b6612db363b38b740dcdd4ec3b35ca77",
+                            "user_id": "16",
+                            "message": "Please generate a manual test case based on Azure work item - Epic #19",
+                            "message_type": "sender",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        },
+                        {
+                            "id": "228",
+                            "tc_id": "160",
+                            "thread_id": "cotester_thread_v2_6acf292aab008193b6612db363b38b740dcdd4ec3b35ca77",
+                            "user_id": "16",
+                            "message": "Test Case Title: Successful Weather Update After App Launch\nModule: App Launch & Weather Update\nPriority: High\n\nPreconditions:\n- - The user has the GoodWeather app installed.\n- - The user is on the device home screen.\n\nTest Steps:\n1. Launch the GoodWeather app.\n2. Wait until the “OK” button is visible on the screen.\n3. Tap on the “OK” button.\n4. Wait until the “Wind” text is visible.\n5. Swipe down on the main screen.\n6. Wait until the “Update” text view is visible.\n7. Tap on the “Update” text view.\n\nExpected Result:\n- - The app launches successfully and displays the “OK” button.\n- - After tapping “OK”, the “Wind” text appears on the screen.\n- - Swiping down reveals the “Update” text view.\n- - Tapping the “Update” text view successfully refreshes the weather information.",
+                            "message_type": "replier",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "161",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "4",
+                    "version_module_id": "44",
+                    "tc_name": "Search with Invalid Location Name",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Search with Invalid Location Name\nModule: Location Search and Selection\nPriority: Medium\n\nPreconditions:\n- - The GoodWeather app is installed and launched.\n- - The user is on the main screen of the app.\n\nTest Steps:\n1. Tap on the “Search” button.\n2. Wait until the “Search location” edit text field is visible.\n3. Type an invalid location name such as “Xyzabc123” in the search location edit field.\n4. Wait to see if any location options appear.\n\nExpected Result:\n- - The app displays an appropriate message stating that no results were found for the entered location.\n- - No selectable location options are displayed for the invalid input.",
+                    "created_source": "azure_board",
+                    "created_source_ref": "azure_19",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-10-14 07:03:12",
+                    "created_at": "2026-10-14 07:03:12",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1333",
+                            "tc_id": "161",
+                            "step_order": "1",
+                            "step_action": "Tap on the “Search” button.",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        },
+                        {
+                            "step_id": "1334",
+                            "tc_id": "161",
+                            "step_order": "2",
+                            "step_action": "Wait until the “Search location” edit text field is visible.",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        },
+                        {
+                            "step_id": "1335",
+                            "tc_id": "161",
+                            "step_order": "3",
+                            "step_action": "Type an invalid location name such as “Xyzabc123” in the search location edit field.",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        },
+                        {
+                            "step_id": "1336",
+                            "tc_id": "161",
+                            "step_order": "4",
+                            "step_action": "Wait to see if any location options appear.",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "229",
+                            "tc_id": "161",
+                            "thread_id": "cotester_thread_v2_6acf292aab008193b6612db363b38b740dcdd4ec3b35ca77",
+                            "user_id": "16",
+                            "message": "Please generate a manual test case based on Azure work item - Epic #19",
+                            "message_type": "sender",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        },
+                        {
+                            "id": "230",
+                            "tc_id": "161",
+                            "thread_id": "cotester_thread_v2_6acf292aab008193b6612db363b38b740dcdd4ec3b35ca77",
+                            "user_id": "16",
+                            "message": "Test Case Title: Search with Invalid Location Name\nModule: Location Search and Selection\nPriority: Medium\n\nPreconditions:\n- - The GoodWeather app is installed and launched.\n- - The user is on the main screen of the app.\n\nTest Steps:\n1. Tap on the “Search” button.\n2. Wait until the “Search location” edit text field is visible.\n3. Type an invalid location name such as “Xyzabc123” in the search location edit field.\n4. Wait to see if any location options appear.\n\nExpected Result:\n- - The app displays an appropriate message stating that no results were found for the entered location.\n- - No selectable location options are displayed for the invalid input.",
+                            "message_type": "replier",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "162",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "4",
+                    "version_module_id": "44",
+                    "tc_name": "Set Minimum Refresh Interval Boundary",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Set Minimum Refresh Interval Boundary\nModule: Refresh Interval Configuration\nPriority: Low\n\nPreconditions:\n- - The GoodWeather app is installed and launched.\n- - The user has navigated to the Settings screen.\n\nTest Steps:\n1. Wait until the “Refresh Interval” option is visible in the settings.\n2. Tap on the “Refresh Interval” option.\n3. Wait for the list of interval options to appear.\n4. Check if “1 minute” or the minimum possible interval is available.\n5. Tap on the minimum possible interval toggle (if available).\n6. Wait until the “Back” button is visible.\n7. Tap on the “Back” button.\n\nExpected Result:\n- - The app allows selection of the minimum refresh interval (if available).\n- - The new interval is saved and reflected in the settings.\n- - The app handles boundary value gracefully and continues functioning without errors.",
+                    "created_source": "azure_board",
+                    "created_source_ref": "azure_19",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-10-14 07:03:12",
+                    "created_at": "2026-10-14 07:03:12",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1337",
+                            "tc_id": "162",
+                            "step_order": "1",
+                            "step_action": "Wait until the “Refresh Interval” option is visible in the settings.",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        },
+                        {
+                            "step_id": "1338",
+                            "tc_id": "162",
+                            "step_order": "2",
+                            "step_action": "Tap on the “Refresh Interval” option.",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        },
+                        {
+                            "step_id": "1339",
+                            "tc_id": "162",
+                            "step_order": "3",
+                            "step_action": "Wait for the list of interval options to appear.",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        },
+                        {
+                            "step_id": "1340",
+                            "tc_id": "162",
+                            "step_order": "4",
+                            "step_action": "Check if “1 minute” or the minimum possible interval is available.",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        },
+                        {
+                            "step_id": "1341",
+                            "tc_id": "162",
+                            "step_order": "5",
+                            "step_action": "Tap on the minimum possible interval toggle (if available).",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        },
+                        {
+                            "step_id": "1342",
+                            "tc_id": "162",
+                            "step_order": "6",
+                            "step_action": "Wait until the “Back” button is visible.",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        },
+                        {
+                            "step_id": "1343",
+                            "tc_id": "162",
+                            "step_order": "7",
+                            "step_action": "Tap on the “Back” button.",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "231",
+                            "tc_id": "162",
+                            "thread_id": "cotester_thread_v2_6acf292aab008193b6612db363b38b740dcdd4ec3b35ca77",
+                            "user_id": "16",
+                            "message": "Please generate a manual test case based on Azure work item - Epic #19",
+                            "message_type": "sender",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        },
+                        {
+                            "id": "232",
+                            "tc_id": "162",
+                            "thread_id": "cotester_thread_v2_6acf292aab008193b6612db363b38b740dcdd4ec3b35ca77",
+                            "user_id": "16",
+                            "message": "Test Case Title: Set Minimum Refresh Interval Boundary\nModule: Refresh Interval Configuration\nPriority: Low\n\nPreconditions:\n- - The GoodWeather app is installed and launched.\n- - The user has navigated to the Settings screen.\n\nTest Steps:\n1. Wait until the “Refresh Interval” option is visible in the settings.\n2. Tap on the “Refresh Interval” option.\n3. Wait for the list of interval options to appear.\n4. Check if “1 minute” or the minimum possible interval is available.\n5. Tap on the minimum possible interval toggle (if available).\n6. Wait until the “Back” button is visible.\n7. Tap on the “Back” button.\n\nExpected Result:\n- - The app allows selection of the minimum refresh interval (if available).\n- - The new interval is saved and reflected in the settings.\n- - The app handles boundary value gracefully and continues functioning without errors.",
+                            "message_type": "replier",
+                            "created_at": "2026-10-14 07:03:12",
+                            "updated_at": "2026-10-14 07:03:12"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "163",
+                    "test_case_id": "341",
+                    "jira_id": "0",
+                    "azure_id": "5",
+                    "version_module_id": "44",
+                    "tc_name": "Successful Submission of User Information and Navigation Flow",
+                    "thread_id": "cotester_thread_v2_6acf32d5ab0c8194a3130fda9c28f26d0167a12bcfa20c8d",
+                    "tc_description": "Test Case Title: Successful Submission of User Information and Navigation Flow\nModule: Demo iOS - User Flow\nPriority: High\n\nPreconditions:\n- - User has installed and launched the Demo iOS application.\n- - User is on the landing screen with form fields visible.\n\nTest Steps:\n1. Wait for the Full Name field to be visible.\n2. Enter \"DemoFull\" in the Full Name field.\n3. Wait for 2 seconds.\n4. Enter \"DemoFirst\" in the First Name field.\n5. Wait for the keyboard Done button to be visible.\n6. Tap the Done button on the keyboard.\n7. Wait for the Clear button to be visible.\n8. Tap the Clear button.\n9. Tap the Controls tab.\n10. Wait for the Male option to be visible.\n11. Tap the Female radio button.\n12. Tap the Screens tab.\n13. Wait for the Open Modal Sheet option to be visible.\n14. Tap Open Modal Sheet.\n15. Wait for the Close button to become visible.\n16. Swipe down on the modal sheet to dismiss it.\n17. Wait for the Open Detail Screen option to be visible.\n18. Wait for 2 seconds.\n19. Tap Open Detail Screen.\n20. Wait for the Push Another Screen button to be visible.\n21. Tap Push Another Screen.\n22. Wait for the Nested Detail screen to be visible.\n23. Tap the Back navigation button.\n24. Wait for the Detail Screen to be visible.\n25. Tap the Back navigation button.\n26. Wait for 2 seconds.\n27. Tap the Form tab.\n\nExpected Result:\n- - Full Name and First Name fields accept the input correctly.\n- - Done keyboard button and Clear button respond as intended.\n- - Selection of Female radio button is successful.\n- - Modal sheet opens and closes as expected.\n- - User can navigate to and from nested screens without issues.\n- - Returning to the main form is successful and app remains stable.",
+                    "created_source": "azure_board",
+                    "created_source_ref": "azure_20",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-10-14 07:44:44",
+                    "created_at": "2026-10-14 07:03:19",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1344",
+                            "tc_id": "163",
+                            "step_order": "1",
+                            "step_action": "Wait for the Full Name field to be visible.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1345",
+                            "tc_id": "163",
+                            "step_order": "2",
+                            "step_action": "Enter \"DemoFull\" in the Full Name field.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1346",
+                            "tc_id": "163",
+                            "step_order": "3",
+                            "step_action": "Wait for 2 seconds.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1347",
+                            "tc_id": "163",
+                            "step_order": "4",
+                            "step_action": "Enter \"DemoFirst\" in the First Name field.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1348",
+                            "tc_id": "163",
+                            "step_order": "5",
+                            "step_action": "Wait for the keyboard Done button to be visible.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1349",
+                            "tc_id": "163",
+                            "step_order": "6",
+                            "step_action": "Tap the Done button on the keyboard.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1350",
+                            "tc_id": "163",
+                            "step_order": "7",
+                            "step_action": "Wait for the Clear button to be visible.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1351",
+                            "tc_id": "163",
+                            "step_order": "8",
+                            "step_action": "Tap the Clear button.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1352",
+                            "tc_id": "163",
+                            "step_order": "9",
+                            "step_action": "Tap the Controls tab.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1353",
+                            "tc_id": "163",
+                            "step_order": "10",
+                            "step_action": "Wait for the Male option to be visible.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1354",
+                            "tc_id": "163",
+                            "step_order": "11",
+                            "step_action": "Tap the Female radio button.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1355",
+                            "tc_id": "163",
+                            "step_order": "12",
+                            "step_action": "Tap the Screens tab.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1356",
+                            "tc_id": "163",
+                            "step_order": "13",
+                            "step_action": "Wait for the Open Modal Sheet option to be visible.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1357",
+                            "tc_id": "163",
+                            "step_order": "14",
+                            "step_action": "Tap Open Modal Sheet.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1358",
+                            "tc_id": "163",
+                            "step_order": "15",
+                            "step_action": "Wait for the Close button to become visible.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1359",
+                            "tc_id": "163",
+                            "step_order": "16",
+                            "step_action": "Swipe down on the modal sheet to dismiss it.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1360",
+                            "tc_id": "163",
+                            "step_order": "17",
+                            "step_action": "Wait for the Open Detail Screen option to be visible.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1361",
+                            "tc_id": "163",
+                            "step_order": "18",
+                            "step_action": "Wait for 2 seconds.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1362",
+                            "tc_id": "163",
+                            "step_order": "19",
+                            "step_action": "Tap Open Detail Screen.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1363",
+                            "tc_id": "163",
+                            "step_order": "20",
+                            "step_action": "Wait for the Push Another Screen button to be visible.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1364",
+                            "tc_id": "163",
+                            "step_order": "21",
+                            "step_action": "Tap Push Another Screen.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1365",
+                            "tc_id": "163",
+                            "step_order": "22",
+                            "step_action": "Wait for the Nested Detail screen to be visible.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1366",
+                            "tc_id": "163",
+                            "step_order": "23",
+                            "step_action": "Tap the Back navigation button.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1367",
+                            "tc_id": "163",
+                            "step_order": "24",
+                            "step_action": "Wait for the Detail Screen to be visible.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1368",
+                            "tc_id": "163",
+                            "step_order": "25",
+                            "step_action": "Tap the Back navigation button.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1369",
+                            "tc_id": "163",
+                            "step_order": "26",
+                            "step_action": "Wait for 2 seconds.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1370",
+                            "tc_id": "163",
+                            "step_order": "27",
+                            "step_action": "Tap the Form tab.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "233",
+                            "tc_id": "163",
+                            "thread_id": "cotester_thread_v2_6acf293268148197b3b9813dfa7dfd160b5a173fe1a41ea9",
+                            "user_id": "16",
+                            "message": "Please generate a manual test case based on Azure work item - Epic #20",
+                            "message_type": "sender",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "id": "234",
+                            "tc_id": "163",
+                            "thread_id": "cotester_thread_v2_6acf293268148197b3b9813dfa7dfd160b5a173fe1a41ea9",
+                            "user_id": "16",
+                            "message": "Test Case Title: Successful Submission of User Information and Navigation Flow\nModule: Demo iOS - User Flow\nPriority: High\n\nPreconditions:\n- - User has installed and launched the Demo iOS application.\n- - User is on the landing screen with form fields visible.\n\nTest Steps:\n1. Wait for the Full Name field to be visible.\n2. Enter \"DemoFull\" in the Full Name field.\n3. Wait for 2 seconds.\n4. Enter \"DemoFirst\" in the First Name field.\n5. Wait for the keyboard Done button to be visible.\n6. Tap the Done button on the keyboard.\n7. Wait for the Clear button to be visible.\n8. Tap the Clear button.\n9. Tap the Controls tab.\n10. Wait for the Male option to be visible.\n11. Tap the Female radio button.\n12. Tap the Screens tab.\n13. Wait for the Open Modal Sheet option to be visible.\n14. Tap Open Modal Sheet.\n15. Wait for the Close button to become visible.\n16. Swipe down on the modal sheet to dismiss it.\n17. Wait for the Open Detail Screen option to be visible.\n18. Wait for 2 seconds.\n19. Tap Open Detail Screen.\n20. Wait for the Push Another Screen button to be visible.\n21. Tap Push Another Screen.\n22. Wait for the Nested Detail screen to be visible.\n23. Tap the Back navigation button.\n24. Wait for the Detail Screen to be visible.\n25. Tap the Back navigation button.\n26. Wait for 2 seconds.\n27. Tap the Form tab.\n\nExpected Result:\n- - Full Name and First Name fields accept the input correctly.\n- - Done keyboard button and Clear button respond as intended.\n- - Selection of Female radio button is successful.\n- - Modal sheet opens and closes as expected.\n- - User can navigate to and from nested screens without issues.\n- - Returning to the main form is successful and app remains stable.",
+                            "message_type": "replier",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "164",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "5",
+                    "version_module_id": "44",
+                    "tc_name": "Attempt to Submit Without Entering Full Name (Negative Test)",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Attempt to Submit Without Entering Full Name (Negative Test)\nModule: Demo iOS - User Flow\nPriority: Medium\n\nPreconditions:\n- - User has installed and launched the Demo iOS application.\n- - User is on the screen where the Full Name field is visible.\n\nTest Steps:\n1. Wait for the Full Name field to be visible.\n2. Leave the Full Name field blank.\n3. Wait for 2 seconds.\n4. Enter \"DemoFirst\" in the First Name field.\n5. Wait for the keyboard Done button to be visible.\n6. Tap the Done button on the keyboard.\n7. Wait for the Clear button to be visible.\n8. Tap the Clear button.\n\nExpected Result:\n- - Application should display an error message or validation indicating the Full Name field is required.\n- - Clear button should not clear any data since the fields are blank.\n- - User should not be allowed to proceed until the Full Name is entered.",
+                    "created_source": "azure_board",
+                    "created_source_ref": "azure_20",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-10-14 07:03:19",
+                    "created_at": "2026-10-14 07:03:19",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1371",
+                            "tc_id": "164",
+                            "step_order": "1",
+                            "step_action": "Wait for the Full Name field to be visible.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1372",
+                            "tc_id": "164",
+                            "step_order": "2",
+                            "step_action": "Leave the Full Name field blank.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1373",
+                            "tc_id": "164",
+                            "step_order": "3",
+                            "step_action": "Wait for 2 seconds.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1374",
+                            "tc_id": "164",
+                            "step_order": "4",
+                            "step_action": "Enter \"DemoFirst\" in the First Name field.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1375",
+                            "tc_id": "164",
+                            "step_order": "5",
+                            "step_action": "Wait for the keyboard Done button to be visible.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1376",
+                            "tc_id": "164",
+                            "step_order": "6",
+                            "step_action": "Tap the Done button on the keyboard.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1377",
+                            "tc_id": "164",
+                            "step_order": "7",
+                            "step_action": "Wait for the Clear button to be visible.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1378",
+                            "tc_id": "164",
+                            "step_order": "8",
+                            "step_action": "Tap the Clear button.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "235",
+                            "tc_id": "164",
+                            "thread_id": "cotester_thread_v2_6acf293268148197b3b9813dfa7dfd160b5a173fe1a41ea9",
+                            "user_id": "16",
+                            "message": "Please generate a manual test case based on Azure work item - Epic #20",
+                            "message_type": "sender",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "id": "236",
+                            "tc_id": "164",
+                            "thread_id": "cotester_thread_v2_6acf293268148197b3b9813dfa7dfd160b5a173fe1a41ea9",
+                            "user_id": "16",
+                            "message": "Test Case Title: Attempt to Submit Without Entering Full Name (Negative Test)\nModule: Demo iOS - User Flow\nPriority: Medium\n\nPreconditions:\n- - User has installed and launched the Demo iOS application.\n- - User is on the screen where the Full Name field is visible.\n\nTest Steps:\n1. Wait for the Full Name field to be visible.\n2. Leave the Full Name field blank.\n3. Wait for 2 seconds.\n4. Enter \"DemoFirst\" in the First Name field.\n5. Wait for the keyboard Done button to be visible.\n6. Tap the Done button on the keyboard.\n7. Wait for the Clear button to be visible.\n8. Tap the Clear button.\n\nExpected Result:\n- - Application should display an error message or validation indicating the Full Name field is required.\n- - Clear button should not clear any data since the fields are blank.\n- - User should not be allowed to proceed until the Full Name is entered.",
+                            "message_type": "replier",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "165",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "5",
+                    "version_module_id": "44",
+                    "tc_name": "Input Exceeding Character Limit in Full Name Field (Boundary/Edge Case)",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Input Exceeding Character Limit in Full Name Field (Boundary/Edge Case)\nModule: Demo iOS - User Form\nPriority: Low\n\nPreconditions:\n- - User has installed and launched the Demo iOS application.\n- - User is on the screen where the Full Name field is visible.\n- - Character limit for the Full Name field is set (assume 50 characters for this test).\n\nTest Steps:\n1. Wait for the Full Name field to be visible.\n2. Enter a string of 60 characters in the Full Name field.\n3. Wait for 2 seconds.\n4. Enter \"DemoFirst\" in the First Name field.\n5. Tap the Done button on the keyboard.\n\nExpected Result:\n- - The Full Name field should not accept more than the maximum allowed (e.g., only first 50 characters are accepted).\n- - If the input exceeds the limit, the application should truncate the excess, or show a validation message.\n- - No application crash or layout break should occur.",
+                    "created_source": "azure_board",
+                    "created_source_ref": "azure_20",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-10-14 07:03:19",
+                    "created_at": "2026-10-14 07:03:19",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1379",
+                            "tc_id": "165",
+                            "step_order": "1",
+                            "step_action": "Wait for the Full Name field to be visible.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1380",
+                            "tc_id": "165",
+                            "step_order": "2",
+                            "step_action": "Enter a string of 60 characters in the Full Name field.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1381",
+                            "tc_id": "165",
+                            "step_order": "3",
+                            "step_action": "Wait for 2 seconds.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1382",
+                            "tc_id": "165",
+                            "step_order": "4",
+                            "step_action": "Enter \"DemoFirst\" in the First Name field.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "step_id": "1383",
+                            "tc_id": "165",
+                            "step_order": "5",
+                            "step_action": "Tap the Done button on the keyboard.",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "237",
+                            "tc_id": "165",
+                            "thread_id": "cotester_thread_v2_6acf293268148197b3b9813dfa7dfd160b5a173fe1a41ea9",
+                            "user_id": "16",
+                            "message": "Please generate a manual test case based on Azure work item - Epic #20",
+                            "message_type": "sender",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        },
+                        {
+                            "id": "238",
+                            "tc_id": "165",
+                            "thread_id": "cotester_thread_v2_6acf293268148197b3b9813dfa7dfd160b5a173fe1a41ea9",
+                            "user_id": "16",
+                            "message": "Test Case Title: Input Exceeding Character Limit in Full Name Field (Boundary/Edge Case)\nModule: Demo iOS - User Form\nPriority: Low\n\nPreconditions:\n- - User has installed and launched the Demo iOS application.\n- - User is on the screen where the Full Name field is visible.\n- - Character limit for the Full Name field is set (assume 50 characters for this test).\n\nTest Steps:\n1. Wait for the Full Name field to be visible.\n2. Enter a string of 60 characters in the Full Name field.\n3. Wait for 2 seconds.\n4. Enter \"DemoFirst\" in the First Name field.\n5. Tap the Done button on the keyboard.\n\nExpected Result:\n- - The Full Name field should not accept more than the maximum allowed (e.g., only first 50 characters are accepted).\n- - If the input exceeds the limit, the application should truncate the excess, or show a validation message.\n- - No application crash or layout break should occur.",
+                            "message_type": "replier",
+                            "created_at": "2026-10-14 07:03:19",
+                            "updated_at": "2026-10-14 07:03:19"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "166",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "6",
+                    "version_module_id": "44",
+                    "tc_name": "Successful Completion of the Entire Sprint Workflow (Positive Test)",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Successful Completion of the Entire Sprint Workflow (Positive Test)\nModule: Automation Page Sprint Workflow\nPriority: High\n\nPreconditions:\n- - User has access to https://ultimateqa.com/automation/\n- - Browser is up and running\n\nTest Steps:\n1. Navigate to https://ultimateqa.com/automation/\n2. Wait until the text “Learn how to automate an application that evolves over time” is visible.\n3. Click on “Learn how to automate an application that evolves over time”.\n4. Wait for “Sprint 1” text to appear.\n5. Enter “FirstDemo” into the Firstname field.\n6. Click on “Go to next sprint”.\n7. Wait for “Iteration 2” text to appear.\n8. Enter “FirstDemo” into the Firstname field.\n9. Enter “LastDemo” into the Lastname field.\n10. Click on “Go to sprint 3”.\n11. Wait for “Iteration 3” text to appear.\n12. Select the “Male” radio button.\n13. Enter “FirstDemo” into the Firstname field.\n14. Enter “LastDemo” into the Lastname field.\n15. Click on “Go to sprint 4”.\n16. Wait for “Iteration 4” text to appear.\n17. Click on “Go to sprint 5”.\n18. Wait for “Iteration 5” text to appear.\n19. Click on the “Submit” button.\n\nExpected Result:\n- - Each navigation and form action is performed successfully without errors.\n- - Each sprint/iteration displays the corresponding UI section before allowing input.\n- - Final submission in Iteration 5 completes without validation or system errors.\n- - Confirmation or success message for completion is displayed, if applicable.",
+                    "created_source": "azure_board",
+                    "created_source_ref": "azure_27",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-10-14 07:03:27",
+                    "created_at": "2026-10-14 07:03:27",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1384",
+                            "tc_id": "166",
+                            "step_order": "1",
+                            "step_action": "Navigate to https://ultimateqa.com/automation/",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1385",
+                            "tc_id": "166",
+                            "step_order": "2",
+                            "step_action": "Wait until the text “Learn how to automate an application that evolves over time” is visible.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1386",
+                            "tc_id": "166",
+                            "step_order": "3",
+                            "step_action": "Click on “Learn how to automate an application that evolves over time”.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1387",
+                            "tc_id": "166",
+                            "step_order": "4",
+                            "step_action": "Wait for “Sprint 1” text to appear.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1388",
+                            "tc_id": "166",
+                            "step_order": "5",
+                            "step_action": "Enter “FirstDemo” into the Firstname field.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1389",
+                            "tc_id": "166",
+                            "step_order": "6",
+                            "step_action": "Click on “Go to next sprint”.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1390",
+                            "tc_id": "166",
+                            "step_order": "7",
+                            "step_action": "Wait for “Iteration 2” text to appear.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1391",
+                            "tc_id": "166",
+                            "step_order": "8",
+                            "step_action": "Enter “FirstDemo” into the Firstname field.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1392",
+                            "tc_id": "166",
+                            "step_order": "9",
+                            "step_action": "Enter “LastDemo” into the Lastname field.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1393",
+                            "tc_id": "166",
+                            "step_order": "10",
+                            "step_action": "Click on “Go to sprint 3”.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1394",
+                            "tc_id": "166",
+                            "step_order": "11",
+                            "step_action": "Wait for “Iteration 3” text to appear.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1395",
+                            "tc_id": "166",
+                            "step_order": "12",
+                            "step_action": "Select the “Male” radio button.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1396",
+                            "tc_id": "166",
+                            "step_order": "13",
+                            "step_action": "Enter “FirstDemo” into the Firstname field.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1397",
+                            "tc_id": "166",
+                            "step_order": "14",
+                            "step_action": "Enter “LastDemo” into the Lastname field.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1398",
+                            "tc_id": "166",
+                            "step_order": "15",
+                            "step_action": "Click on “Go to sprint 4”.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1399",
+                            "tc_id": "166",
+                            "step_order": "16",
+                            "step_action": "Wait for “Iteration 4” text to appear.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1400",
+                            "tc_id": "166",
+                            "step_order": "17",
+                            "step_action": "Click on “Go to sprint 5”.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1401",
+                            "tc_id": "166",
+                            "step_order": "18",
+                            "step_action": "Wait for “Iteration 5” text to appear.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1402",
+                            "tc_id": "166",
+                            "step_order": "19",
+                            "step_action": "Click on the “Submit” button.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "239",
+                            "tc_id": "166",
+                            "thread_id": "cotester_thread_v2_6acf293899bc81948c3d78884c3d7813058a1f20f0313fb7",
+                            "user_id": "16",
+                            "message": "Please generate a manual test case based on Azure work item - Epic #27",
+                            "message_type": "sender",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "id": "240",
+                            "tc_id": "166",
+                            "thread_id": "cotester_thread_v2_6acf293899bc81948c3d78884c3d7813058a1f20f0313fb7",
+                            "user_id": "16",
+                            "message": "Test Case Title: Successful Completion of the Entire Sprint Workflow (Positive Test)\nModule: Automation Page Sprint Workflow\nPriority: High\n\nPreconditions:\n- - User has access to https://ultimateqa.com/automation/\n- - Browser is up and running\n\nTest Steps:\n1. Navigate to https://ultimateqa.com/automation/\n2. Wait until the text “Learn how to automate an application that evolves over time” is visible.\n3. Click on “Learn how to automate an application that evolves over time”.\n4. Wait for “Sprint 1” text to appear.\n5. Enter “FirstDemo” into the Firstname field.\n6. Click on “Go to next sprint”.\n7. Wait for “Iteration 2” text to appear.\n8. Enter “FirstDemo” into the Firstname field.\n9. Enter “LastDemo” into the Lastname field.\n10. Click on “Go to sprint 3”.\n11. Wait for “Iteration 3” text to appear.\n12. Select the “Male” radio button.\n13. Enter “FirstDemo” into the Firstname field.\n14. Enter “LastDemo” into the Lastname field.\n15. Click on “Go to sprint 4”.\n16. Wait for “Iteration 4” text to appear.\n17. Click on “Go to sprint 5”.\n18. Wait for “Iteration 5” text to appear.\n19. Click on the “Submit” button.\n\nExpected Result:\n- - Each navigation and form action is performed successfully without errors.\n- - Each sprint/iteration displays the corresponding UI section before allowing input.\n- - Final submission in Iteration 5 completes without validation or system errors.\n- - Confirmation or success message for completion is displayed, if applicable.",
+                            "message_type": "replier",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "167",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "6",
+                    "version_module_id": "44",
+                    "tc_name": "Attempt to Submit Without Mandatory Field Input (Negative Test)",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Attempt to Submit Without Mandatory Field Input (Negative Test)\nModule: Automation Page Sprint Workflow\nPriority: Medium\n\nPreconditions:\n- - User has access to https://ultimateqa.com/automation/\n- - Browser is up and running\n\nTest Steps:\n1. Navigate to https://ultimateqa.com/automation/\n2. Wait until the text “Learn how to automate an application that evolves over time” is visible.\n3. Click on “Learn how to automate an application that evolves over time”.\n4. Wait for “Sprint 1” text to appear.\n5. Leave the Firstname field empty.\n6. Click on “Go to next sprint”.\n\nExpected Result:\n- - The system prevents navigation to the next sprint.\n- - An appropriate validation error message is displayed, indicating that the Firstname field is required.\n- - The user remains on the same sprint/form.\n- - No data is submitted or progressed further.",
+                    "created_source": "azure_board",
+                    "created_source_ref": "azure_27",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-10-14 07:03:27",
+                    "created_at": "2026-10-14 07:03:27",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1403",
+                            "tc_id": "167",
+                            "step_order": "1",
+                            "step_action": "Navigate to https://ultimateqa.com/automation/",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1404",
+                            "tc_id": "167",
+                            "step_order": "2",
+                            "step_action": "Wait until the text “Learn how to automate an application that evolves over time” is visible.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1405",
+                            "tc_id": "167",
+                            "step_order": "3",
+                            "step_action": "Click on “Learn how to automate an application that evolves over time”.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1406",
+                            "tc_id": "167",
+                            "step_order": "4",
+                            "step_action": "Wait for “Sprint 1” text to appear.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1407",
+                            "tc_id": "167",
+                            "step_order": "5",
+                            "step_action": "Leave the Firstname field empty.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1408",
+                            "tc_id": "167",
+                            "step_order": "6",
+                            "step_action": "Click on “Go to next sprint”.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "241",
+                            "tc_id": "167",
+                            "thread_id": "cotester_thread_v2_6acf293899bc81948c3d78884c3d7813058a1f20f0313fb7",
+                            "user_id": "16",
+                            "message": "Please generate a manual test case based on Azure work item - Epic #27",
+                            "message_type": "sender",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "id": "242",
+                            "tc_id": "167",
+                            "thread_id": "cotester_thread_v2_6acf293899bc81948c3d78884c3d7813058a1f20f0313fb7",
+                            "user_id": "16",
+                            "message": "Test Case Title: Attempt to Submit Without Mandatory Field Input (Negative Test)\nModule: Automation Page Sprint Workflow\nPriority: Medium\n\nPreconditions:\n- - User has access to https://ultimateqa.com/automation/\n- - Browser is up and running\n\nTest Steps:\n1. Navigate to https://ultimateqa.com/automation/\n2. Wait until the text “Learn how to automate an application that evolves over time” is visible.\n3. Click on “Learn how to automate an application that evolves over time”.\n4. Wait for “Sprint 1” text to appear.\n5. Leave the Firstname field empty.\n6. Click on “Go to next sprint”.\n\nExpected Result:\n- - The system prevents navigation to the next sprint.\n- - An appropriate validation error message is displayed, indicating that the Firstname field is required.\n- - The user remains on the same sprint/form.\n- - No data is submitted or progressed further.",
+                            "message_type": "replier",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "168",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "6",
+                    "version_module_id": "44",
+                    "tc_name": "Firstname Field Accepts Maximum Allowed Characters (Boundary/Edge Test)",
+                    "thread_id": "cotester_thread_v2_6acf32c1d4fc8193a6b544b659a6367601597e7246f11a0a",
+                    "tc_description": "Test Case Title: Firstname Field Accepts Maximum Allowed Characters (Boundary/Edge Test)\nModule: Automation Page Sprint Workflow\nPriority: Medium\n\nPreconditions:\n- - User has access to https://ultimateqa.com/automation/\n- - Browser is up and running\n- - Maximum character limit for the Firstname field is known (assume 50 characters for this test; adjust if limit is specified)\n\nTest Steps:\n1. Navigate to https://ultimateqa.com/automation/\n2. Wait until the text “Learn how to automate an application that evolves over time” is visible.\n3. Click on “Learn how to automate an application that evolves over time”.\n4. Wait for “Sprint 1” text to appear.\n5. Enter a string of exactly 50 characters (such as “A” repeated 50 times) into the Firstname field.\n6. Click on “Go to next sprint”.\n\nExpected Result:\n- - The Firstname field accepts the 50-character input without truncation.\n- - Navigation to the next sprint (Iteration 2) is successful.\n- - No validation or input errors are shown.\n- - User proceeds to “Iteration 2” after successful input.",
+                    "created_source": "azure_board",
+                    "created_source_ref": "azure_27",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-10-14 07:44:02",
+                    "created_at": "2026-10-14 07:03:27",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1409",
+                            "tc_id": "168",
+                            "step_order": "1",
+                            "step_action": "Navigate to https://ultimateqa.com/automation/",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1410",
+                            "tc_id": "168",
+                            "step_order": "2",
+                            "step_action": "Wait until the text “Learn how to automate an application that evolves over time” is visible.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1411",
+                            "tc_id": "168",
+                            "step_order": "3",
+                            "step_action": "Click on “Learn how to automate an application that evolves over time”.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1412",
+                            "tc_id": "168",
+                            "step_order": "4",
+                            "step_action": "Wait for “Sprint 1” text to appear.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1413",
+                            "tc_id": "168",
+                            "step_order": "5",
+                            "step_action": "Enter a string of exactly 50 characters (such as “A” repeated 50 times) into the Firstname field.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "step_id": "1414",
+                            "tc_id": "168",
+                            "step_order": "6",
+                            "step_action": "Click on “Go to next sprint”.",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "243",
+                            "tc_id": "168",
+                            "thread_id": "cotester_thread_v2_6acf293899bc81948c3d78884c3d7813058a1f20f0313fb7",
+                            "user_id": "16",
+                            "message": "Please generate a manual test case based on Azure work item - Epic #27",
+                            "message_type": "sender",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        },
+                        {
+                            "id": "244",
+                            "tc_id": "168",
+                            "thread_id": "cotester_thread_v2_6acf293899bc81948c3d78884c3d7813058a1f20f0313fb7",
+                            "user_id": "16",
+                            "message": "Test Case Title: Firstname Field Accepts Maximum Allowed Characters (Boundary/Edge Test)\nModule: Automation Page Sprint Workflow\nPriority: Medium\n\nPreconditions:\n- - User has access to https://ultimateqa.com/automation/\n- - Browser is up and running\n- - Maximum character limit for the Firstname field is known (assume 50 characters for this test; adjust if limit is specified)\n\nTest Steps:\n1. Navigate to https://ultimateqa.com/automation/\n2. Wait until the text “Learn how to automate an application that evolves over time” is visible.\n3. Click on “Learn how to automate an application that evolves over time”.\n4. Wait for “Sprint 1” text to appear.\n5. Enter a string of exactly 50 characters (such as “A” repeated 50 times) into the Firstname field.\n6. Click on “Go to next sprint”.\n\nExpected Result:\n- - The Firstname field accepts the 50-character input without truncation.\n- - Navigation to the next sprint (Iteration 2) is successful.\n- - No validation or input errors are shown.\n- - User proceeds to “Iteration 2” after successful input.",
+                            "message_type": "replier",
+                            "created_at": "2026-10-14 07:03:27",
+                            "updated_at": "2026-10-14 07:03:27"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "179",
+                    "test_case_id": "342",
+                    "jira_id": "0",
+                    "azure_id": "0",
+                    "version_module_id": "44",
+                    "tc_name": "Mn1",
+                    "thread_id": "cotester_thread_v2_6acf34ab72b4819783b360de2880f7970e714d6969b5abbd",
+                    "tc_description": "",
+                    "created_source": "manual_add",
+                    "created_source_ref": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-10-14 07:52:49",
+                    "created_at": "2026-10-14 07:52:10",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1476",
+                            "tc_id": "179",
+                            "step_order": "1",
+                            "step_action": "Wait for the Full Name field to be visible.",
+                            "created_at": "2026-10-14 07:52:37",
+                            "updated_at": "2026-10-14 07:52:37"
+                        },
+                        {
+                            "step_id": "1477",
+                            "tc_id": "179",
+                            "step_order": "2",
+                            "step_action": "Enter \"DemoFull\" in the Full Name field.",
+                            "created_at": "2026-10-14 07:52:37",
+                            "updated_at": "2026-10-14 07:52:37"
+                        },
+                        {
+                            "step_id": "1478",
+                            "tc_id": "179",
+                            "step_order": "3",
+                            "step_action": "Wait for 2 seconds.",
+                            "created_at": "2026-10-14 07:52:37",
+                            "updated_at": "2026-10-14 07:52:37"
+                        },
+                        {
+                            "step_id": "1479",
+                            "tc_id": "179",
+                            "step_order": "4",
+                            "step_action": "Enter \"DemoFirst\" in the First Name field.",
+                            "created_at": "2026-10-14 07:52:37",
+                            "updated_at": "2026-10-14 07:52:37"
+                        },
+                        {
+                            "step_id": "1480",
+                            "tc_id": "179",
+                            "step_order": "5",
+                            "step_action": "Wait for the Done button to be visible.",
+                            "created_at": "2026-10-14 07:52:37",
+                            "updated_at": "2026-10-14 07:52:37"
+                        },
+                        {
+                            "step_id": "1481",
+                            "tc_id": "179",
+                            "step_order": "6",
+                            "step_action": "Tap on the Done button.",
+                            "created_at": "2026-10-14 07:52:37",
+                            "updated_at": "2026-10-14 07:52:37"
+                        },
+                        {
+                            "step_id": "1482",
+                            "tc_id": "179",
+                            "step_order": "7",
+                            "step_action": "Wait for the Clear button to be visible.",
+                            "created_at": "2026-10-14 07:52:37",
+                            "updated_at": "2026-10-14 07:52:37"
+                        },
+                        {
+                            "step_id": "1483",
+                            "tc_id": "179",
+                            "step_order": "8",
+                            "step_action": "Tap on the Clear button.",
+                            "created_at": "2026-10-14 07:52:37",
+                            "updated_at": "2026-10-14 07:52:37"
+                        },
+                        {
+                            "step_id": "1484",
+                            "tc_id": "179",
+                            "step_order": "9",
+                            "step_action": "Tap on the Controls tab.",
+                            "created_at": "2026-10-14 07:52:37",
+                            "updated_at": "2026-10-14 07:52:37"
+                        },
+                        {
+                            "step_id": "1485",
+                            "tc_id": "179",
+                            "step_order": "10",
+                            "step_action": "Wait for the Male radio option to be visible.",
+                            "created_at": "2026-10-14 07:52:37",
+                            "updated_at": "2026-10-14 07:52:37"
+                        },
+                        {
+                            "step_id": "1486",
+                            "tc_id": "179",
+                            "step_order": "11",
+                            "step_action": "Tap on the Female radio button.",
+                            "created_at": "2026-10-14 07:52:37",
+                            "updated_at": "2026-10-14 07:52:37"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "265",
+                            "tc_id": "179",
+                            "thread_id": "cotester_thread_v2_6acf34ab72b4819783b360de2880f7970e714d6969b5abbd",
+                            "user_id": "11",
+                            "message": "- Wait for the visibility of Full name field is visible.\n- Type in “DemoFull” in full name field.\n- Wait for 2 seconds.\n- Type in “DemoFirst” in first name field.\n- Wait for the visibility of Done button\n- Tap on Done button\n- Wait for the visibility of Clear button\n- Tap on Clear button\n- Tap on Controls tab\n- Wait for the visibility of Male option is visible\n- Tap on Female radio button.",
+                            "message_type": "sender",
+                            "created_at": "2026-10-14 07:52:27",
+                            "updated_at": "2026-10-14 07:52:27"
+                        },
+                        {
+                            "id": "266",
+                            "tc_id": "179",
+                            "thread_id": "cotester_thread_v2_6acf34ab72b4819783b360de2880f7970e714d6969b5abbd",
+                            "user_id": "11",
+                            "message": "Test Case: 1\n\nTest Case Title: Verify Form Field Entry and Radio Button Interaction\nModule: Form Controls\nPriority: Medium\n\nPreconditions:\n- User is on the form screen with full name and first name fields visible.\n- Application is loaded and responsive.\n\nTest Steps:\n1. Wait for the Full Name field to be visible.\n2. Enter \"DemoFull\" in the Full Name field.\n3. Wait for 2 seconds.\n4. Enter \"DemoFirst\" in the First Name field.\n5. Wait for the Done button to be visible.\n6. Tap on the Done button.\n7. Wait for the Clear button to be visible.\n8. Tap on the Clear button.\n9. Tap on the Controls tab.\n10. Wait for the Male radio option to be visible.\n11. Tap on the Female radio button.\n\nExpected Result:\n- The Full Name field is visible and accepts input \"DemoFull\".\n- The First Name field is visible and accepts input \"DemoFirst\" after 2 seconds pause.\n- The Done button appears and can be tapped.\n- The Clear button appears and can be tapped, clearing the fields or resetting the form.\n- Navigation to the Controls tab is successful.\n- Both Male and Female radio options are visible, with the Female radio button selectable. The selection is reflected in the UI.",
+                            "message_type": "replier",
+                            "created_at": "2026-10-14 07:52:34",
+                            "updated_at": "2026-10-14 07:52:34"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "192",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "4",
+                    "version_module_id": "44",
+                    "tc_name": "Successful Location Search and Selection",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Successful Location Search and Selection\nModule: Location Search and Selection\nPriority: High\n\nPreconditions:\n- - User is logged in and the GoodWeather app is launched.\n- - The main dashboard is loaded.\n\nTest Steps:\n1. Tap on the Search button.\n2. Wait until the Search location edit text field is visible.\n3. Type “Mumbai” in the search location edit text field.\n4. Wait until the “IN” option is visible.\n5. Tap on the “IN” option.\n6. Wait until the Refresh location button is visible.\n\nExpected Result:\n- - Search location edit text field appears after tapping the Search button.\n- - “Mumbai” is accepted in the input field.\n- - “IN” option is displayed as a result.\n- - Selecting “IN” updates the current weather location.\n- - Refresh location button is visible after successful location selection.",
+                    "created_source": "azure_board",
+                    "created_source_ref": "azure_19",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-10-14 09:22:43",
+                    "created_at": "2026-10-14 09:22:43",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1570",
+                            "tc_id": "192",
+                            "step_order": "1",
+                            "step_action": "Tap on the Search button.",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        },
+                        {
+                            "step_id": "1571",
+                            "tc_id": "192",
+                            "step_order": "2",
+                            "step_action": "Wait until the Search location edit text field is visible.",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        },
+                        {
+                            "step_id": "1572",
+                            "tc_id": "192",
+                            "step_order": "3",
+                            "step_action": "Type “Mumbai” in the search location edit text field.",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        },
+                        {
+                            "step_id": "1573",
+                            "tc_id": "192",
+                            "step_order": "4",
+                            "step_action": "Wait until the “IN” option is visible.",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        },
+                        {
+                            "step_id": "1574",
+                            "tc_id": "192",
+                            "step_order": "5",
+                            "step_action": "Tap on the “IN” option.",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        },
+                        {
+                            "step_id": "1575",
+                            "tc_id": "192",
+                            "step_order": "6",
+                            "step_action": "Wait until the Refresh location button is visible.",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "291",
+                            "tc_id": "192",
+                            "thread_id": "cotester_thread_v2_6acf49dfe0788195943ee8562ae11a6304a1dce40816ed0c",
+                            "user_id": "16",
+                            "message": "Please generate a manual test case based on Azure work item - Epic #19",
+                            "message_type": "sender",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        },
+                        {
+                            "id": "292",
+                            "tc_id": "192",
+                            "thread_id": "cotester_thread_v2_6acf49dfe0788195943ee8562ae11a6304a1dce40816ed0c",
+                            "user_id": "16",
+                            "message": "Test Case Title: Successful Location Search and Selection\nModule: Location Search and Selection\nPriority: High\n\nPreconditions:\n- - User is logged in and the GoodWeather app is launched.\n- - The main dashboard is loaded.\n\nTest Steps:\n1. Tap on the Search button.\n2. Wait until the Search location edit text field is visible.\n3. Type “Mumbai” in the search location edit text field.\n4. Wait until the “IN” option is visible.\n5. Tap on the “IN” option.\n6. Wait until the Refresh location button is visible.\n\nExpected Result:\n- - Search location edit text field appears after tapping the Search button.\n- - “Mumbai” is accepted in the input field.\n- - “IN” option is displayed as a result.\n- - Selecting “IN” updates the current weather location.\n- - Refresh location button is visible after successful location selection.",
+                            "message_type": "replier",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "193",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "4",
+                    "version_module_id": "44",
+                    "tc_name": "Location Search Fails with Invalid Input",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Location Search Fails with Invalid Input\nModule: Location Search and Selection\nPriority: Medium\n\nPreconditions:\n- - User is logged in and the GoodWeather app is launched.\n- - The main dashboard is loaded.\n\nTest Steps:\n1. Tap on the Search button.\n2. Wait until the Search location edit text field is visible.\n3. Type “$$$$$$” in the search location edit text field.\n4. Observe the search results below the input field.\n\nExpected Result:\n- - Search location edit text field appears after tapping the Search button.\n- - “$$$$$$” is accepted in the input field.\n- - No valid location results (such as “IN”) appear.\n- - An error message or “No results found” indication is displayed.\n- - Refresh location button does not appear.",
+                    "created_source": "azure_board",
+                    "created_source_ref": "azure_19",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-10-14 09:22:43",
+                    "created_at": "2026-10-14 09:22:43",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1576",
+                            "tc_id": "193",
+                            "step_order": "1",
+                            "step_action": "Tap on the Search button.",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        },
+                        {
+                            "step_id": "1577",
+                            "tc_id": "193",
+                            "step_order": "2",
+                            "step_action": "Wait until the Search location edit text field is visible.",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        },
+                        {
+                            "step_id": "1578",
+                            "tc_id": "193",
+                            "step_order": "3",
+                            "step_action": "Type “$$$$$$” in the search location edit text field.",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        },
+                        {
+                            "step_id": "1579",
+                            "tc_id": "193",
+                            "step_order": "4",
+                            "step_action": "Observe the search results below the input field.",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "293",
+                            "tc_id": "193",
+                            "thread_id": "cotester_thread_v2_6acf49dfe0788195943ee8562ae11a6304a1dce40816ed0c",
+                            "user_id": "16",
+                            "message": "Please generate a manual test case based on Azure work item - Epic #19",
+                            "message_type": "sender",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        },
+                        {
+                            "id": "294",
+                            "tc_id": "193",
+                            "thread_id": "cotester_thread_v2_6acf49dfe0788195943ee8562ae11a6304a1dce40816ed0c",
+                            "user_id": "16",
+                            "message": "Test Case Title: Location Search Fails with Invalid Input\nModule: Location Search and Selection\nPriority: Medium\n\nPreconditions:\n- - User is logged in and the GoodWeather app is launched.\n- - The main dashboard is loaded.\n\nTest Steps:\n1. Tap on the Search button.\n2. Wait until the Search location edit text field is visible.\n3. Type “$$$$$$” in the search location edit text field.\n4. Observe the search results below the input field.\n\nExpected Result:\n- - Search location edit text field appears after tapping the Search button.\n- - “$$$$$$” is accepted in the input field.\n- - No valid location results (such as “IN”) appear.\n- - An error message or “No results found” indication is displayed.\n- - Refresh location button does not appear.",
+                            "message_type": "replier",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "194",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "4",
+                    "version_module_id": "44",
+                    "tc_name": "Weather Update Functionality With Weak Network Connectivity",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Weather Update Functionality With Weak Network Connectivity\nModule: Weather Update (Refresh)\nPriority: Medium\n\nPreconditions:\n- - User is logged in and the GoodWeather app is launched.\n- - The main dashboard is loaded.\n- - Device is connected to a weak or intermittent network.\n\nTest Steps:\n1. Wait for the visibility of the “Wind” text on the main screen.\n2. Swipe down to trigger the refresh action.\n3. Wait until the “Update” text view is visible.\n4. Tap on the “Update” text view.\n5. Observe the app’s behavior after tapping “Update” during weak network connectivity.\n\nExpected Result:\n- - “Wind” text is displayed on the main screen.\n- - Swipe down triggers the refresh action.\n- - “Update” text view appears after the swipe.\n- - Tapping “Update” triggers an attempt to update weather data.\n- - App displays appropriate loading indicators.\n- - If update fails due to network, an error message is shown (“Could not update. Check your connection.”), and the app does not crash.",
+                    "created_source": "azure_board",
+                    "created_source_ref": "azure_19",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-10-14 09:22:43",
+                    "created_at": "2026-10-14 09:22:43",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1580",
+                            "tc_id": "194",
+                            "step_order": "1",
+                            "step_action": "Wait for the visibility of the “Wind” text on the main screen.",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        },
+                        {
+                            "step_id": "1581",
+                            "tc_id": "194",
+                            "step_order": "2",
+                            "step_action": "Swipe down to trigger the refresh action.",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        },
+                        {
+                            "step_id": "1582",
+                            "tc_id": "194",
+                            "step_order": "3",
+                            "step_action": "Wait until the “Update” text view is visible.",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        },
+                        {
+                            "step_id": "1583",
+                            "tc_id": "194",
+                            "step_order": "4",
+                            "step_action": "Tap on the “Update” text view.",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        },
+                        {
+                            "step_id": "1584",
+                            "tc_id": "194",
+                            "step_order": "5",
+                            "step_action": "Observe the app’s behavior after tapping “Update” during weak network connectivity.",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "295",
+                            "tc_id": "194",
+                            "thread_id": "cotester_thread_v2_6acf49dfe0788195943ee8562ae11a6304a1dce40816ed0c",
+                            "user_id": "16",
+                            "message": "Please generate a manual test case based on Azure work item - Epic #19",
+                            "message_type": "sender",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        },
+                        {
+                            "id": "296",
+                            "tc_id": "194",
+                            "thread_id": "cotester_thread_v2_6acf49dfe0788195943ee8562ae11a6304a1dce40816ed0c",
+                            "user_id": "16",
+                            "message": "Test Case Title: Weather Update Functionality With Weak Network Connectivity\nModule: Weather Update (Refresh)\nPriority: Medium\n\nPreconditions:\n- - User is logged in and the GoodWeather app is launched.\n- - The main dashboard is loaded.\n- - Device is connected to a weak or intermittent network.\n\nTest Steps:\n1. Wait for the visibility of the “Wind” text on the main screen.\n2. Swipe down to trigger the refresh action.\n3. Wait until the “Update” text view is visible.\n4. Tap on the “Update” text view.\n5. Observe the app’s behavior after tapping “Update” during weak network connectivity.\n\nExpected Result:\n- - “Wind” text is displayed on the main screen.\n- - Swipe down triggers the refresh action.\n- - “Update” text view appears after the swipe.\n- - Tapping “Update” triggers an attempt to update weather data.\n- - App displays appropriate loading indicators.\n- - If update fails due to network, an error message is shown (“Could not update. Check your connection.”), and the app does not crash.",
+                            "message_type": "replier",
+                            "created_at": "2026-10-14 09:22:43",
+                            "updated_at": "2026-10-14 09:22:43"
+                        }
+                    ]
+                }
+            ],
+            "abo_vm_network_assert": [
+                {
+                    "na_id": "14",
+                    "version_module_id": "44",
+                    "na_name": "CallAPI",
+                    "na_description": "",
+                    "cm_step_list": "28",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "abo_na_steps": [
+                        {
+                            "na_step_id": "28",
+                            "na_id": "14",
+                            "keyword_id": "6",
+                            "order": "0",
+                            "param1": "INT",
+                            "param2": "v1",
+                            "param3": "NAPARAM_1",
+                            "param4": "",
+                            "param5": ""
+                        }
+                    ]
+                },
+                {
+                    "na_id": "15",
+                    "version_module_id": "44",
+                    "na_name": "AAAA",
+                    "na_description": "",
+                    "cm_step_list": "29",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "abo_na_steps": [
+                        {
+                            "na_step_id": "29",
+                            "na_id": "15",
+                            "keyword_id": "6",
+                            "order": "0",
+                            "param1": "INT",
+                            "param2": "v1",
+                            "param3": "NAPARAM_1",
+                            "param4": "",
+                            "param5": ""
+                        }
+                    ]
+                }
+            ],
+            "abo_update": [
+                {
+                    "id": "225",
+                    "user_id": "11",
+                    "app_id": "30",
+                    "version_id": "44",
+                    "version_module_id": "44",
+                    "description": "",
+                    "action_process": "add_version_module"
+                },
+                {
+                    "id": "227",
+                    "user_id": "11",
+                    "app_id": "30",
+                    "version_id": "44",
+                    "version_module_id": "44",
+                    "description": "",
+                    "action_process": "add_test_case"
+                },
+                {
+                    "id": "236",
+                    "user_id": "11",
+                    "app_id": "30",
+                    "version_id": "44",
+                    "version_module_id": "44",
+                    "description": "",
+                    "action_process": "edit_test_case"
+                },
+                {
+                    "id": "287",
+                    "user_id": "11",
+                    "app_id": "30",
+                    "version_id": "44",
+                    "version_module_id": "44",
+                    "description": "",
+                    "action_process": "add_network_assert"
+                },
+                {
+                    "id": "288",
+                    "user_id": "11",
+                    "app_id": "30",
+                    "version_id": "44",
+                    "version_module_id": "44",
+                    "description": "",
+                    "action_process": "delete_network_assert"
+                },
+                {
+                    "id": "289",
+                    "user_id": "11",
+                    "app_id": "30",
+                    "version_id": "44",
+                    "version_module_id": "44",
+                    "description": "",
+                    "action_process": "add_test_function"
+                },
+                {
+                    "id": "290",
+                    "user_id": "11",
+                    "app_id": "30",
+                    "version_id": "44",
+                    "version_module_id": "44",
+                    "description": "",
+                    "action_process": "edit_test_function"
+                }
+            ],
+            "abo_vm_test_story_manual": [],
+            "abo_version_pages": [
+                {
+                    "version_page_id": 0,
+                    "version_module_id": "44",
+                    "cm_resource": "",
+                    "page_name": "Manually Added Resources ",
+                    "image_url": "",
+                    "abo_version_maps": []
+                }
+            ]
+        }
+    ],
+    "abo_version_capabilities": [],
+    "abo_import_statement": [],
+    "abo_maven_dependency": [],
+    "abo_external_jar": [],
+    "abo_global_variable": [],
+    "ab_scheduler": [],
+    "domain": "poc28.testgrid.io"
+}
