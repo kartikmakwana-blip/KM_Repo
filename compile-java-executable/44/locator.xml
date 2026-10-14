@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_fullnameele42071102491461">
+    <element type="xpath">//XCUIElementTypeTextField[@name="field.fullName"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="Full name"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="Full name"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/800.png</element>
+  </locator>
+  <locator name="ele_firstnameele49071102491461">
+    <element type="xpath">//XCUIElementTypeTextField[@name="field.firstName"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="First name"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="First name"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/801.png</element>
+  </locator>
+  <locator name="ele_viewele11071102491461">
+    <element type="xpath">//XCUIElementTypeOther[@name="tab.form"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/802.png</element>
+  </locator>
+  <locator name="ele_keyboarddoneele213071204762420">
+    <element type="xpath">//XCUIElementTypeButton[@name="Done"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="done"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="done"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[3]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[3]</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/803.png</element>
+  </locator>
+  <locator name="ele_clearele35071204762420">
+    <element type="xpath">//XCUIElementTypeButton[@name="section.clear"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Clear"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Clear"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/804.png</element>
+  </locator>
+  <locator name="ele_controlstabele136071204762420">
+    <element type="xpath">//XCUIElementTypeButton[@name="slider.horizontal.3"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Controls"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Controls"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/805.png</element>
+  </locator>
+  <locator name="ele_maleele50071308500269">
+    <element type="xpath">//XCUIElementTypeButton[@name="radio.male"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Male"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Male"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[4]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[4]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/806.png</element>
+  </locator>
+  <locator name="ele_femaleele59071308500269">
+    <element type="xpath">//XCUIElementTypeButton[@name="radio.female"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Female"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Female"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[5]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[5]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/807.png</element>
+  </locator>
+  <locator name="ele_screenstabele111071308500269">
+    <element type="xpath">//XCUIElementTypeButton[@name="rectangle.stack"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Screens"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Screens"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[5]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[5]</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/808.png</element>
+  </locator>
+  <locator name="ele_fullnameele36072058013517">
+    <element type="xpath">//XCUIElementTypeTextField[@name="field.fullName"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="Full name"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="Full name"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/809.png</element>
+  </locator>
+  <locator name="ele_firstnameele43072058013517">
+    <element type="xpath">//XCUIElementTypeTextField[@name="field.firstName"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="First name"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="First name"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/810.png</element>
+  </locator>
+  <locator name="ele_viewele11072058013517">
+    <element type="xpath">//XCUIElementTypeOther[@name="tab.form"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/811.png</element>
+  </locator>
+  <locator name="ele_firstnameele43072241496418">
+    <element type="xpath">//XCUIElementTypeTextField[@name="field.firstName"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="DemoFirst"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="DemoFirst"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/812.png</element>
+  </locator>
+  <locator name="ele_keyboarddoneele205072241496418">
+    <element type="xpath">//XCUIElementTypeButton[@name="Done"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="done"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="done"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]</element>
+  </locator>
+  <locator name="ele_clearele29072241496418">
+    <element type="xpath">//XCUIElementTypeButton[@name="section.clear"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Clear"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Clear"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/814.png</element>
+  </locator>
+  <locator name="ele_controlstabele130072241496418">
+    <element type="xpath">//XCUIElementTypeButton[@name="slider.horizontal.3"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Controls"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Controls"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/815.png</element>
+  </locator>
+  <locator name="ele_controlstabele130072332489759">
+    <element type="xpath">//XCUIElementTypeButton[@name="slider.horizontal.3"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Controls"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Controls"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/816.png</element>
+  </locator>
+  <locator name="ele_fullnameele42072717177232">
+    <element type="xpath">//XCUIElementTypeTextField[@name="field.fullName"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="Full name"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="Full name"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/817.png</element>
+  </locator>
+  <locator name="ele_firstnameele49072717177232">
+    <element type="xpath">//XCUIElementTypeTextField[@name="field.firstName"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="First name"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="First name"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/818.png</element>
+  </locator>
+  <locator name="ele_viewele11072717177232">
+    <element type="xpath">//XCUIElementTypeOther[@name="tab.form"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/819.png</element>
+  </locator>
+  <locator name="ele_keyboarddoneele216072805244095">
+    <element type="xpath">//XCUIElementTypeButton[@name="Done"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="done"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="done"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[3]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[3]</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/820.png</element>
+  </locator>
+  <locator name="ele_clearele35072805244095">
+    <element type="xpath">//XCUIElementTypeButton[@name="section.clear"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Clear"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Clear"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/821.png</element>
+  </locator>
+  <locator name="ele_controlstabele136073926372626">
+    <element type="xpath">//XCUIElementTypeButton[@name="Controls"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Controls"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Controls"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/822.png</element>
+  </locator>
+  <locator name="ele_fullnameele42074535997375">
+    <element type="xpath">//XCUIElementTypeTextField[@name="field.fullName"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="Full name"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="Full name"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/823.png</element>
+  </locator>
+  <locator name="ele_firstnameele49074535997375">
+    <element type="xpath">//XCUIElementTypeTextField[@name="field.firstName"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="First name"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="First name"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/824.png</element>
+  </locator>
+  <locator name="ele_viewele11074535997375">
+    <element type="xpath">//XCUIElementTypeOther[@name="tab.form"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/825.png</element>
+  </locator>
+  <locator name="ele_keyboarddoneele213074725342902">
+    <element type="xpath">//XCUIElementTypeButton[@name="Done"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="done"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="done"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[3]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[3]</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/826.png</element>
+  </locator>
+  <locator name="ele_clearele35074725342902">
+    <element type="xpath">//XCUIElementTypeButton[@name="section.clear"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Clear"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Clear"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/827.png</element>
+  </locator>
+  <locator name="ele_controlstabele136074725342902">
+    <element type="xpath">//XCUIElementTypeButton[@name="slider.horizontal.3"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Controls"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Controls"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/828.png</element>
+  </locator>
+  <locator name="ele_fullnameele36075325007786">
+    <element type="xpath">//XCUIElementTypeTextField[@name="field.fullName"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="Full name"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="Full name"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/829.png</element>
+  </locator>
+  <locator name="ele_firstnameele43075325007786">
+    <element type="xpath">//XCUIElementTypeTextField[@name="field.firstName"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="First name"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="First name"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/830.png</element>
+  </locator>
+  <locator name="ele_viewele11075325007786">
+    <element type="xpath">//XCUIElementTypeOther[@name="tab.form"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/831.png</element>
+  </locator>
+  <locator name="ele_firstnameele43075412965716">
+    <element type="xpath">//XCUIElementTypeTextField[@name="field.firstName"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="DemoFirst"]</element>
+    <element type="xpath">//XCUIElementTypeTextField[@value="DemoFirst"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/832.png</element>
+  </locator>
+  <locator name="ele_doneele205075412965716">
+    <element type="xpath">//XCUIElementTypeButton[@name="Done"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="done"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="done"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]</element>
+  </locator>
+  <locator name="ele_clearele29075412965716">
+    <element type="xpath">//XCUIElementTypeButton[@name="section.clear"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Clear"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Clear"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/834.png</element>
+  </locator>
+  <locator name="ele_controlstabele130075412965716">
+    <element type="xpath">//XCUIElementTypeButton[@name="slider.horizontal.3"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Controls"]</element>
+    <element type="xpath">//XCUIElementTypeButton[@label="Controls"]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/835.png</element>
+  </locator>
+  <locator name="ele_TabBarItemTitleTextField1791978273982">
+    <element type="xpath">(//XCUIElementTypeTextField[@name='TabBarItemTitle'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/836.png</element>
+  </locator>
+  <locator name="ele_URLTextField1791978284709">
+    <element type="xpath">(//XCUIElementTypeTextField[@name='URL'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/837.png</element>
+  </locator>
+  <locator name="ele_GoButton1791978303635">
+    <element type="xpath">(//XCUIElementTypeButton[@name='Go'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/44/838.png</element>
+  </locator>
+</locators>

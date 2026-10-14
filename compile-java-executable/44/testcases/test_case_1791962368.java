@@ -21,7 +21,12 @@ public class test_case_1791962368 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void test_case_1791962368() {
 		tg.openDevice();
-		tg.wait(1);
+				tg.wait("ele_fullnameele36072058013517", ComparisonType.IS_VISIBLE);
+				tg.type("ele_fullnameele36072058013517", "DemoFull", false);
+				tg.wait(2);
+				tg.type("ele_firstnameele43072058013517", "DemoFirst", false);
+				tg.check.isVisible("ele_controlstabele130072332489759");
+				tg.click("ele_controlstabele130072332489759", 1);
 		tg.close();
 	}
 }

@@ -21,7 +21,15 @@ public class tcsuccessfulsubmissionofuserinformationandnavigationflow {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tcsuccessfulsubmissionofuserinformationandnavigationflow() {
 		tg.openDevice();
-		tg.wait(1);
+				tg.wait("ele_fullnameele42074535997375", ComparisonType.IS_VISIBLE);
+				tg.type("ele_fullnameele42074535997375", "DemoFull", false);
+				tg.wait(2);
+				tg.type("ele_firstnameele49074535997375", "DemoFirst", false);
+				tg.click("ele_keyboarddoneele213074725342902", 1);
+				tg.wait("ele_clearele35074725342902", ComparisonType.IS_VISIBLE);
+				tg.click("ele_clearele35074725342902", 1);
+				tg.wait("ele_controlstabele136074725342902", ComparisonType.IS_VISIBLE);
+				tg.click("ele_controlstabele136074725342902", 1);
 		tg.close();
 	}
 }

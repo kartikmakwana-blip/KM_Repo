@@ -21,7 +21,17 @@ public class tcmn1 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tcmn1() {
 		tg.openDevice();
-		tg.wait(1);
+				tg.wait("ele_fullnameele36075325007786", ComparisonType.IS_VISIBLE);
+				tg.type("ele_fullnameele36075325007786", "DemoFull", false);
+				tg.wait(2);
+				tg.type("ele_firstnameele43075325007786", "DemoFirst", false);
+				tg.swipe(Direction.UP);
+				tg.click("ele_firstnameele43075412965716", 1);
+				tg.wait("ele_doneele205075412965716", ComparisonType.IS_VISIBLE);
+				tg.click("ele_doneele205075412965716", 1);
+				tg.wait("ele_clearele29075412965716", ComparisonType.IS_VISIBLE);
+				tg.click("ele_clearele29075412965716", 1);
+				tg.click("ele_controlstabele130075412965716", 1);
 		tg.close();
 	}
 }

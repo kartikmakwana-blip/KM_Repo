@@ -21,7 +21,16 @@ public class testcase1 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void testcase1() {
 		tg.openDevice();
-		tg.wait(1);
+				tg.wait("ele_fullnameele42072717177232", ComparisonType.IS_VISIBLE);
+				tg.type("ele_fullnameele42072717177232", "DemoFull", false);
+				tg.wait(2);
+				tg.type("ele_firstnameele49072717177232", "DemoFirst", false);
+				tg.swipe(Direction.UP);
+				tg.wait("ele_keyboarddoneele216072805244095", ComparisonType.IS_VISIBLE);
+				tg.click("ele_keyboarddoneele216072805244095", 1);
+				tg.wait("ele_clearele35072805244095", ComparisonType.IS_VISIBLE);
+				tg.click("ele_clearele35072805244095", 1);
+				tg.click("ele_controlstabele136073926372626", 1);
 		tg.close();
 	}
 }

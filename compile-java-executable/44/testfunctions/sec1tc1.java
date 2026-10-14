@@ -14,3 +14,18 @@ import io.testgrid.enums.Alert;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
+
+class sec1tc1 {
+
+	public static void sec1tc1() {
+				tg.swipe(Direction.DOWN);
+				tg.wait("ele_TabBarItemTitleTextField1791978273982", ComparisonType.IS_VISIBLE);
+				tg.click("ele_TabBarItemTitleTextField1791978273982", 1);
+				tg.wait("ele_URLTextField1791978284709", ComparisonType.IS_VISIBLE);
+				tg.click("ele_URLTextField1791978284709", 1);
+				tg.wait("ele_URLTextField1791978284709", ComparisonType.IS_VISIBLE);
+				tg.type("ele_URLTextField1791978284709", "amazon.in", false);
+				tg.wait("ele_GoButton1791978303635", ComparisonType.IS_VISIBLE);
+				tg.click("ele_GoButton1791978303635", 1);
+	}
+}

@@ -1,0 +1,1907 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_fullnameele42071102491461",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeTextField[@name=\"field.fullName\"]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 326,
+                    "d_x": 32,
+                    "d_y": 211,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeTextField[@value=\"Full name\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeTextField[@value=\"Full name\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"fullnamefieldele42071102491461\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeTextField[@value=\\\"Full name\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"fullnamefieldele42071102491461\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/800.png"
+        },
+        {
+            "testcase_element": "ele_firstnameele49071102491461",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeTextField[@name=\"field.firstName\"]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 326,
+                    "d_x": 32,
+                    "d_y": 265,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeTextField[@value=\"First name\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeTextField[@value=\"First name\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"firstnamefieldele49071102491461\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeTextField[@value=\\\"First name\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"firstnamefieldele49071102491461\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/801.png"
+        },
+        {
+            "testcase_element": "ele_viewele11071102491461",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeOther[@name=\"tab.form\"]",
+                    "locator_id": "3",
+                    "d_h": 844,
+                    "d_w": 390,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"formviewele11071102491461\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/802.png"
+        },
+        {
+            "testcase_element": "ele_keyboarddoneele213071204762420",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"Done\"]",
+                    "locator_id": "3",
+                    "d_h": 54,
+                    "d_w": 97,
+                    "d_x": 291,
+                    "d_y": 722,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeButton[@label=\"done\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"done\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"keyboarddonebuttonele213071204762420\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"done\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[3]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[3]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"keyboarddonebuttonele213071204762420\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[3]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/803.png"
+        },
+        {
+            "testcase_element": "ele_clearele35071204762420",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"section.clear\"]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 40,
+                    "d_x": 318,
+                    "d_y": 163,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Clear\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Clear\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"clearbuttonele35071204762420\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"Clear\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"clearbuttonele35071204762420\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/804.png"
+        },
+        {
+            "testcase_element": "ele_controlstabele136071204762420",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"slider.horizontal.3\"]",
+                    "locator_id": "3",
+                    "d_h": 54,
+                    "d_w": 75,
+                    "d_x": 91,
+                    "d_y": 765,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Controls\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Controls\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"controlstabele136071204762420\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"Controls\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"controlstabele136071204762420\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/805.png"
+        },
+        {
+            "testcase_element": "ele_maleele50071308500269",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"radio.male\"]",
+                    "locator_id": "3",
+                    "d_h": 55,
+                    "d_w": 358,
+                    "d_x": 16,
+                    "d_y": 309,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Male\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Male\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"maleradiobuttonele50071308500269\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"Male\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[4]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[4]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"maleradiobuttonele50071308500269\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[4]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/806.png"
+        },
+        {
+            "testcase_element": "ele_femaleele59071308500269",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"radio.female\"]",
+                    "locator_id": "3",
+                    "d_h": 55,
+                    "d_w": 358,
+                    "d_x": 16,
+                    "d_y": 363,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Female\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Female\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"femaleradiobuttonele59071308500269\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"Female\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[5]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[5]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"femaleradiobuttonele59071308500269\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[5]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/807.png"
+        },
+        {
+            "testcase_element": "ele_screenstabele111071308500269",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"rectangle.stack\"]",
+                    "locator_id": "3",
+                    "d_h": 54,
+                    "d_w": 74,
+                    "d_x": 291,
+                    "d_y": 765,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Screens\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Screens\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"screenstabele111071308500269\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"Screens\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[5]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[5]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"screenstabele111071308500269\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[5]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/808.png"
+        },
+        {
+            "testcase_element": "ele_fullnameele36072058013517",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeTextField[@name=\"field.fullName\"]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 348,
+                    "d_x": 40,
+                    "d_y": 208,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeTextField[@value=\"Full name\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeTextField[@value=\"Full name\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"fullnamefieldele36072058013517\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeTextField[@value=\\\"Full name\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"fullnamefieldele36072058013517\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/809.png"
+        },
+        {
+            "testcase_element": "ele_firstnameele43072058013517",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeTextField[@name=\"field.firstName\"]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 348,
+                    "d_x": 40,
+                    "d_y": 260,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeTextField[@value=\"First name\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeTextField[@value=\"First name\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"firstnamefieldele43072058013517\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeTextField[@value=\\\"First name\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"firstnamefieldele43072058013517\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/810.png"
+        },
+        {
+            "testcase_element": "ele_viewele11072058013517",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeOther[@name=\"tab.form\"]",
+                    "locator_id": "3",
+                    "d_h": 926,
+                    "d_w": 428,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"formviewele11072058013517\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/811.png"
+        },
+        {
+            "testcase_element": "ele_firstnameele43072241496418",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeTextField[@name=\"field.firstName\"]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 348,
+                    "d_x": 40,
+                    "d_y": 260,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeTextField[@value=\"DemoFirst\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeTextField[@value=\"DemoFirst\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"firstnamefieldele43072241496418\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeTextField[@value=\\\"DemoFirst\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"firstnamefieldele43072241496418\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/812.png"
+        },
+        {
+            "testcase_element": "ele_keyboarddoneele205072241496418",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"Done\"]",
+                    "locator_id": "3",
+                    "d_h": 56,
+                    "d_w": 106,
+                    "d_x": 320,
+                    "d_y": 1118,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeButton[@label=\"done\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"done\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"keyboarddonebuttonele205072241496418\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"done\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"keyboarddonebuttonele205072241496418\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_clearele29072241496418",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"section.clear\"]",
+                    "locator_id": "3",
+                    "d_h": 21,
+                    "d_w": 40,
+                    "d_x": 348,
+                    "d_y": 163,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Clear\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Clear\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"clearbuttonele29072241496418\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"Clear\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"clearbuttonele29072241496418\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/814.png"
+        },
+        {
+            "testcase_element": "ele_controlstabele130072241496418",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"slider.horizontal.3\"]",
+                    "locator_id": "3",
+                    "d_h": 54,
+                    "d_w": 84,
+                    "d_x": 98,
+                    "d_y": 847,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Controls\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Controls\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"controlstabele130072241496418\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"Controls\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"controlstabele130072241496418\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/815.png"
+        },
+        {
+            "testcase_element": "ele_controlstabele130072332489759",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"slider.horizontal.3\"]",
+                    "locator_id": "3",
+                    "d_h": 54,
+                    "d_w": 84,
+                    "d_x": 98,
+                    "d_y": 847,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Controls\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Controls\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"controlstabele130072332489759\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"Controls\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"controlstabele130072332489759\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/816.png"
+        },
+        {
+            "testcase_element": "ele_fullnameele42072717177232",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeTextField[@name=\"field.fullName\"]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 326,
+                    "d_x": 32,
+                    "d_y": 211,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeTextField[@value=\"Full name\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeTextField[@value=\"Full name\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"fullnamefieldele42072717177232\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeTextField[@value=\\\"Full name\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"fullnamefieldele42072717177232\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/817.png"
+        },
+        {
+            "testcase_element": "ele_firstnameele49072717177232",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeTextField[@name=\"field.firstName\"]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 326,
+                    "d_x": 32,
+                    "d_y": 265,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeTextField[@value=\"First name\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeTextField[@value=\"First name\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"firstnamefieldele49072717177232\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeTextField[@value=\\\"First name\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"firstnamefieldele49072717177232\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/818.png"
+        },
+        {
+            "testcase_element": "ele_viewele11072717177232",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeOther[@name=\"tab.form\"]",
+                    "locator_id": "3",
+                    "d_h": 844,
+                    "d_w": 390,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"formviewele11072717177232\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/819.png"
+        },
+        {
+            "testcase_element": "ele_keyboarddoneele216072805244095",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"Done\"]",
+                    "locator_id": "3",
+                    "d_h": 54,
+                    "d_w": 97,
+                    "d_x": 291,
+                    "d_y": 722,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeButton[@label=\"done\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"done\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"keyboarddonebuttonele216072805244095\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"done\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[3]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[3]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"keyboarddonebuttonele216072805244095\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[3]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/820.png"
+        },
+        {
+            "testcase_element": "ele_clearele35072805244095",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"section.clear\"]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 40,
+                    "d_x": 318,
+                    "d_y": 163,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Clear\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Clear\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"clearbuttonele35072805244095\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"Clear\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"clearbuttonele35072805244095\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/821.png"
+        },
+        {
+            "testcase_element": "ele_controlstabele136073926372626",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"Controls\"]",
+                    "locator_id": "3",
+                    "d_h": 54,
+                    "d_w": 75,
+                    "d_x": 91,
+                    "d_y": 765,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Controls\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Controls\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"controlstabele136073926372626\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"Controls\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"controlstabele136073926372626\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/822.png"
+        },
+        {
+            "testcase_element": "ele_fullnameele42074535997375",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeTextField[@name=\"field.fullName\"]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 326,
+                    "d_x": 32,
+                    "d_y": 211,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeTextField[@value=\"Full name\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeTextField[@value=\"Full name\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"fullnamefieldele42074535997375\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeTextField[@value=\\\"Full name\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"fullnamefieldele42074535997375\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/823.png"
+        },
+        {
+            "testcase_element": "ele_firstnameele49074535997375",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeTextField[@name=\"field.firstName\"]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 326,
+                    "d_x": 32,
+                    "d_y": 265,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeTextField[@value=\"First name\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeTextField[@value=\"First name\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"firstnamefieldele49074535997375\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeTextField[@value=\\\"First name\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"firstnamefieldele49074535997375\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/824.png"
+        },
+        {
+            "testcase_element": "ele_viewele11074535997375",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeOther[@name=\"tab.form\"]",
+                    "locator_id": "3",
+                    "d_h": 844,
+                    "d_w": 390,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"formviewele11074535997375\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/825.png"
+        },
+        {
+            "testcase_element": "ele_keyboarddoneele213074725342902",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"Done\"]",
+                    "locator_id": "3",
+                    "d_h": 54,
+                    "d_w": 97,
+                    "d_x": 291,
+                    "d_y": 722,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeButton[@label=\"done\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"done\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"keyboarddonebuttonele213074725342902\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"done\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[3]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[3]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"keyboarddonebuttonele213074725342902\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[3]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/826.png"
+        },
+        {
+            "testcase_element": "ele_clearele35074725342902",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"section.clear\"]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 40,
+                    "d_x": 318,
+                    "d_y": 163,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Clear\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Clear\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"clearbuttonele35074725342902\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"Clear\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"clearbuttonele35074725342902\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/827.png"
+        },
+        {
+            "testcase_element": "ele_controlstabele136074725342902",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"slider.horizontal.3\"]",
+                    "locator_id": "3",
+                    "d_h": 54,
+                    "d_w": 75,
+                    "d_x": 91,
+                    "d_y": 765,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Controls\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Controls\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"controlstabele136074725342902\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"Controls\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"controlstabele136074725342902\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/828.png"
+        },
+        {
+            "testcase_element": "ele_fullnameele36075325007786",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeTextField[@name=\"field.fullName\"]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 348,
+                    "d_x": 40,
+                    "d_y": 208,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeTextField[@value=\"Full name\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeTextField[@value=\"Full name\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"fullnamefieldele36075325007786\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeTextField[@value=\\\"Full name\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"fullnamefieldele36075325007786\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/829.png"
+        },
+        {
+            "testcase_element": "ele_firstnameele43075325007786",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeTextField[@name=\"field.firstName\"]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 348,
+                    "d_x": 40,
+                    "d_y": 260,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeTextField[@value=\"First name\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeTextField[@value=\"First name\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"firstnamefieldele43075325007786\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeTextField[@value=\\\"First name\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"firstnamefieldele43075325007786\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/830.png"
+        },
+        {
+            "testcase_element": "ele_viewele11075325007786",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeOther[@name=\"tab.form\"]",
+                    "locator_id": "3",
+                    "d_h": 926,
+                    "d_w": 428,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"formviewele11075325007786\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/831.png"
+        },
+        {
+            "testcase_element": "ele_firstnameele43075412965716",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeTextField[@name=\"field.firstName\"]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 348,
+                    "d_x": 40,
+                    "d_y": 260,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeTextField[@value=\"DemoFirst\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeTextField[@value=\"DemoFirst\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"firstnamefieldele43075412965716\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeTextField[@value=\\\"DemoFirst\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"firstnamefieldele43075412965716\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/832.png"
+        },
+        {
+            "testcase_element": "ele_doneele205075412965716",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"Done\"]",
+                    "locator_id": "3",
+                    "d_h": 56,
+                    "d_w": 106,
+                    "d_x": 320,
+                    "d_y": 1118,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeButton[@label=\"done\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"done\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"donebuttonele205075412965716\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"done\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"donebuttonele205075412965716\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_clearele29075412965716",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"section.clear\"]",
+                    "locator_id": "3",
+                    "d_h": 21,
+                    "d_w": 40,
+                    "d_x": 348,
+                    "d_y": 163,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Clear\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Clear\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"clearbuttonele29075412965716\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"Clear\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"clearbuttonele29075412965716\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/834.png"
+        },
+        {
+            "testcase_element": "ele_controlstabele130075412965716",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"slider.horizontal.3\"]",
+                    "locator_id": "3",
+                    "d_h": 54,
+                    "d_w": 84,
+                    "d_x": 98,
+                    "d_y": 847,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Controls\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Controls\"]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"controlstabele130075412965716\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"Controls\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"controlstabele130075412965716\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/835.png"
+        },
+        {
+            "testcase_element": "ele_TabBarItemTitleTextField1791978273982",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeTextField[@name='TabBarItemTitle'])[1]",
+                    "locator_id": "3",
+                    "d_h": 21,
+                    "d_w": 159,
+                    "d_x": 136,
+                    "d_y": 858,
+                    "suggest_name": "TabBarItemTitleTextField1791978273982"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "TabBarItemTitleTextField1791978273982",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "img": "",
+                    "d_h": "21",
+                    "d_w": "159",
+                    "d_x": "136",
+                    "d_y": "858",
+                    "element_area": 180,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/836.png"
+        },
+        {
+            "testcase_element": "ele_URLTextField1791978284709",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeTextField[@name='URL'])[1]",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 300,
+                    "d_x": 20,
+                    "d_y": 550,
+                    "suggest_name": "URLTextField1791978284709"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "URLTextField1791978284709",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "img": "",
+                    "d_h": "48",
+                    "d_w": "300",
+                    "d_x": "20",
+                    "d_y": "550",
+                    "element_area": 348,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/837.png"
+        },
+        {
+            "testcase_element": "ele_GoButton1791978303635",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeButton[@name='Go'])[1]",
+                    "locator_id": "3",
+                    "d_h": 56,
+                    "d_w": 75,
+                    "d_x": 351,
+                    "d_y": 798,
+                    "suggest_name": "GoButton1791978303635"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "GoButton1791978303635",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]"
+                    ],
+                    "img": "",
+                    "d_h": "56",
+                    "d_w": "75",
+                    "d_x": "351",
+                    "d_y": "798",
+                    "element_area": 131,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/44/838.png"
+        }
+    ]
+}

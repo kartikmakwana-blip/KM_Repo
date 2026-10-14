@@ -21,7 +21,12 @@ public class test_case_1791974858 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void test_case_1791974858() {
 		tg.openDevice();
-		tg.wait(1);
+				tg.wait(5);
+		START_CUSTOM_SCRIPT;
+		driver.get("http://192.168.88.154:8000/Demo");
+		END_CUSTOM_SCRIPT;
+				tg.wait(15);
+				tg.swipe(Direction.DOWN);
 		tg.close();
 	}
 }
