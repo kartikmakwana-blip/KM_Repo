@@ -446,10 +446,10 @@
             "version_id": "59",
             "variable_type": "String",
             "variable_name": "GitLabToken",
-            "variable_value": "Authenticator_GitLab@@3",
+            "variable_value": "ABC",
             "gv_category": "runtime",
             "created": "2026-10-15 06:17:10",
-            "updated": "2026-10-15 07:28:46"
+            "updated": "2026-10-15 07:29:26"
         }
     ],
     "ab_scheduler": [],
