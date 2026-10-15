@@ -1,0 +1,415 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_TabBarItemTitleTextField1786781671612",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeTextField[@name='TabBarItemTitle'])[1]",
+                    "locator_id": "3",
+                    "d_h": 21,
+                    "d_w": 97,
+                    "d_x": 148,
+                    "d_y": 738,
+                    "suggest_name": "TabBarItemTitleTextField1786781671612"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "TabBarItemTitleTextField1786781671612",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "img": "",
+                    "d_h": "21",
+                    "d_w": "97",
+                    "d_x": "148",
+                    "d_y": "738",
+                    "element_area": 118,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_DonthaveanaccountyetStaticText1786781820695",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeStaticText[@name='Don't have an account yet?']",
+                    "locator_id": "3",
+                    "d_h": 18,
+                    "d_w": 185,
+                    "d_x": 61,
+                    "d_y": 545,
+                    "suggest_name": "DonthaveanaccountyetStaticText1786781820695"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "DonthaveanaccountyetStaticText1786781820695",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeStaticText"
+                    ],
+                    "img": "",
+                    "d_h": "18",
+                    "d_w": "185",
+                    "d_x": "61",
+                    "d_y": "545",
+                    "element_area": 203,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeStaticText",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_URLBar",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeTextField[@name='URL'])[1]",
+                    "locator_id": "3",
+                    "d_h": 45,
+                    "d_w": 303,
+                    "d_x": 28,
+                    "d_y": 513,
+                    "suggest_name": "URLTextField1786781869467"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "(//XCUIElementTypeTextField[@label='Address'])[1]",
+                    "d_x": "28",
+                    "d_h": "45",
+                    "suggest_name": "URLTextField1786781869467",
+                    "d_w": "303",
+                    "d_y": "513"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "d_x": "28",
+                    "d_h": "45",
+                    "suggest_name": "URLTextField1786781869467",
+                    "d_w": "303",
+                    "d_y": "513"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "(//XCUIElementTypeTextField[@index='0'])[1]",
+                    "d_x": "28",
+                    "d_h": "45",
+                    "suggest_name": "URLTextField1786781869467",
+                    "d_w": "303",
+                    "d_y": "513"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/64/959.png"
+        },
+        {
+            "testcase_element": "ele_GoButton1786781949245",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeButton[@name='Go'])[1]",
+                    "locator_id": "3",
+                    "d_h": 46,
+                    "d_w": 74,
+                    "d_x": 319,
+                    "d_y": 730,
+                    "suggest_name": "GoButton1786781949245"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "GoButton1786781949245",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]"
+                    ],
+                    "img": "",
+                    "d_h": "46",
+                    "d_w": "74",
+                    "d_x": "319",
+                    "d_y": "730",
+                    "element_area": 120,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_gitusername",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeTextField[@name='Username or primary email'])[1]",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 363,
+                    "d_x": 15,
+                    "d_y": 217,
+                    "suggest_name": "UsernameorprimaryemailTextField1786781967437"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "(//XCUIElementTypeTextField[@label='Username or primary email'])[1]",
+                    "d_x": "15",
+                    "d_h": "34",
+                    "suggest_name": "UsernameorprimaryemailTextField1786781967437",
+                    "d_w": "363",
+                    "d_y": "217"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "d_x": "15",
+                    "d_h": "34",
+                    "suggest_name": "UsernameorprimaryemailTextField1786781967437",
+                    "d_w": "363",
+                    "d_y": "217"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "(//XCUIElementTypeTextField[@index='1'])[1]",
+                    "d_x": "15",
+                    "d_h": "34",
+                    "suggest_name": "UsernameorprimaryemailTextField1786781967437",
+                    "d_w": "363",
+                    "d_y": "217"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/64/961.png"
+        },
+        {
+            "testcase_element": "ele_GitPassword",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeSecureTextField[@name='Password'])[1]",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 363,
+                    "d_x": 15,
+                    "d_y": 291,
+                    "suggest_name": "PasswordSecureTextField1786782043057"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "(//XCUIElementTypeSecureTextField[@label='Password'])[1]",
+                    "d_x": "15",
+                    "d_h": "34",
+                    "suggest_name": "PasswordSecureTextField1786782043057",
+                    "d_w": "363",
+                    "d_y": "291"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField",
+                    "d_x": "15",
+                    "d_h": "34",
+                    "suggest_name": "PasswordSecureTextField1786782043057",
+                    "d_w": "363",
+                    "d_y": "291"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "(//XCUIElementTypeSecureTextField[@index='1'])[1]",
+                    "d_x": "15",
+                    "d_h": "34",
+                    "suggest_name": "PasswordSecureTextField1786782043057",
+                    "d_w": "363",
+                    "d_y": "291"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/64/962.png"
+        },
+        {
+            "testcase_element": "ele_SigninButton1786783618559",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeButton[@name='Sign in'])[1]",
+                    "locator_id": "3",
+                    "d_h": 32,
+                    "d_w": 398,
+                    "d_x": 15,
+                    "d_y": 397,
+                    "suggest_name": "SigninButton1786783618559"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "(//XCUIElementTypeButton[@label='Sign in'])[1]",
+                    "d_x": "15",
+                    "d_h": "32",
+                    "suggest_name": "SigninButton1786783618559",
+                    "d_w": "398",
+                    "d_y": "397"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton",
+                    "d_x": "15",
+                    "d_h": "32",
+                    "suggest_name": "SigninButton1786783618559",
+                    "d_w": "398",
+                    "d_y": "397"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "(//XCUIElementTypeButton[@index='3'])[1]",
+                    "d_x": "15",
+                    "d_h": "32",
+                    "suggest_name": "SigninButton1786783618559",
+                    "d_w": "398",
+                    "d_y": "397"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/64/963.png"
+        },
+        {
+            "testcase_element": "ele_Enterverificationcode",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeTextField[@index='1'])[1]",
+                    "locator_id": "3",
+                    "d_h": 32,
+                    "d_w": 398,
+                    "d_x": 15,
+                    "d_y": 309,
+                    "suggest_name": "EnterverificationcodeTextField1786783690030"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "(//XCUIElementTypeTextField[@name='Enter verification code'])[1]",
+                    "d_x": "15",
+                    "d_h": "32",
+                    "suggest_name": "EnterverificationcodeTextField1786783690030",
+                    "d_w": "398",
+                    "d_y": "309"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "(//XCUIElementTypeTextField[@label='Enter verification code'])[1]",
+                    "d_x": "15",
+                    "d_h": "32",
+                    "suggest_name": "EnterverificationcodeTextField1786783690030",
+                    "d_w": "398",
+                    "d_y": "309"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeTextField",
+                    "d_x": "15",
+                    "d_h": "32",
+                    "suggest_name": "EnterverificationcodeTextField1786783690030",
+                    "d_w": "398",
+                    "d_y": "309"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/64/964.png"
+        },
+        {
+            "testcase_element": "ele_VerifycodeButton",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeButton[@name='Verify code'])[1]",
+                    "locator_id": "3",
+                    "d_h": 33,
+                    "d_w": 398,
+                    "d_x": 15,
+                    "d_y": 376,
+                    "suggest_name": "VerifycodeButton1786783760868"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "(//XCUIElementTypeButton[@label='Verify code'])[1]",
+                    "d_x": "15",
+                    "d_h": "33",
+                    "suggest_name": "VerifycodeButton1786783760868",
+                    "d_w": "398",
+                    "d_y": "376"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton",
+                    "d_x": "15",
+                    "d_h": "33",
+                    "suggest_name": "VerifycodeButton1786783760868",
+                    "d_w": "398",
+                    "d_y": "376"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "(//XCUIElementTypeButton[@index='3'])[1]",
+                    "d_x": "15",
+                    "d_h": "33",
+                    "suggest_name": "VerifycodeButton1786783760868",
+                    "d_w": "398",
+                    "d_y": "376"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/64/965.png"
+        }
+    ]
+}
