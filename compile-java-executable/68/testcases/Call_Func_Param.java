@@ -25,6 +25,13 @@ public class call_func_param {
 		var_jsondata = (JSONObject) tg.testFunction("Func_Param_Json", new Object[]{"Jhon Doe", 25, 30000});
 		tg.printLogs("JSON Function Param Done====================");
 		tg_String var_strdata = "Null";
+		var_strdata = (String) tg.testFunction("Func_Param_Str", new Object[]{"Emily", "Blunt", "Saint Antonio", "Amazon", "QA", "qa.test@test.com", "DeActive"});
+		tg.printLogs(var_strdata);
+		tg.printLogs("String Function Param Done====================");
+		tg_int var_intdata = 0;
+		var_intdata = ((Number) tg.testFunction("Func_Param_Int", new Object[]{10, 20, 30, 40, 50, 60, 10, 5, 15, 10, 100, 4, 7, 8, 9, 12, 3, 25, 6, 11})).intValue();
+		tg.printLogs(var_intdata);
+		tg.printLogs("Integer Function Param Done=========================");
 		tg.close();
 	}
 }
