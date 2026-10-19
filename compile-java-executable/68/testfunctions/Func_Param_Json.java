@@ -17,8 +17,22 @@ import org.testng.annotations.Test;
 
 class func_param_json {
 
-	public static Object func_param_json(String FirstName, String Age, String Salary) {
-		tg.wait(1);
-		return null;
+	public static Object func_param_json(String FirstName, Integer Age, Integer Salary) {
+		JSONObject var_TGReturn = tg.getJsonData("");
+		START_CUSTOM_SCRIPT;
+		// Print input values
+		System.out.println("FirstName : " + FirstName);
+		System.out.println("Age       : " + Age);
+		System.out.println("Salary    : " + Salary);
+		
+		// Create JSON object
+		var_TGReturn = new JSONObject();
+		var_TGReturn.put("firstName", FirstName);
+		var_TGReturn.put("age", Age);
+		var_TGReturn.put("salary", Salary);
+		
+		System.out.println("JSON Object : " + var_TGReturn);
+		END_CUSTOM_SCRIPT;
+		return var_TGReturn;
 	}
 }

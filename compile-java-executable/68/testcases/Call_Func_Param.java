@@ -21,7 +21,10 @@ public class call_func_param {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void call_func_param() {
 		tg.openDevice();
-		tg.wait(1);
+		JSONObject var_jsondata = tg.getJsonData("{}");
+		var_jsondata = (JSONObject) tg.testFunction("Func_Param_Json", new Object[]{"Jhon Doe", 25, 30000});
+		tg.printLogs("JSON Function Param Done====================");
+		tg_String var_strdata = "Null";
 		tg.close();
 	}
 }
