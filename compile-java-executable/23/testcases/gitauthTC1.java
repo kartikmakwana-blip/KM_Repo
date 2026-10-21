@@ -29,7 +29,7 @@ public class gitauthtc1 {
 		tg.click("ele_GoButton1786781949245", 1);
 		tg.wait("ele_gitusername", ComparisonType.IS_VISIBLE, 30);
 		tg.click("ele_gitusername", 1);
-		tg.type("ele_gitusername", "Authenticator_GitLabKM@@1", false);
+		tg.type("ele_gitusername", var_ra_ra_govindauth, false);
 		tg.wait("ele_GitPassword", ComparisonType.IS_VISIBLE);
 		tg.click("ele_GitPassword", 1);
 		tg.type("ele_GitPassword", "12544", false);
