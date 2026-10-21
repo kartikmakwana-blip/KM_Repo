@@ -21,7 +21,11 @@ public class tapbyimage {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tapbyimage() {
 		tg.openDevice();
-		tg.wait(1);
+		tg.click("ele_sectionclearButton1792571311580", 1);
+		tg.wait("ele_Submit", ComparisonType.IS_VISIBLE);
+		tg.tapByImage("ele_Submit", 0.65);
+		tg.wait(2);
+		tg.alertButton("Cancel");
 		tg.close();
 	}
 }

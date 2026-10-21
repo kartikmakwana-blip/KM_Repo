@@ -1,0 +1,363 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_fieldfullNameTextField1792571265443",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeTextField[@name='field.fullName'])[1]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 329,
+                    "d_x": 32,
+                    "d_y": 220,
+                    "suggest_name": "fieldfullNameTextField1792571265443"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "fieldfullNameTextField1792571265443",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "img": "",
+                    "d_h": "23",
+                    "d_w": "329",
+                    "d_x": "32",
+                    "d_y": "220",
+                    "element_area": 352,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.30/s/ele-imgs/3/91.png"
+        },
+        {
+            "testcase_element": "ele_fieldlastNameTextField1792571279998",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeTextField[@name='field.lastName'])[1]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 329,
+                    "d_x": 32,
+                    "d_y": 324,
+                    "suggest_name": "fieldlastNameTextField1792571279998"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "fieldlastNameTextField1792571279998",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[4]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "img": "",
+                    "d_h": "23",
+                    "d_w": "329",
+                    "d_x": "32",
+                    "d_y": "324",
+                    "element_area": 352,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[4]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.30/s/ele-imgs/3/92.png"
+        },
+        {
+            "testcase_element": "ele_DoneButton1792571302671",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeButton[@name='Done'])[1]",
+                    "locator_id": "3",
+                    "d_h": 54,
+                    "d_w": 97,
+                    "d_x": 294,
+                    "d_y": 730,
+                    "suggest_name": "DoneButton1792571302671"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "DoneButton1792571302671",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]"
+                    ],
+                    "img": "",
+                    "d_h": "54",
+                    "d_w": "97",
+                    "d_x": "294",
+                    "d_y": "730",
+                    "element_area": 151,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.30/s/ele-imgs/3/93.png"
+        },
+        {
+            "testcase_element": "ele_sectionclearButton1792571311580",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeButton[@name='section.clear'])[1]",
+                    "locator_id": "3",
+                    "d_h": 21,
+                    "d_w": 40,
+                    "d_x": 321,
+                    "d_y": 175,
+                    "suggest_name": "sectionclearButton1792571311580"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "sectionclearButton1792571311580",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton"
+                    ],
+                    "img": "",
+                    "d_h": "21",
+                    "d_w": "40",
+                    "d_x": "321",
+                    "d_y": "175",
+                    "element_area": 61,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.30/s/ele-imgs/3/94.png"
+        },
+        {
+            "testcase_element": "ele_Submit",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeButton[@name='button.submit'])[1]",
+                    "locator_id": "3",
+                    "d_h": 65,
+                    "d_w": 361,
+                    "d_x": 16,
+                    "d_y": 633,
+                    "suggest_name": "buttonsubmitButton1792571381543"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "(//XCUIElementTypeButton[@label='Submit'])[1]",
+                    "d_x": "16",
+                    "d_h": "65",
+                    "suggest_name": "buttonsubmitButton1792571381543",
+                    "d_w": "361",
+                    "d_y": "633"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[10]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton",
+                    "d_x": "16",
+                    "d_h": "65",
+                    "suggest_name": "buttonsubmitButton1792571381543",
+                    "d_w": "361",
+                    "d_y": "633"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "(//XCUIElementTypeButton[@index='0'])[1]",
+                    "d_x": "16",
+                    "d_h": "65",
+                    "suggest_name": "buttonsubmitButton1792571381543",
+                    "d_w": "361",
+                    "d_y": "633"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.30/s/ele-imgs/3/95.png"
+        },
+        {
+            "testcase_element": "ele_TabBarItemTitleTextField1792573546635",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeTextField[@name='TabBarItemTitle'])[1]",
+                    "locator_id": "3",
+                    "d_h": 21,
+                    "d_w": 228,
+                    "d_x": 100,
+                    "d_y": 812,
+                    "suggest_name": "TabBarItemTitleTextField1792573546635"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "TabBarItemTitleTextField1792573546635",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "img": "",
+                    "d_h": "21",
+                    "d_w": "228",
+                    "d_x": "100",
+                    "d_y": "812",
+                    "element_area": 249,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.30/s/ele-imgs/3/96.png"
+        },
+        {
+            "testcase_element": "ele_URLTextField1792573555178",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeTextField[@name='URL'])[1]",
+                    "locator_id": "3",
+                    "d_h": 45,
+                    "d_w": 338,
+                    "d_x": 28,
+                    "d_y": 577,
+                    "suggest_name": "URLTextField1792573555178"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "URLTextField1792573555178",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "img": "",
+                    "d_h": "45",
+                    "d_w": "338",
+                    "d_x": "28",
+                    "d_y": "577",
+                    "element_area": 383,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.30/s/ele-imgs/3/97.png"
+        },
+        {
+            "testcase_element": "ele_GoButton1792573570068",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeButton[@name='Go'])[1]",
+                    "locator_id": "3",
+                    "d_h": 49,
+                    "d_w": 72,
+                    "d_x": 354,
+                    "d_y": 800,
+                    "suggest_name": "GoButton1792573570068"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "GoButton1792573570068",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]"
+                    ],
+                    "img": "",
+                    "d_h": "49",
+                    "d_w": "72",
+                    "d_x": "354",
+                    "d_y": "800",
+                    "element_area": 121,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.30/s/ele-imgs/3/98.png"
+        },
+        {
+            "testcase_element": "ele_CategoryShopByLink1792573743220",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeLink[@name='Category Shop By'])[1]",
+                    "locator_id": "3",
+                    "d_h": 30,
+                    "d_w": 64,
+                    "d_x": 15,
+                    "d_y": 143,
+                    "suggest_name": "CategoryShopByLink1792573743220"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "(//XCUIElementTypeLink[@label='Category Shop By'])[1]",
+                    "d_x": "15",
+                    "d_h": "30",
+                    "suggest_name": "CategoryShopByLink1792573743220",
+                    "d_w": "64",
+                    "d_y": "143"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeLink",
+                    "d_x": "15",
+                    "d_h": "30",
+                    "suggest_name": "CategoryShopByLink1792573743220",
+                    "d_w": "64",
+                    "d_y": "143"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "(//XCUIElementTypeLink[@index='0'])[2]",
+                    "d_x": "15",
+                    "d_h": "30",
+                    "suggest_name": "CategoryShopByLink1792573743220",
+                    "d_w": "64",
+                    "d_y": "143"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.30/s/ele-imgs/3/99.png"
+        }
+    ]
+}

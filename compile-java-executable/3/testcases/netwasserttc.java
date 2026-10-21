@@ -21,7 +21,19 @@ public class netwasserttc {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void netwasserttc() {
 		tg.openDevice();
-		tg.wait(1);
+		tg.swipe(Direction.DOWN);
+		tg.wait("ele_TabBarItemTitleTextField1792573546635", ComparisonType.IS_VISIBLE);
+		tg.click("ele_TabBarItemTitleTextField1792573546635", 1);
+		tg.wait("ele_URLTextField1792573555178", ComparisonType.IS_VISIBLE);
+		tg.click("ele_URLTextField1792573555178", 1);
+		tg.wait("ele_URLTextField1792573555178", ComparisonType.IS_VISIBLE);
+		tg.type("ele_URLTextField1792573555178", "amazon.in", false);
+		tg.wait("ele_GoButton1792573570068", ComparisonType.IS_VISIBLE);
+		tg.click("ele_GoButton1792573570068", 1);
+		tg.wait(10);
+		tg.swipe(Direction.DOWN);
+		tg.wait("ele_CategoryShopByLink1792573743220", ComparisonType.IS_VISIBLE);
+		tg.networkAssert("CallAPI");
 		tg.close();
 	}
 }
