@@ -221,7 +221,7 @@
             "image_url": ""
         },
         {
-            "testcase_element": "ele_MenuButtons",
+            "testcase_element": "ele_MenuButtonss",
             "tg_text": "",
             "sibling_selector": [],
             "locator": [
@@ -233,7 +233,7 @@
                     "d_w": 254,
                     "d_x": 50,
                     "d_y": 597,
-                    "suggest_name": "MenuButtons"
+                    "suggest_name": "MenuButtonss"
                 }
             ],
             "iframe_and_shadow_root_data": [],

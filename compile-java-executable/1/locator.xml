@@ -33,7 +33,7 @@
   <locator name="ele_LogoToolsQA">
     <element type="xpath">//html[1]/body[1]/div[2]/header[1]/a[1]/img[1]</element>
   </locator>
-  <locator name="ele_MenuButtons">
+  <locator name="ele_MenuButtonss">
     <element type="id">item-4TGWEBCOMMAIdTGWEBCOMMA0</element>
   </locator>
   <locator name="ele_ButtonClickMe">
