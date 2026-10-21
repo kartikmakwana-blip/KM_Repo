@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_TabBarItemTitleTextField1786781671612">
+    <element type="xpath">(//XCUIElementTypeTextField[@name='TabBarItemTitle'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+  </locator>
+  <locator name="ele_DonthaveanaccountyetStaticText1786781820695">
+    <element type="xpath">//XCUIElementTypeStaticText[@name='Don't have an account yet?']</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeStaticText</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[5]/XCUIElementTypeStaticText</element>
+  </locator>
+  <locator name="ele_URLBar">
+    <element type="xpath">(//XCUIElementTypeTextField[@name='URL'])[1]</element>
+    <element type="xpath">(//XCUIElementTypeTextField[@label='Address'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">(//XCUIElementTypeTextField[@index='0'])[1]</element>
+    <element type="image">http://192.168.5.30/s/ele-imgs/23/293.png</element>
+  </locator>
+  <locator name="ele_GoButton1786781949245">
+    <element type="xpath">(//XCUIElementTypeButton[@name='Go'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]</element>
+  </locator>
+  <locator name="ele_gitusername">
+    <element type="xpath">(//XCUIElementTypeTextField[@name='Username or primary email'])[1]</element>
+    <element type="xpath">(//XCUIElementTypeTextField[@label='Username or primary email'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">(//XCUIElementTypeTextField[@index='1'])[1]</element>
+    <element type="image">http://192.168.5.30/s/ele-imgs/23/295.png</element>
+  </locator>
+  <locator name="ele_GitPassword">
+    <element type="xpath">(//XCUIElementTypeSecureTextField[@name='Password'])[1]</element>
+    <element type="xpath">(//XCUIElementTypeSecureTextField[@label='Password'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField</element>
+    <element type="xpath">(//XCUIElementTypeSecureTextField[@index='1'])[1]</element>
+    <element type="image">http://192.168.5.30/s/ele-imgs/23/296.png</element>
+  </locator>
+  <locator name="ele_SigninButton1786783618559">
+    <element type="xpath">(//XCUIElementTypeButton[@name='Sign in'])[1]</element>
+    <element type="xpath">(//XCUIElementTypeButton[@label='Sign in'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton</element>
+    <element type="xpath">(//XCUIElementTypeButton[@index='3'])[1]</element>
+    <element type="image">http://192.168.5.30/s/ele-imgs/23/297.png</element>
+  </locator>
+  <locator name="ele_Enterverificationcode">
+    <element type="xpath">(//XCUIElementTypeTextField[@index='1'])[1]</element>
+    <element type="xpath">(//XCUIElementTypeTextField[@name='Enter verification code'])[1]</element>
+    <element type="xpath">(//XCUIElementTypeTextField[@label='Enter verification code'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeTextField</element>
+    <element type="image">http://192.168.5.30/s/ele-imgs/23/298.png</element>
+  </locator>
+  <locator name="ele_VerifycodeButton">
+    <element type="xpath">(//XCUIElementTypeButton[@name='Verify code'])[1]</element>
+    <element type="xpath">(//XCUIElementTypeButton[@label='Verify code'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton</element>
+    <element type="xpath">(//XCUIElementTypeButton[@index='3'])[1]</element>
+    <element type="image">http://192.168.5.30/s/ele-imgs/23/299.png</element>
+  </locator>
+</locators>
