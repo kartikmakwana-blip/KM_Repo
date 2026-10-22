@@ -1,0 +1,23 @@
+{
+    "url": "https://jsonplaceholder.typicode.com/comments?postId=1",
+    "method": "GET",
+    "trust_self_signed_ssl_certificate": false,
+    "is_using_proxy": 0,
+    "headers": [],
+    "h_static": [],
+    "params": [],
+    "p_static": [],
+    "key_paths": [
+        {
+            "key_path": "0.postId",
+            "key_data_type": "integer"
+        },
+        {
+            "key_path": "0.name",
+            "key_data_type": "string"
+        }
+    ],
+    "save_full_response": false,
+    "resp_type": "json",
+    "timeout": 30
+}
