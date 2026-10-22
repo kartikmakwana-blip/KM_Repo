@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_CountriesImageView">
+    <element type="xpath">//android.widget.ImageView[@content-desc='Countries']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageView</element>
+  </locator>
+  <locator name="ele_AustraliaTextView">
+    <element type="id">ru.androidtools.countries_of_the_world:id/card_name</element>
+    <element type="xpath">//android.widget.TextView[@resource-id='ru.androidtools.countries_of_the_world:id/card_name']</element>
+    <element type="xpath">//android.widget.TextView[@text='Australia']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_ivcountrybackImageView">
+    <element type="id">ru.androidtools.countries_of_the_world:id/iv_country_back</element>
+    <element type="xpath">//android.widget.ImageView[@resource-id='ru.androidtools.countries_of_the_world:id/iv_country_back']</element>
+    <element type="xpath">//android.widget.ImageView[@content-desc='Back']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.ImageView</element>
+  </locator>
+  <locator name="ele_ivsearchImageView">
+    <element type="id">ru.androidtools.countries_of_the_world:id/iv_search</element>
+    <element type="xpath">//android.widget.ImageView[@resource-id='ru.androidtools.countries_of_the_world:id/iv_search']</element>
+    <element type="xpath">//android.widget.ImageView[@content-desc='Search']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ImageView[2]</element>
+  </locator>
+  <locator name="ele_SearchEditText">
+    <element type="id">ru.androidtools.countries_of_the_world:id/et_search</element>
+    <element type="xpath">//android.widget.EditText[@resource-id='ru.androidtools.countries_of_the_world:id/et_search']</element>
+    <element type="xpath">//android.widget.EditText[@text='Search']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.EditText</element>
+    <element type="xpath">//android.widget.EditText[@hint='Search']</element>
+  </locator>
+  <locator name="ele_India">
+    <element type="id">ru.androidtools.countries_of_the_world:id/card_image</element>
+    <element type="xpath">//android.widget.ImageView[@resource-id='ru.androidtools.countries_of_the_world:id/card_image']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout/android.widget.ImageView</element>
+  </locator>
+  <locator name="ele_ivbackImageView">
+    <element type="id">ru.androidtools.countries_of_the_world:id/iv_back</element>
+    <element type="xpath">//android.widget.ImageView[@resource-id='ru.androidtools.countries_of_the_world:id/iv_back']</element>
+    <element type="xpath">//android.widget.ImageView[@content-desc='Back']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ImageView</element>
+  </locator>
+  <locator name="ele_GameTextView">
+    <element type="xpath">//android.widget.TextView[@text='Game']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[4]/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_QuizImageView">
+    <element type="xpath">//android.widget.ImageView[@content-desc='Quiz']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[4]/android.widget.ImageView</element>
+  </locator>
+  <locator name="ele_QuizTextView">
+    <element type="xpath">//android.widget.TextView[@text='Quiz']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[4]/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_SearchortypeURLEditText">
+    <element type="id">com.android.chrome:id/search_box_text</element>
+    <element type="xpath">//android.widget.EditText[@resource-id='com.android.chrome:id/search_box_text']</element>
+    <element type="xpath">//android.widget.EditText[@text='Search or type URL']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.EditText</element>
+    <element type="xpath">//android.widget.EditText[@hint='Search or type URL']</element>
+  </locator>
+  <locator name="ele_SearchortypeURLEditText1753455550">
+    <element type="xpath">(//android.widget.EditText[@resource-id='com.android.chrome:id/search_box_text'])[1]</element>
+    <element type="xpath">(//android.widget.EditText[@text='Search or type URL'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.EditText</element>
+    <element type="xpath">(//android.widget.EditText[@hint='Search or type URL'])[1]</element>
+  </locator>
+  <locator name="ele_httpswwwmyntracomEditText">
+    <element type="xpath">(//android.widget.EditText[@resource-id='com.android.chrome:id/url_bar'])[1]</element>
+    <element type="xpath">(//android.widget.EditText[@text='https://www.myntra.com/'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[3]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="xpath">(//android.widget.EditText[@hint='Search or type URL'])[1]</element>
+  </locator>
+  <locator name="ele_httpswwwmyntracomTextView">
+    <element type="xpath">(//android.widget.TextView[@resource-id='com.android.chrome:id/line_1'])[1]</element>
+    <element type="xpath">(//android.widget.TextView[@text='https://www.myntra.com'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup/android.widget.LinearLayout/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_SearchforCasualCoordsWomenTextView">
+    <element type="xpath">//android.widget.TextView[@text='Search for Casual Coords Women|']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.webkit.WebView/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_View">
+    <element type="xpath">(//android.view.View[@resource-id='reactPageContent'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.webkit.WebView/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]/android.view.View/android.view.View/android.view.View[2]</element>
+  </locator>
+  <locator name="ele_View1753455678">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.webkit.WebView/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View</element>
+  </locator>
+  <locator name="ele_ivgamebackImageView">
+    <element type="id">ru.androidtools.countries_of_the_world:id/iv_game_back</element>
+    <element type="xpath">//android.widget.ImageView[@resource-id='ru.androidtools.countries_of_the_world:id/iv_game_back']</element>
+    <element type="xpath">//android.widget.ImageView[@content-desc='Back']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.ImageView</element>
+  </locator>
+  <locator name="ele_titleImageImageView">
+    <element type="id">com.nestdesign.nestforms:id/titleImage</element>
+    <element type="xpath">//android.widget.ImageView[@resource-id='com.nestdesign.nestforms:id/titleImage']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.ImageView</element>
+  </locator>
+  <locator name="ele_UsernameorEmailEditText">
+    <element type="xpath">(//android.widget.EditText[@resource-id='com.nestdesign.nestforms:id/usernameEdit'])[1]</element>
+    <element type="xpath">(//android.widget.EditText[@text='Username or Email'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.EditText</element>
+    <element type="xpath">(//android.widget.EditText[@hint='Username or Email'])[1]</element>
+  </locator>
+  <locator name="ele_PasswordEditText">
+    <element type="xpath">(//android.widget.EditText[@resource-id='com.nestdesign.nestforms:id/passwordEdit'])[1]</element>
+    <element type="xpath">(//android.widget.EditText[@text='Password'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.EditText[2]</element>
+    <element type="xpath">(//android.widget.EditText[@hint='Password'])[1]</element>
+  </locator>
+  <locator name="ele_LoginButton">
+    <element type="id">com.nestdesign.nestforms:id/loginButton</element>
+    <element type="xpath">//android.widget.Button[@resource-id='com.nestdesign.nestforms:id/loginButton']</element>
+    <element type="xpath">//android.widget.Button[@text='Login']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.Button</element>
+  </locator>
+  <locator name="ele_FormsTextView">
+    <element type="id">com.nestdesign.nestforms:id/title</element>
+    <element type="xpath">//android.widget.TextView[@resource-id='com.nestdesign.nestforms:id/title']</element>
+    <element type="xpath">//android.widget.TextView[@text='Forms']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_SiteSafetyInspectionTextView">
+    <element type="id">com.nestdesign.nestforms:id/form_name</element>
+    <element type="xpath">//android.widget.TextView[@resource-id='com.nestdesign.nestforms:id/form_name']</element>
+    <element type="xpath">//android.widget.TextView[@text='Site Safety Inspection']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.widget.RelativeLayout/android.view.ViewGroup/android.widget.RelativeLayout/android.widget.ListView/android.view.ViewGroup[2]/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_ContinuelastButton">
+    <element type="id">android:id/button1</element>
+    <element type="xpath">//android.widget.Button[@resource-id='android:id/button1']</element>
+    <element type="xpath">//android.widget.Button[@text='Continue last']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.Button[3]</element>
+  </locator>
+  <locator name="ele_Button">
+    <element type="id">com.nestdesign.nestforms:id/plusButton</element>
+    <element type="xpath">//android.widget.Button[@resource-id='com.nestdesign.nestforms:id/plusButton']</element>
+    <element type="xpath">//android.widget.Button[@text='+']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.ViewFlipper/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.Button[2]</element>
+  </locator>
+  <locator name="ele_SiteTextView">
+    <element type="id">com.nestdesign.nestforms:id/tempHeadingLine</element>
+    <element type="xpath">//android.widget.TextView[@resource-id='com.nestdesign.nestforms:id/tempHeadingLine']</element>
+    <element type="xpath">//android.widget.TextView[@text='Site']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.ViewFlipper/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[4]/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_FirstNameTextView">
+    <element type="id">com.nestdesign.nestforms:id/tempHeadingLine</element>
+    <element type="xpath">//android.widget.TextView[@resource-id='com.nestdesign.nestforms:id/tempHeadingLine']</element>
+    <element type="xpath">//android.widget.TextView[@text='First Name']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.ViewFlipper/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[2]/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_LastNameTextView">
+    <element type="id">com.nestdesign.nestforms:id/tempHeadingLine</element>
+    <element type="xpath">//android.widget.TextView[@resource-id='com.nestdesign.nestforms:id/tempHeadingLine']</element>
+    <element type="xpath">//android.widget.TextView[@text='Last Name']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.ViewFlipper/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[3]/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_FormsImageButton">
+    <element type="xpath">//android.widget.ImageButton[@content-desc='Forms']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.widget.ImageButton</element>
+  </locator>
+  <locator name="ele_LogoutTextView">
+    <element type="id">com.nestdesign.nestforms:id/menu_item_title</element>
+    <element type="xpath">//android.widget.TextView[@resource-id='com.nestdesign.nestforms:id/menu_item_title']</element>
+    <element type="xpath">//android.widget.TextView[@text='Logout']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.LinearLayout/android.widget.ListView/android.widget.RelativeLayout[6]/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_menuitemiconImageView">
+    <element type="id">com.nestdesign.nestforms:id/menu_item_icon</element>
+    <element type="xpath">//android.widget.ImageView[@resource-id='com.nestdesign.nestforms:id/menu_item_icon']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.LinearLayout/android.widget.ListView/android.widget.RelativeLayout[6]/android.widget.ImageView</element>
+  </locator>
+  <locator name="ele_LondonUKTextView">
+    <element type="xpath">//android.widget.TextView[@text='London, UK']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_mainmenusearchcityTextView">
+    <element type="id">org.asdtm.goodweather:id/main_menu_search_city</element>
+    <element type="xpath">//android.widget.TextView[@resource-id='org.asdtm.goodweather:id/main_menu_search_city']</element>
+    <element type="xpath">//android.widget.TextView[@content-desc='Search City']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView[2]</element>
+  </locator>
+  <locator name="ele_Searchlocation">
+    <element type="id">org.asdtm.goodweather:id/search_src_text</element>
+    <element type="xpath">//android.widget.AutoCompleteTextView[@resource-id='org.asdtm.goodweather:id/search_src_text']</element>
+    <element type="xpath">//android.widget.AutoCompleteTextView[@text='Search location']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.AutoCompleteTextView</element>
+    <element type="xpath">//android.widget.AutoCompleteTextView[@hint='Search location']</element>
+  </locator>
+  <locator name="ele_SunTextView">
+    <element type="id">org.asdtm.goodweather:id/city_name</element>
+    <element type="xpath">//android.widget.TextView[@resource-id='org.asdtm.goodweather:id/city_name']</element>
+    <element type="xpath">//android.widget.TextView[@text='Sun']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.RecyclerView/android.widget.LinearLayout/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_OpennavigationdrawerImageButton">
+    <element type="xpath">//android.widget.ImageButton[@content-desc='Open navigation drawer']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ImageButton</element>
+  </locator>
+  <locator name="ele_CurrentWeatherCheckedTextView">
+    <element type="id">org.asdtm.goodweather:id/design_menu_item_text</element>
+    <element type="xpath">//android.widget.CheckedTextView[@resource-id='org.asdtm.goodweather:id/design_menu_item_text']</element>
+    <element type="xpath">//android.widget.CheckedTextView[@text='Current Weather']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar/android.widget.CheckedTextView</element>
+  </locator>
+  <locator name="ele_GoodWeatherTextView">
+    <element type="id">android:id/alertTitle</element>
+    <element type="xpath">//android.widget.TextView[@resource-id='android:id/alertTitle']</element>
+    <element type="xpath">//android.widget.TextView[@text='Good Weather']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_OKButton">
+    <element type="id">android:id/button1</element>
+    <element type="xpath">//android.widget.Button[@resource-id='android:id/button1']</element>
+    <element type="xpath">//android.widget.Button[@text='OK']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.Button[2]</element>
+  </locator>
+  <locator name="ele_EditText">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.webkit.WebView/android.view.View[2]/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText</element>
+    <element type="xpath">//android.widget.EditText[@hint='First Name']</element>
+  </locator>
+  <locator name="ele_Lname">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.webkit.WebView/android.view.View[2]/android.view.View/android.view.View/android.view.View[3]/android.widget.EditText</element>
+    <element type="xpath">//android.widget.EditText[@hint='Last Name']</element>
+  </locator>
+  <locator name="ele_EnterasGuestButton">
+    <element type="xpath">(//android.widget.Button[@resource-id='com.nestdesign.nestforms:id/guestButton'])[1]</element>
+    <element type="xpath">(//android.widget.Button[@text='Enter as Guest'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.Button[2]</element>
+  </locator>
+</locators>
