@@ -27,8 +27,9 @@ public class tc02 {
 		tg.openBrowser();
 		tg.wait(2);
 		tg.wait(10);
+		tg.wait(5);
 		tg.wait(10);
-		tg.wait(10);
+		tg.check.isEqualTo("Testgrid","Testgrid", false);
 		tg.close();
 	}
 }
