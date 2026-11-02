@@ -62,7 +62,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-11-02 11:56:12",
+            "view_updated_date_time": "2026-11-02 12:14:31",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -165,20 +165,7 @@
     "abo_import_statement": [],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
-    "abo_global_variable": [
-        {
-            "variable_id": "3071",
-            "user_id": "100",
-            "app_id": "239",
-            "version_id": "411",
-            "variable_type": "int",
-            "variable_name": "GbstrUpd23",
-            "variable_value": "25000",
-            "gv_category": "global",
-            "created": "2026-11-02 11:55:28",
-            "updated": "2026-11-02 12:00:35"
-        }
-    ],
+    "abo_global_variable": [],
     "ab_scheduler": [],
     "domain": "cotesterdev3.testgrid.io"
 }
