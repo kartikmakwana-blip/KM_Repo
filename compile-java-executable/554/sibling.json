@@ -1,0 +1,24 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_Res1",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "com.app.urunner:id/et_emailssssssTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 379,
+                    "d_w": 238,
+                    "d_x": 1583,
+                    "d_y": 694,
+                    "suggest_name": "Res1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id",
+            "image_url": "http://192.168.5.24/s/ele-imgs/554/26949.png"
+        }
+    ]
+}

@@ -62,7 +62,7 @@
             "cm_test_case_ai": "",
             "cm_network": "50",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-11-03 07:15:02",
+            "view_updated_date_time": "2026-11-03 07:15:48",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -303,7 +303,42 @@
                     "git_restore_page_id": "0",
                     "created": "2026-11-03 07:15:10",
                     "updated": "2026-11-03 07:15:10",
-                    "abo_version_maps": []
+                    "abo_version_maps": [
+                        {
+                            "maps_id": "26949",
+                            "version_page_id": "1219",
+                            "page_name": "PageOne",
+                            "version_module_id": "554",
+                            "element_name": "ele_Res1",
+                            "element_display_name": "Ele1",
+                            "element_image_url": "http://192.168.5.24/s/ele-imgs/554/26949.png",
+                            "element_path_rid": "com.app.urunner:id/et_emailssssssTGWEBCOMMAIdTGWEBCOMMA0",
+                            "autoheal_elements": "",
+                            "shadow_data": "",
+                            "sibling_selector": "",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "false",
+                            "only_iframe_data": "false",
+                            "only_shadow_root_data": "false",
+                            "web_context_element": "1",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "7",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "1583.73",
+                            "d_y": "694.24",
+                            "d_w": "238.64",
+                            "d_h": "379.66",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/554/26949.png"
+                        }
+                    ]
                 },
                 {
                     "version_page_id": 0,
@@ -398,7 +433,32 @@
             "updated": "2026-11-02 13:28:22"
         }
     ],
-    "abo_global_variable": [],
+    "abo_global_variable": [
+        {
+            "variable_id": "3072",
+            "user_id": "100",
+            "app_id": "239",
+            "version_id": "411",
+            "variable_type": "int",
+            "variable_name": "Rint",
+            "variable_value": "5555",
+            "gv_category": "runtime",
+            "created": "2026-11-03 07:16:13",
+            "updated": "2026-11-03 07:16:13"
+        },
+        {
+            "variable_id": "3073",
+            "user_id": "100",
+            "app_id": "239",
+            "version_id": "411",
+            "variable_type": "Double",
+            "variable_name": "Rdbl",
+            "variable_value": "100.10",
+            "gv_category": "runtime",
+            "created": "2026-11-03 07:16:13",
+            "updated": "2026-11-03 07:16:13"
+        }
+    ],
     "ab_scheduler": [
         {
             "scheduler_id": "8",
