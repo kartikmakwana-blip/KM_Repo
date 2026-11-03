@@ -25,7 +25,10 @@ public class tc02 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc02() {
 		tg.openBrowser();
-		tg.wait(1);
+		tg.wait(10);
+		tg.wait(10);
+		tg.printLogs("test1");
+		tg.printLogs("2");
 		tg.close();
 	}
 }
