@@ -1,0 +1,44 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_Res1Upds",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@value='emaillllllll']",
+                    "locator_id": "3",
+                    "d_h": 220,
+                    "d_w": 364,
+                    "d_x": 1686,
+                    "d_y": 887,
+                    "suggest_name": "Res1Upds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.24/s/ele-imgs/562/26952.png"
+        },
+        {
+            "testcase_element": "ele_Res2",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "By Name",
+                    "locators_val": "ResourceNameTGWEBCOMMANameTGWEBCOMMA0",
+                    "locator_id": "11",
+                    "d_h": 737,
+                    "d_w": 444,
+                    "d_x": 1572,
+                    "d_y": 715,
+                    "suggest_name": "Res2"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "name",
+            "image_url": "http://192.168.5.24/s/ele-imgs/562/26953.png"
+        }
+    ]
+}

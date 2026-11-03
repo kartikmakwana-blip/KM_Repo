@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_Res1Upds">
+    <element type="xpath">//input[@value='emaillllllll']</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/563/26954.png</element>
+  </locator>
+  <locator name="ele_Res2">
+    <element type="name">ResourceNameTGWEBCOMMANameTGWEBCOMMA0</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/563/26955.png</element>
+  </locator>
+</locators>
