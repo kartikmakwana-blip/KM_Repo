@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "420",
-    "user_id": 100,
+    "user_id": 0,
     "abo_version": {
         "version_id": "420",
         "app_id": "239",
@@ -17,7 +17,7 @@
         "is_delete": "0",
         "xray_project_version": "",
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "239",
@@ -270,89 +270,7 @@
                     ]
                 }
             ],
-            "abo_update": [
-                {
-                    "id": "2607",
-                    "user_id": "100",
-                    "app_id": "239",
-                    "version_id": "420",
-                    "version_module_id": "562",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "2608",
-                    "user_id": "100",
-                    "app_id": "239",
-                    "version_id": "420",
-                    "version_module_id": "562",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "2609",
-                    "user_id": "100",
-                    "app_id": "239",
-                    "version_id": "420",
-                    "version_module_id": "562",
-                    "description": "Suite1",
-                    "action_process": "edit_version_module"
-                },
-                {
-                    "id": "2610",
-                    "user_id": "100",
-                    "app_id": "239",
-                    "version_id": "420",
-                    "version_module_id": "562",
-                    "description": "Suite111",
-                    "action_process": "edit_version_module"
-                },
-                {
-                    "id": "2611",
-                    "user_id": "100",
-                    "app_id": "239",
-                    "version_id": "420",
-                    "version_module_id": "562",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                },
-                {
-                    "id": "2612",
-                    "user_id": "100",
-                    "app_id": "239",
-                    "version_id": "420",
-                    "version_module_id": "562",
-                    "description": "",
-                    "action_process": "add_network_assert"
-                },
-                {
-                    "id": "2613",
-                    "user_id": "100",
-                    "app_id": "239",
-                    "version_id": "420",
-                    "version_module_id": "562",
-                    "description": "",
-                    "action_process": "edit_network_assert"
-                },
-                {
-                    "id": "2614",
-                    "user_id": "100",
-                    "app_id": "239",
-                    "version_id": "420",
-                    "version_module_id": "562",
-                    "description": "",
-                    "action_process": "delete_network_assert"
-                },
-                {
-                    "id": "2615",
-                    "user_id": "100",
-                    "app_id": "239",
-                    "version_id": "420",
-                    "version_module_id": "562",
-                    "description": "",
-                    "action_process": "edit_test_function"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -667,17 +585,7 @@
                     ]
                 }
             ],
-            "abo_update": [
-                {
-                    "id": "2617",
-                    "user_id": "100",
-                    "app_id": "239",
-                    "version_id": "420",
-                    "version_module_id": "563",
-                    "description": "SuiteCpy1",
-                    "action_process": "add_version_module"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
