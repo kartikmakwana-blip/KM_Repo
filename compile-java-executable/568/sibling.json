@@ -1,0 +1,24 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_resuorce1234",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "asdsaTGWEBCOMMA03",
+                    "locator_id": "7",
+                    "d_h": 171,
+                    "d_w": 827,
+                    "d_x": 566,
+                    "d_y": 460,
+                    "suggest_name": "resuorce1234"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id",
+            "image_url": "http://192.168.5.24/s/ele-imgs/568/27083.png"
+        }
+    ]
+}

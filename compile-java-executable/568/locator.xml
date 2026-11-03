@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_resuorce1234">
+    <element type="id">asdsaTGWEBCOMMAIdTGWEBCOMMA03</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/568/27083.png</element>
+  </locator>
+</locators>
