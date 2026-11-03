@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <locators>
-  <locator name="ele_Res1">
-    <element type="id">com.app.urunner:id/et_emailssssssTGWEBCOMMAIdTGWEBCOMMA0</element>
-    <element type="image">http://192.168.5.24/s/ele-imgs/554/26949.png</element>
+  <locator name="ele_Res1Upds">
+    <element type="xpath">//input[@value='emaillllllll']</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/554/26950.png</element>
+  </locator>
+  <locator name="ele_Res2">
+    <element type="name">ResourceNameTGWEBCOMMANameTGWEBCOMMA0</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/554/26951.png</element>
   </locator>
 </locators>
