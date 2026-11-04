@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": null,
             "cm_renderer": null,
-            "view_updated_date_time": "2026-11-04 11:44:45",
+            "view_updated_date_time": "2026-11-04 11:45:00",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -94,9 +94,16 @@
                     "qtest_skip_sync": "1",
                     "test_case_tags": [
                         {
-                            "id": "15",
+                            "id": "68",
                             "version_module_id": "16",
                             "name": "tg1",
+                            "tc_id": "140",
+                            "user_id": "2"
+                        },
+                        {
+                            "id": "69",
+                            "version_module_id": "16",
+                            "name": "sd",
                             "tc_id": "140",
                             "user_id": "2"
                         }
