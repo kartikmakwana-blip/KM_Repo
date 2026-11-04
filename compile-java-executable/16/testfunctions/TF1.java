@@ -21,7 +21,12 @@ class tf1 {
 				tg.swipe(Direction.DOWN);
 				tg.wait("ele_ClearDataButton", ComparisonType.IS_VISIBLE);
 				tg.click("ele_ClearDataButton", 1);
-				tg.wait("ele_ShowPass", ComparisonType.IS_VISIBLE);
+				tg.wait("ele_ShowPass", ComparisonType.IS_VISIBLE, 10);
 				tg.click("ele_ShowPass", 1);
+				tg.wait("ele_ClearDataButton", ComparisonType.IS_VISIBLE);
+				tg.wait("ele_FormfullName", ComparisonType.IS_VISIBLE);
+				tg.click("ele_FormfullName", 1);
+				tg.wait("ele_DoneButton", ComparisonType.IS_VISIBLE);
+				tg.click("ele_DoneButton", 1);
 	}
 }
