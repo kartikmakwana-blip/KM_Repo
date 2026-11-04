@@ -232,46 +232,6 @@
             "image_url": "http://117.240.112.139/s/ele-imgs/16/248.png"
         },
         {
-            "testcase_element": "ele_FormlastName",
-            "tg_text": "",
-            "sibling_selector": [],
-            "locator": [
-                {
-                    "locators": "Xpath",
-                    "locators_val": "(//XCUIElementTypeTextField[@name='field.lastName'])[1]",
-                    "locator_id": "3",
-                    "d_h": 45,
-                    "d_w": 374,
-                    "d_x": 20,
-                    "d_y": 275,
-                    "suggest_name": "fieldlastNameTextField1781774996391"
-                },
-                {
-                    "locators": "Xpath",
-                    "locator_type": 3,
-                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[4]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
-                    "d_x": "20",
-                    "d_h": "45",
-                    "suggest_name": "fieldlastNameTextField1781774996391",
-                    "d_w": "374",
-                    "d_y": "275"
-                },
-                {
-                    "locators": "Xpath",
-                    "locator_type": 3,
-                    "locators_val": "(//XCUIElementTypeTextField[@index='0'])[3]",
-                    "d_x": "20",
-                    "d_h": "45",
-                    "suggest_name": "fieldlastNameTextField1781774996391",
-                    "d_w": "374",
-                    "d_y": "275"
-                }
-            ],
-            "iframe_and_shadow_root_data": [],
-            "element_type": "xpath",
-            "image_url": "http://117.240.112.139/s/ele-imgs/16/249.png"
-        },
-        {
             "testcase_element": "ele_DoneButton",
             "tg_text": "",
             "sibling_selector": [],
@@ -1025,10 +985,10 @@
                     "locators": "Web_xpath",
                     "locators_val": "//input[@value='emaillllllll']",
                     "locator_id": "3",
-                    "d_h": 108,
-                    "d_w": 139,
-                    "d_x": 139,
-                    "d_y": 245,
+                    "d_h": 39,
+                    "d_w": 137,
+                    "d_x": 9,
+                    "d_y": 95,
                     "suggest_name": "Res11111"
                 }
             ],

@@ -36,12 +36,6 @@
     <element type="xpath">(//XCUIElementTypeTextField[@index='0'])[2]</element>
     <element type="image">http://117.240.112.139/s/ele-imgs/16/248.png</element>
   </locator>
-  <locator name="ele_FormlastName">
-    <element type="xpath">(//XCUIElementTypeTextField[@name='field.lastName'])[1]</element>
-    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[4]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
-    <element type="xpath">(//XCUIElementTypeTextField[@index='0'])[3]</element>
-    <element type="image">http://117.240.112.139/s/ele-imgs/16/249.png</element>
-  </locator>
   <locator name="ele_DoneButton">
     <element type="xpath">(//XCUIElementTypeButton[@name='Done'])[1]</element>
     <element type="xpath">(//XCUIElementTypeButton[@label='done'])[1]</element>
