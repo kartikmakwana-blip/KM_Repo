@@ -432,7 +432,7 @@
                     "qtest_skip_sync": "1",
                     "test_case_tags": [
                         {
-                            "id": "25",
+                            "id": "27",
                             "version_module_id": "16",
                             "name": "Tag2",
                             "tc_id": "157",
