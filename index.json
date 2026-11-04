@@ -654,7 +654,7 @@
                 {
                     "version_page_id": "21",
                     "version_module_id": "16",
-                    "cm_resource": "242,243,248,250,251,252,253,254,258,260,263,264,265,266,267,267,267,267,267,267,267,267,267",
+                    "cm_resource": "242,243,248,250,251,252,253,254,258,260,263,264,265,266,267,267,267,267,267,267,267,267,267,267",
                     "page_name": "DemoiOSApp",
                     "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/16/main_21.png",
                     "git_restore_page_id": "0",
@@ -1191,7 +1191,7 @@
                 {
                     "version_page_id": "34",
                     "version_module_id": "16",
-                    "cm_resource": "267,267,267,267,267",
+                    "cm_resource": "267,267,267,267",
                     "page_name": "NewPage",
                     "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/16/main_34.png",
                     "git_restore_page_id": "0",
