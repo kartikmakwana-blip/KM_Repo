@@ -30,7 +30,7 @@
         "os_type": "0",
         "platform": "1",
         "nob": "5",
-        "cm_version_id": "1,18,19",
+        "cm_version_id": "1,18,19,23",
         "is_autoheal": "1",
         "is_autoheal_autofixed": "1",
         "is_testcase_retries": "0",
@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": null,
             "cm_renderer": null,
-            "view_updated_date_time": "2026-11-04 07:55:32",
+            "view_updated_date_time": "2026-11-04 07:55:46",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -230,7 +230,15 @@
                     "created_at": "2026-11-04 06:08:36",
                     "status": "2",
                     "qtest_skip_sync": "1",
-                    "test_case_tags": [],
+                    "test_case_tags": [
+                        {
+                            "id": "64",
+                            "version_module_id": "16",
+                            "name": "as",
+                            "tc_id": "150",
+                            "user_id": "2"
+                        }
+                    ],
                     "iterative_test_case": {
                         "id": "9",
                         "user_id": "2",
