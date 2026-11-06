@@ -18,6 +18,15 @@ import org.testng.annotations.Test;
 class newfunc {
 
 	public static void newfunc() {
-		tg.wait(1);
+				tg.wait("ele_fullnamefield1793946361486", ComparisonType.IS_VISIBLE, 30);
+				tg.click("ele_fullnamefield1793946361486", 1);
+				tg.type("ele_fullnamefield1793946361486", "DemoFull", false);
+				tg.wait(2);
+				tg.click("ele_firstnamefield1793946479427", 1);
+				tg.type("ele_firstnamefield1793946479427", "DemoFirst", false);
+				tg.wait("ele_donekeyboardbutton1793946494410", ComparisonType.IS_VISIBLE, 30);
+				tg.click("ele_donekeyboardbutton1793946494410", 1);
+				tg.wait("ele_clearbutton1793946507681", ComparisonType.IS_VISIBLE, 30);
+				tg.click("ele_clearbutton1793946507681", 1);
 	}
 }

@@ -1,0 +1,1385 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_fullnamefield1793946361486",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeTextField[@name=\"field.fullName\"]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 348,
+                    "d_x": 40,
+                    "d_y": 208,
+                    "suggest_name": "fullnamefield1793946361486"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "fullnamefield1793946361486",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeTextField[@value=\"Full name\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeTextField[@value=\"Full name\"]",
+                    "d_x": "40",
+                    "d_y": "208",
+                    "d_w": "348",
+                    "d_h": "23",
+                    "element_area": 80
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "fullnamefield1793946361486",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "d_x": "40",
+                    "d_y": "208",
+                    "d_w": "348",
+                    "d_h": "23",
+                    "element_area": 80
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "fullnamefield1793946361486",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeTextField[@name='field.fullName']"
+                    ],
+                    "img": "",
+                    "d_x": "40",
+                    "d_y": "208",
+                    "d_w": "348",
+                    "d_h": "23",
+                    "element_area": 80
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/99/1309.png"
+        },
+        {
+            "testcase_element": "ele_firstnamefield1793946479427",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeTextField[@name=\"field.firstName\"]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 348,
+                    "d_x": 40,
+                    "d_y": 260,
+                    "suggest_name": "firstnamefield1793946479427"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "firstnamefield1793946479427",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeTextField[@value=\"First name\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeTextField[@value=\"First name\"]",
+                    "d_x": "40",
+                    "d_y": "260",
+                    "d_w": "348",
+                    "d_h": "23",
+                    "element_area": 80
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "firstnamefield1793946479427",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "d_x": "40",
+                    "d_y": "260",
+                    "d_w": "348",
+                    "d_h": "23",
+                    "element_area": 80
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "firstnamefield1793946479427",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeTextField[@name='field.firstName']"
+                    ],
+                    "img": "",
+                    "d_x": "40",
+                    "d_y": "260",
+                    "d_w": "348",
+                    "d_h": "23",
+                    "element_area": 80
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_donekeyboardbutton1793946494410",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"Done\"]",
+                    "locator_id": "3",
+                    "d_h": 56,
+                    "d_w": 106,
+                    "d_x": 320,
+                    "d_y": 798,
+                    "suggest_name": "donekeyboardbutton1793946494410"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "donekeyboardbutton1793946494410",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"done\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeButton[@label=\"done\"]",
+                    "d_x": "320",
+                    "d_y": "798",
+                    "d_w": "106",
+                    "d_h": "56",
+                    "element_area": 59
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "donekeyboardbutton1793946494410",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]",
+                    "d_x": "320",
+                    "d_y": "798",
+                    "d_w": "106",
+                    "d_h": "56",
+                    "element_area": 59
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "donekeyboardbutton1793946494410",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@name='Done']"
+                    ],
+                    "img": "",
+                    "d_x": "320",
+                    "d_y": "798",
+                    "d_w": "106",
+                    "d_h": "56",
+                    "element_area": 59
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "donekeyboardbutton1793946494410",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label='done']"
+                    ],
+                    "img": "",
+                    "d_x": "320",
+                    "d_y": "798",
+                    "d_w": "106",
+                    "d_h": "56",
+                    "element_area": 59
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/99/1311.png"
+        },
+        {
+            "testcase_element": "ele_clearbutton1793946507681",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"section.clear\"]",
+                    "locator_id": "3",
+                    "d_h": 21,
+                    "d_w": 40,
+                    "d_x": 348,
+                    "d_y": 163,
+                    "suggest_name": "clearbutton1793946507681"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "clearbutton1793946507681",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Clear\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Clear\"]",
+                    "d_x": "348",
+                    "d_y": "163",
+                    "d_w": "40",
+                    "d_h": "21",
+                    "element_area": 8
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "clearbutton1793946507681",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton",
+                    "d_x": "348",
+                    "d_y": "163",
+                    "d_w": "40",
+                    "d_h": "21",
+                    "element_area": 8
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "clearbutton1793946507681",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@name='section.clear']"
+                    ],
+                    "img": "",
+                    "d_x": "348",
+                    "d_y": "163",
+                    "d_w": "40",
+                    "d_h": "21",
+                    "element_area": 8
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "clearbutton1793946507681",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label='Clear']"
+                    ],
+                    "img": "",
+                    "d_x": "348",
+                    "d_y": "163",
+                    "d_w": "40",
+                    "d_h": "21",
+                    "element_area": 8
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/99/1312.png"
+        },
+        {
+            "testcase_element": "ele_controlstab1793946516724",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"slider.horizontal.3\"]",
+                    "locator_id": "3",
+                    "d_h": 54,
+                    "d_w": 84,
+                    "d_x": 98,
+                    "d_y": 847,
+                    "suggest_name": "controlstab1793946516724"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "controlstab1793946516724",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Controls\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Controls\"]",
+                    "d_x": "98",
+                    "d_y": "847",
+                    "d_w": "84",
+                    "d_h": "54",
+                    "element_area": 45
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "controlstab1793946516724",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[2]",
+                    "d_x": "98",
+                    "d_y": "847",
+                    "d_w": "84",
+                    "d_h": "54",
+                    "element_area": 45
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "controlstab1793946516724",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label='Controls']"
+                    ],
+                    "img": "",
+                    "d_x": "98",
+                    "d_y": "847",
+                    "d_w": "84",
+                    "d_h": "54",
+                    "element_area": 45
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_maleoption1793946524266",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"radio.male\"]",
+                    "locator_id": "3",
+                    "d_h": 53,
+                    "d_w": 388,
+                    "d_x": 20,
+                    "d_y": 303,
+                    "suggest_name": "maleoption1793946524266"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "maleoption1793946524266",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Male\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Male\"]",
+                    "d_x": "20",
+                    "d_y": "303",
+                    "d_w": "388",
+                    "d_h": "53",
+                    "element_area": 206
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "maleoption1793946524266",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[4]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[4]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton",
+                    "d_x": "20",
+                    "d_y": "303",
+                    "d_w": "388",
+                    "d_h": "53",
+                    "element_area": 206
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "maleoption1793946524266",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@name='radio.male']"
+                    ],
+                    "img": "",
+                    "d_x": "20",
+                    "d_y": "303",
+                    "d_w": "388",
+                    "d_h": "53",
+                    "element_area": 206
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/99/1314.png"
+        },
+        {
+            "testcase_element": "ele_femaleradiobutton1793946527283",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"radio.female\"]",
+                    "locator_id": "3",
+                    "d_h": 53,
+                    "d_w": 388,
+                    "d_x": 20,
+                    "d_y": 355,
+                    "suggest_name": "femaleradiobutton1793946527283"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "femaleradiobutton1793946527283",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Female\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Female\"]",
+                    "d_x": "20",
+                    "d_y": "355",
+                    "d_w": "388",
+                    "d_h": "53",
+                    "element_area": 206
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "femaleradiobutton1793946527283",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[5]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[5]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton",
+                    "d_x": "20",
+                    "d_y": "355",
+                    "d_w": "388",
+                    "d_h": "53",
+                    "element_area": 206
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "femaleradiobutton1793946527283",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@name='radio.female']"
+                    ],
+                    "img": "",
+                    "d_x": "20",
+                    "d_y": "355",
+                    "d_w": "388",
+                    "d_h": "53",
+                    "element_area": 206
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_screenstab1793946532662",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"rectangle.stack\"]",
+                    "locator_id": "3",
+                    "d_h": 54,
+                    "d_w": 83,
+                    "d_x": 320,
+                    "d_y": 847,
+                    "suggest_name": "screenstab1793946532662"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "screenstab1793946532662",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Screens\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Screens\"]",
+                    "d_x": "320",
+                    "d_y": "847",
+                    "d_w": "83",
+                    "d_h": "54",
+                    "element_area": 45
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "screenstab1793946532662",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[5]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[5]",
+                    "d_x": "320",
+                    "d_y": "847",
+                    "d_w": "83",
+                    "d_h": "54",
+                    "element_area": 45
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "screenstab1793946532662",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@name='rectangle.stack']"
+                    ],
+                    "img": "",
+                    "d_x": "320",
+                    "d_y": "847",
+                    "d_w": "83",
+                    "d_h": "54",
+                    "element_area": 45
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "screenstab1793946532662",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label='Screens']"
+                    ],
+                    "img": "",
+                    "d_x": "320",
+                    "d_y": "847",
+                    "d_w": "83",
+                    "d_h": "54",
+                    "element_area": 45
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_openmodalsheetbutton1793946541398",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"nav.sheet\"]",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 388,
+                    "d_x": 20,
+                    "d_y": 569,
+                    "suggest_name": "openmodalsheetbutton1793946541398"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "openmodalsheetbutton1793946541398",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Open Modal Sheet\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Open Modal Sheet\"]",
+                    "d_x": "20",
+                    "d_y": "569",
+                    "d_w": "388",
+                    "d_h": "52",
+                    "element_area": 202
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "openmodalsheetbutton1793946541398",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[9]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[9]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton",
+                    "d_x": "20",
+                    "d_y": "569",
+                    "d_w": "388",
+                    "d_h": "52",
+                    "element_area": 202
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "openmodalsheetbutton1793946541398",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@name='nav.sheet']"
+                    ],
+                    "img": "",
+                    "d_x": "20",
+                    "d_y": "569",
+                    "d_w": "388",
+                    "d_h": "52",
+                    "element_area": 202
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "openmodalsheetbutton1793946541398",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label='Open Modal Sheet']"
+                    ],
+                    "img": "",
+                    "d_x": "20",
+                    "d_y": "569",
+                    "d_w": "388",
+                    "d_h": "52",
+                    "element_area": 202
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/99/1317.png"
+        },
+        {
+            "testcase_element": "ele_closebutton1793946555160",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"modal.close\"]",
+                    "locator_id": "3",
+                    "d_h": 36,
+                    "d_w": 67,
+                    "d_x": 337,
+                    "d_y": 71,
+                    "suggest_name": "closebutton1793946555160"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "closebutton1793946555160",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Close\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Close\"]",
+                    "d_x": "337",
+                    "d_y": "71",
+                    "d_w": "67",
+                    "d_h": "36",
+                    "element_area": 24
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "closebutton1793946555160",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton",
+                    "d_x": "337",
+                    "d_y": "71",
+                    "d_w": "67",
+                    "d_h": "36",
+                    "element_area": 24
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "closebutton1793946555160",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@name='modal.close']"
+                    ],
+                    "img": "",
+                    "d_x": "337",
+                    "d_y": "71",
+                    "d_w": "67",
+                    "d_h": "36",
+                    "element_area": 24
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "closebutton1793946555160",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label='Close']"
+                    ],
+                    "img": "",
+                    "d_x": "337",
+                    "d_y": "71",
+                    "d_w": "67",
+                    "d_h": "36",
+                    "element_area": 24
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/99/1318.png"
+        },
+        {
+            "testcase_element": "ele_opendetailscreenbutton1793946567153",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"nav.detail\"]",
+                    "locator_id": "3",
+                    "d_h": 53,
+                    "d_w": 388,
+                    "d_x": 20,
+                    "d_y": 193,
+                    "suggest_name": "opendetailscreenbutton1793946567153"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "opendetailscreenbutton1793946567153",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Open Detail Screen\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Open Detail Screen\"]",
+                    "d_x": "20",
+                    "d_y": "193",
+                    "d_w": "388",
+                    "d_h": "53",
+                    "element_area": 206
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "opendetailscreenbutton1793946567153",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton",
+                    "d_x": "20",
+                    "d_y": "193",
+                    "d_w": "388",
+                    "d_h": "53",
+                    "element_area": 206
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "opendetailscreenbutton1793946567153",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@name='nav.detail']"
+                    ],
+                    "img": "",
+                    "d_x": "20",
+                    "d_y": "193",
+                    "d_w": "388",
+                    "d_h": "53",
+                    "element_area": 206
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/99/1319.png"
+        },
+        {
+            "testcase_element": "ele_pushanotherscreenbutton1793946580474",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"screen.detail\"]",
+                    "locator_id": "3",
+                    "d_h": 35,
+                    "d_w": 186,
+                    "d_x": 121,
+                    "d_y": 302,
+                    "suggest_name": "pushanotherscreenbutton1793946580474"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "pushanotherscreenbutton1793946580474",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Push Another Screen\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Push Another Screen\"]",
+                    "d_x": "121",
+                    "d_y": "302",
+                    "d_w": "186",
+                    "d_h": "35",
+                    "element_area": 65
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "pushanotherscreenbutton1793946580474",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton",
+                    "d_x": "121",
+                    "d_y": "302",
+                    "d_w": "186",
+                    "d_h": "35",
+                    "element_area": 65
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "pushanotherscreenbutton1793946580474",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label='Push Another Screen']"
+                    ],
+                    "img": "",
+                    "d_x": "121",
+                    "d_y": "302",
+                    "d_w": "186",
+                    "d_h": "35",
+                    "element_area": 65
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/99/1320.png"
+        },
+        {
+            "testcase_element": "ele_nesteddetailscreentitle1793946590005",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeStaticText[@name=\"Nested Detail\"]",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 108,
+                    "d_x": 160,
+                    "d_y": 58,
+                    "suggest_name": "nesteddetailscreentitle1793946590005"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "nesteddetailscreentitle1793946590005",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeStaticText[@label=\"Nested Detail\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeStaticText[@label=\"Nested Detail\"]",
+                    "d_x": "160",
+                    "d_y": "58",
+                    "d_w": "108",
+                    "d_h": "22",
+                    "element_area": 24
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "nesteddetailscreentitle1793946590005",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeStaticText[@value=\"Nested Detail\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeStaticText[@value=\"Nested Detail\"]",
+                    "d_x": "160",
+                    "d_y": "58",
+                    "d_w": "108",
+                    "d_h": "22",
+                    "element_area": 24
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "nesteddetailscreentitle1793946590005",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeStaticText"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeStaticText",
+                    "d_x": "160",
+                    "d_y": "58",
+                    "d_w": "108",
+                    "d_h": "22",
+                    "element_area": 24
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "nesteddetailscreentitle1793946590005",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeStaticText[@label='Nested Detail']"
+                    ],
+                    "img": "",
+                    "d_x": "160",
+                    "d_y": "58",
+                    "d_w": "108",
+                    "d_h": "22",
+                    "element_area": 24
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/99/1321.png"
+        },
+        {
+            "testcase_element": "ele_backnavigationbutton1793946593115",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"BackButton\"]",
+                    "locator_id": "3",
+                    "d_h": 44,
+                    "d_w": 44,
+                    "d_x": 20,
+                    "d_y": 47,
+                    "suggest_name": "backnavigationbutton1793946593115"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "backnavigationbutton1793946593115",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Detail Screen\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Detail Screen\"]",
+                    "d_x": "20",
+                    "d_y": "47",
+                    "d_w": "44",
+                    "d_h": "44",
+                    "element_area": 19
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "backnavigationbutton1793946593115",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeButton"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeButton",
+                    "d_x": "20",
+                    "d_y": "47",
+                    "d_w": "44",
+                    "d_h": "44",
+                    "element_area": 19
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "backnavigationbutton1793946593115",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@name='BackButton']"
+                    ],
+                    "img": "",
+                    "d_x": "20",
+                    "d_y": "47",
+                    "d_w": "44",
+                    "d_h": "44",
+                    "element_area": 19
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "backnavigationbutton1793946593115",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label='Detail Screen']"
+                    ],
+                    "img": "",
+                    "d_x": "20",
+                    "d_y": "47",
+                    "d_w": "44",
+                    "d_h": "44",
+                    "element_area": 19
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_detailscreentitle1793946602074",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeStaticText[@name=\"Detail Screen\"]",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 106,
+                    "d_x": 161,
+                    "d_y": 58,
+                    "suggest_name": "detailscreentitle1793946602074"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "detailscreentitle1793946602074",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeStaticText[@label=\"Detail Screen\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeStaticText[@label=\"Detail Screen\"]",
+                    "d_x": "161",
+                    "d_y": "58",
+                    "d_w": "106",
+                    "d_h": "22",
+                    "element_area": 23
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "detailscreentitle1793946602074",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeStaticText[@value=\"Detail Screen\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeStaticText[@value=\"Detail Screen\"]",
+                    "d_x": "161",
+                    "d_y": "58",
+                    "d_w": "106",
+                    "d_h": "22",
+                    "element_area": 23
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "detailscreentitle1793946602074",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeStaticText"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeStaticText",
+                    "d_x": "161",
+                    "d_y": "58",
+                    "d_w": "106",
+                    "d_h": "22",
+                    "element_area": 23
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "detailscreentitle1793946602074",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeStaticText[@label='Detail Screen']"
+                    ],
+                    "img": "",
+                    "d_x": "161",
+                    "d_y": "58",
+                    "d_w": "106",
+                    "d_h": "22",
+                    "element_area": 23
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/99/1323.png"
+        },
+        {
+            "testcase_element": "ele_backtoscreensbutton1793946606269",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"BackButton\"]",
+                    "locator_id": "3",
+                    "d_h": 44,
+                    "d_w": 44,
+                    "d_x": 20,
+                    "d_y": 47,
+                    "suggest_name": "backtoscreensbutton1793946606269"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "backtoscreensbutton1793946606269",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "(//XCUIElementTypeButton[@label=\"Screens\"])[1]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "(//XCUIElementTypeButton[@label=\"Screens\"])[1]",
+                    "d_x": "20",
+                    "d_y": "47",
+                    "d_w": "44",
+                    "d_h": "44",
+                    "element_area": 19
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "backtoscreensbutton1793946606269",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeButton"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeButton",
+                    "d_x": "20",
+                    "d_y": "47",
+                    "d_w": "44",
+                    "d_h": "44",
+                    "element_area": 19
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "backtoscreensbutton1793946606269",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@name='BackButton']"
+                    ],
+                    "img": "",
+                    "d_x": "20",
+                    "d_y": "47",
+                    "d_w": "44",
+                    "d_h": "44",
+                    "element_area": 19
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_formtab1793946618063",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"square.and.pencil\"]",
+                    "locator_id": "3",
+                    "d_h": 54,
+                    "d_w": 83,
+                    "d_x": 25,
+                    "d_y": 847,
+                    "suggest_name": "formtab1793946618063"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "formtab1793946618063",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Form\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Form\"]",
+                    "d_x": "25",
+                    "d_y": "847",
+                    "d_w": "83",
+                    "d_h": "54",
+                    "element_area": 45
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "formtab1793946618063",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[1]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeTabBar/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[1]",
+                    "d_x": "25",
+                    "d_y": "847",
+                    "d_w": "83",
+                    "d_h": "54",
+                    "element_area": 45
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "formtab1793946618063",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label='Form']"
+                    ],
+                    "img": "",
+                    "d_x": "25",
+                    "d_y": "847",
+                    "d_w": "83",
+                    "d_h": "54",
+                    "element_area": 45
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/99/1325.png"
+        },
+        {
+            "testcase_element": "ele_donebuttononkeyboard1793947227653",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"Done\"]",
+                    "locator_id": "3",
+                    "d_h": 54,
+                    "d_w": 97,
+                    "d_x": 291,
+                    "d_y": 722,
+                    "suggest_name": "donebuttononkeyboard1793947227653"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "donebuttononkeyboard1793947227653",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"done\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeButton[@label=\"done\"]",
+                    "d_x": "291",
+                    "d_y": "722",
+                    "d_w": "97",
+                    "d_h": "54",
+                    "element_area": 52
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "donebuttononkeyboard1793947227653",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[3]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[3]",
+                    "d_x": "291",
+                    "d_y": "722",
+                    "d_w": "97",
+                    "d_h": "54",
+                    "element_area": 52
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "donebuttononkeyboard1793947227653",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@name='Done']"
+                    ],
+                    "img": "",
+                    "d_x": "291",
+                    "d_y": "722",
+                    "d_w": "97",
+                    "d_h": "54",
+                    "element_area": 52
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "donebuttononkeyboard1793947227653",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label='done']"
+                    ],
+                    "img": "",
+                    "d_x": "291",
+                    "d_y": "722",
+                    "d_w": "97",
+                    "d_h": "54",
+                    "element_area": 52
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        }
+    ]
+}
