@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": null,
             "cm_renderer": null,
-            "view_updated_date_time": "2026-11-06 07:50:50",
+            "view_updated_date_time": "2026-11-06 07:51:45",
             "is_updated": "0",
             "is_complie": "1",
             "server_ids": null,
@@ -1429,11 +1429,11 @@
             "cm_resource_pages": null,
             "cm_default_resource": null,
             "cm_test_function": null,
-            "cm_test_case": null,
+            "cm_test_case": "787",
             "cm_test_case_ai": "",
             "cm_network": null,
             "cm_renderer": null,
-            "view_updated_date_time": "2026-11-06 07:51:05",
+            "view_updated_date_time": "2026-11-06 07:52:04",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -1450,7 +1450,7 @@
                     "tc_description": "",
                     "tc_website_url": "",
                     "it_json": "",
-                    "cm_step_list": null,
+                    "cm_step_list": "939",
                     "is_compiled": "1",
                     "xray_type_of_issue_id": null,
                     "xray_type_of_issue_key": null,
@@ -1464,7 +1464,15 @@
                     "created_at": "2026-11-06 07:51:28",
                     "status": "2",
                     "qtest_skip_sync": "0",
-                    "test_case_tags": [],
+                    "test_case_tags": [
+                        {
+                            "id": "40",
+                            "version_module_id": "106",
+                            "name": "tg1",
+                            "tc_id": "787",
+                            "user_id": "27"
+                        }
+                    ],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/53/88/106/testcases/cross_suite_func.java",
                     "vault_paths": []
