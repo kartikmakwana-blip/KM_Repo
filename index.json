@@ -29,8 +29,8 @@
         "user_id": "27",
         "os_type": "0",
         "platform": "1",
-        "nob": "1",
-        "cm_version_id": "1,88",
+        "nob": "2",
+        "cm_version_id": "1,88,90,91,92",
         "is_autoheal": "1",
         "is_autoheal_autofixed": "0",
         "is_testcase_retries": "0",
@@ -57,11 +57,11 @@
             "cm_resource_pages": null,
             "cm_default_resource": null,
             "cm_test_function": "81,82,83",
-            "cm_test_case": "768,770",
+            "cm_test_case": "768,770,785",
             "cm_test_case_ai": "",
             "cm_network": null,
             "cm_renderer": null,
-            "view_updated_date_time": "2026-11-06 06:45:51",
+            "view_updated_date_time": "2026-11-06 07:13:09",
             "is_updated": "0",
             "is_complie": "1",
             "server_ids": null,
@@ -121,6 +121,32 @@
                     "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/53/88/99/testcases/tcpositiveflowcompleteformentryandallnavigations.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "785",
+                    "version_module_id": "99",
+                    "tc_name": "TCVerifySuccessfulFormEntryandNavigationThroughControlsandModal",
+                    "tc_description": "Test Case Title: Verify Successful Form Entry and Navigation Through Controls and Modal\nModule: Form Controls & Navigation\nPriority: High\n\nPreconditions:\n- - User has launched the application.\n- - User is on the form entry screen.\n\nTest Steps:\n1. Wait for the Full Name field to become visible.\n2. Enter \"DemoFull\" into the Full Name field.\n3. Wait for 2 seconds.\n4. Enter \"DemoFirst\" into the First Name field.\n5. Wait for the Done keyboard button to appear.\n6. Tap on the Done button on the keyboard.\n7. Wait for the Clear button to appear.\n8. Tap on the Clear button.\n9. Tap on the Controls tab.\n10. Wait for the Male radio button option to be visible.\n11. Tap on the Female radio button.\n12. Tap on the Screens tab.\n13. Wait for the Open Modal Sheet button to appear.\n14. Tap on the Open Modal Sheet button.\n15. Wait for the Close button to be visible on the modal.\n16. Swipe down to dismiss the modal sheet.\n17. Wait for the Open Detail Screen button to become visible.\n18. Wait for 2 seconds.\n19. Tap on the Open Detail Screen button.\n20. Wait for the Push Another Screen button to become visible.\n21. Tap on the Push Another Screen button.\n22. Wait for the Nested Detail screen to be visible.\n23. Tap on the Back navigation button.\n24. Wait for the Detail Screen to become visible.\n25. Tap on the Back navigation button.\n26. Wait for 2 seconds.\n27. Tap on the Form tab.\n\nExpected Result:\n- - The Full Name and First Name fields accept the text input as entered.\n- - 'Done' button on the keyboard processes the input successfully and 'Clear' button appears.\n- - Tapping the Clear button clears the relevant field.\n- - Controls tab allows navigation and radio button selections reflect visually.\n- - Modal sheet displays upon request and is dismissed by swiping.\n- - Detail navigation and nested screen transitions function smoothly.\n- - Navigation back returns user to the form tab with no crashes or unexpected UI states. (Generated from Manual Test Case)",
+                    "tc_website_url": "com.demo.Demo-iOS",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "1",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "1",
+                    "created_source": "manual_conversion",
+                    "created_source_ref": "mtc_274",
+                    "is_draft": "0",
+                    "updated_at": "2026-11-06 07:29:37",
+                    "created_at": "2026-11-06 07:08:54",
+                    "status": "2",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/53/88/99/testcases/tcverifysuccessfulformentryandnavigationthroughcontrolsandmodal.java",
                     "vault_paths": []
                 }
             ],
@@ -183,7 +209,416 @@
                     "vault_paths": []
                 }
             ],
-            "abo_vm_test_case_manual": [],
+            "abo_vm_test_case_manual": [
+                {
+                    "tc_id": "274",
+                    "test_case_id": "785",
+                    "jira_id": "37",
+                    "azure_id": "0",
+                    "version_module_id": "99",
+                    "tc_name": "Verify Successful Form Entry and Navigation Through Controls and Modal",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Verify Successful Form Entry and Navigation Through Controls and Modal\nModule: Form Controls & Navigation\nPriority: High\n\nPreconditions:\n- - User has launched the application.\n- - User is on the form entry screen.\n\nTest Steps:\n1. Wait for the Full Name field to become visible.\n2. Enter \"DemoFull\" into the Full Name field.\n3. Wait for 2 seconds.\n4. Enter \"DemoFirst\" into the First Name field.\n5. Wait for the Done keyboard button to appear.\n6. Tap on the Done button on the keyboard.\n7. Wait for the Clear button to appear.\n8. Tap on the Clear button.\n9. Tap on the Controls tab.\n10. Wait for the Male radio button option to be visible.\n11. Tap on the Female radio button.\n12. Tap on the Screens tab.\n13. Wait for the Open Modal Sheet button to appear.\n14. Tap on the Open Modal Sheet button.\n15. Wait for the Close button to be visible on the modal.\n16. Swipe down to dismiss the modal sheet.\n17. Wait for the Open Detail Screen button to become visible.\n18. Wait for 2 seconds.\n19. Tap on the Open Detail Screen button.\n20. Wait for the Push Another Screen button to become visible.\n21. Tap on the Push Another Screen button.\n22. Wait for the Nested Detail screen to be visible.\n23. Tap on the Back navigation button.\n24. Wait for the Detail Screen to become visible.\n25. Tap on the Back navigation button.\n26. Wait for 2 seconds.\n27. Tap on the Form tab.\n\nExpected Result:\n- - The Full Name and First Name fields accept the text input as entered.\n- - 'Done' button on the keyboard processes the input successfully and 'Clear' button appears.\n- - Tapping the Clear button clears the relevant field.\n- - Controls tab allows navigation and radio button selections reflect visually.\n- - Modal sheet displays upon request and is dismissed by swiping.\n- - Detail navigation and nested screen transitions function smoothly.\n- - Navigation back returns user to the form tab with no crashes or unexpected UI states.",
+                    "created_source": "jira",
+                    "created_source_ref": "jira_SCRIP-10",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-06 07:08:54",
+                    "created_at": "2026-11-06 06:50:26",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "2230",
+                            "tc_id": "274",
+                            "step_order": "1",
+                            "step_action": "Wait for the Full Name field to become visible.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2231",
+                            "tc_id": "274",
+                            "step_order": "2",
+                            "step_action": "Enter \"DemoFull\" into the Full Name field.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2232",
+                            "tc_id": "274",
+                            "step_order": "3",
+                            "step_action": "Wait for 2 seconds.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2233",
+                            "tc_id": "274",
+                            "step_order": "4",
+                            "step_action": "Enter \"DemoFirst\" into the First Name field.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2234",
+                            "tc_id": "274",
+                            "step_order": "5",
+                            "step_action": "Wait for the Done keyboard button to appear.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2235",
+                            "tc_id": "274",
+                            "step_order": "6",
+                            "step_action": "Tap on the Done button on the keyboard.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2236",
+                            "tc_id": "274",
+                            "step_order": "7",
+                            "step_action": "Wait for the Clear button to appear.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2237",
+                            "tc_id": "274",
+                            "step_order": "8",
+                            "step_action": "Tap on the Clear button.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2238",
+                            "tc_id": "274",
+                            "step_order": "9",
+                            "step_action": "Tap on the Controls tab.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2239",
+                            "tc_id": "274",
+                            "step_order": "10",
+                            "step_action": "Wait for the Male radio button option to be visible.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2240",
+                            "tc_id": "274",
+                            "step_order": "11",
+                            "step_action": "Tap on the Female radio button.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2241",
+                            "tc_id": "274",
+                            "step_order": "12",
+                            "step_action": "Tap on the Screens tab.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2242",
+                            "tc_id": "274",
+                            "step_order": "13",
+                            "step_action": "Wait for the Open Modal Sheet button to appear.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2243",
+                            "tc_id": "274",
+                            "step_order": "14",
+                            "step_action": "Tap on the Open Modal Sheet button.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2244",
+                            "tc_id": "274",
+                            "step_order": "15",
+                            "step_action": "Wait for the Close button to be visible on the modal.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2245",
+                            "tc_id": "274",
+                            "step_order": "16",
+                            "step_action": "Swipe down to dismiss the modal sheet.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2246",
+                            "tc_id": "274",
+                            "step_order": "17",
+                            "step_action": "Wait for the Open Detail Screen button to become visible.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2247",
+                            "tc_id": "274",
+                            "step_order": "18",
+                            "step_action": "Wait for 2 seconds.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2248",
+                            "tc_id": "274",
+                            "step_order": "19",
+                            "step_action": "Tap on the Open Detail Screen button.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2249",
+                            "tc_id": "274",
+                            "step_order": "20",
+                            "step_action": "Wait for the Push Another Screen button to become visible.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2250",
+                            "tc_id": "274",
+                            "step_order": "21",
+                            "step_action": "Tap on the Push Another Screen button.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2251",
+                            "tc_id": "274",
+                            "step_order": "22",
+                            "step_action": "Wait for the Nested Detail screen to be visible.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2252",
+                            "tc_id": "274",
+                            "step_order": "23",
+                            "step_action": "Tap on the Back navigation button.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2253",
+                            "tc_id": "274",
+                            "step_order": "24",
+                            "step_action": "Wait for the Detail Screen to become visible.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2254",
+                            "tc_id": "274",
+                            "step_order": "25",
+                            "step_action": "Tap on the Back navigation button.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2255",
+                            "tc_id": "274",
+                            "step_order": "26",
+                            "step_action": "Wait for 2 seconds.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2256",
+                            "tc_id": "274",
+                            "step_order": "27",
+                            "step_action": "Tap on the Form tab.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "453",
+                            "tc_id": "274",
+                            "thread_id": "cotester_thread_v2_6aed78ad538081958d8b28af857d549c05178523a5536795",
+                            "user_id": "31",
+                            "message": "Please generate a manual test case based on JIRA story - 10238",
+                            "message_type": "sender",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "id": "454",
+                            "tc_id": "274",
+                            "thread_id": "cotester_thread_v2_6aed78ad538081958d8b28af857d549c05178523a5536795",
+                            "user_id": "31",
+                            "message": "Test Case Title: Verify Successful Form Entry and Navigation Through Controls and Modal\nModule: Form Controls & Navigation\nPriority: High\n\nPreconditions:\n- - User has launched the application.\n- - User is on the form entry screen.\n\nTest Steps:\n1. Wait for the Full Name field to become visible.\n2. Enter \"DemoFull\" into the Full Name field.\n3. Wait for 2 seconds.\n4. Enter \"DemoFirst\" into the First Name field.\n5. Wait for the Done keyboard button to appear.\n6. Tap on the Done button on the keyboard.\n7. Wait for the Clear button to appear.\n8. Tap on the Clear button.\n9. Tap on the Controls tab.\n10. Wait for the Male radio button option to be visible.\n11. Tap on the Female radio button.\n12. Tap on the Screens tab.\n13. Wait for the Open Modal Sheet button to appear.\n14. Tap on the Open Modal Sheet button.\n15. Wait for the Close button to be visible on the modal.\n16. Swipe down to dismiss the modal sheet.\n17. Wait for the Open Detail Screen button to become visible.\n18. Wait for 2 seconds.\n19. Tap on the Open Detail Screen button.\n20. Wait for the Push Another Screen button to become visible.\n21. Tap on the Push Another Screen button.\n22. Wait for the Nested Detail screen to be visible.\n23. Tap on the Back navigation button.\n24. Wait for the Detail Screen to become visible.\n25. Tap on the Back navigation button.\n26. Wait for 2 seconds.\n27. Tap on the Form tab.\n\nExpected Result:\n- - The Full Name and First Name fields accept the text input as entered.\n- - 'Done' button on the keyboard processes the input successfully and 'Clear' button appears.\n- - Tapping the Clear button clears the relevant field.\n- - Controls tab allows navigation and radio button selections reflect visually.\n- - Modal sheet displays upon request and is dismissed by swiping.\n- - Detail navigation and nested screen transitions function smoothly.\n- - Navigation back returns user to the form tab with no crashes or unexpected UI states.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "275",
+                    "test_case_id": "0",
+                    "jira_id": "37",
+                    "azure_id": "0",
+                    "version_module_id": "99",
+                    "tc_name": "Validate Error on Submitting Form with Empty Required Fields",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Validate Error on Submitting Form with Empty Required Fields\nModule: Form Controls\nPriority: Medium\n\nPreconditions:\n- - User has launched the application.\n- - User is on the form entry screen.\n\nTest Steps:\n1. Wait for the Full Name field to be visible.\n2. Leave the Full Name and First Name fields empty.\n3. Tap on the Done button on the keyboard.\n4. Attempt to navigate away from the form screen or proceed to the next step.\n\nExpected Result:\n- - The system displays an error message indicating that the Full Name and First Name fields are required.\n- - User is prevented from proceeding until mandatory fields are filled.",
+                    "created_source": "jira",
+                    "created_source_ref": "jira_SCRIP-10",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-06 06:50:26",
+                    "created_at": "2026-11-06 06:50:26",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "2257",
+                            "tc_id": "275",
+                            "step_order": "1",
+                            "step_action": "Wait for the Full Name field to be visible.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2258",
+                            "tc_id": "275",
+                            "step_order": "2",
+                            "step_action": "Leave the Full Name and First Name fields empty.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2259",
+                            "tc_id": "275",
+                            "step_order": "3",
+                            "step_action": "Tap on the Done button on the keyboard.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2260",
+                            "tc_id": "275",
+                            "step_order": "4",
+                            "step_action": "Attempt to navigate away from the form screen or proceed to the next step.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "455",
+                            "tc_id": "275",
+                            "thread_id": "cotester_thread_v2_6aed78ad538081958d8b28af857d549c05178523a5536795",
+                            "user_id": "31",
+                            "message": "Please generate a manual test case based on JIRA story - 10238",
+                            "message_type": "sender",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "id": "456",
+                            "tc_id": "275",
+                            "thread_id": "cotester_thread_v2_6aed78ad538081958d8b28af857d549c05178523a5536795",
+                            "user_id": "31",
+                            "message": "Test Case Title: Validate Error on Submitting Form with Empty Required Fields\nModule: Form Controls\nPriority: Medium\n\nPreconditions:\n- - User has launched the application.\n- - User is on the form entry screen.\n\nTest Steps:\n1. Wait for the Full Name field to be visible.\n2. Leave the Full Name and First Name fields empty.\n3. Tap on the Done button on the keyboard.\n4. Attempt to navigate away from the form screen or proceed to the next step.\n\nExpected Result:\n- - The system displays an error message indicating that the Full Name and First Name fields are required.\n- - User is prevented from proceeding until mandatory fields are filled.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "276",
+                    "test_case_id": "0",
+                    "jira_id": "37",
+                    "azure_id": "0",
+                    "version_module_id": "99",
+                    "tc_name": "Check System Behavior for Maximum Allowed Input Length in Full Name Field",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Check System Behavior for Maximum Allowed Input Length in Full Name Field\nModule: Form Controls\nPriority: Low\n\nPreconditions:\n- - User has launched the application.\n- - Maximum length for Full Name field is defined in the requirements (assume 50 characters if not specified).\n\nTest Steps:\n1. Wait for the Full Name field to become visible.\n2. Enter a string with exactly 50 characters in the Full Name field.\n3. Attempt to enter a 51st character.\n4. Tap on the Done button on the keyboard.\n5. Attempt to submit the form or proceed to next screen.\n\nExpected Result:\n- - The field allows input up to the maximum length (50 characters).\n- - Additional input beyond the 50 characters is not accepted.\n- - No UI errors or crashes occur.\n- - Form submission proceeds successfully if all other fields are completed correctly.",
+                    "created_source": "jira",
+                    "created_source_ref": "jira_SCRIP-10",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-06 06:50:26",
+                    "created_at": "2026-11-06 06:50:26",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "2261",
+                            "tc_id": "276",
+                            "step_order": "1",
+                            "step_action": "Wait for the Full Name field to become visible.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2262",
+                            "tc_id": "276",
+                            "step_order": "2",
+                            "step_action": "Enter a string with exactly 50 characters in the Full Name field.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2263",
+                            "tc_id": "276",
+                            "step_order": "3",
+                            "step_action": "Attempt to enter a 51st character.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2264",
+                            "tc_id": "276",
+                            "step_order": "4",
+                            "step_action": "Tap on the Done button on the keyboard.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "step_id": "2265",
+                            "tc_id": "276",
+                            "step_order": "5",
+                            "step_action": "Attempt to submit the form or proceed to next screen.",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "457",
+                            "tc_id": "276",
+                            "thread_id": "cotester_thread_v2_6aed78ad538081958d8b28af857d549c05178523a5536795",
+                            "user_id": "31",
+                            "message": "Please generate a manual test case based on JIRA story - 10238",
+                            "message_type": "sender",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        },
+                        {
+                            "id": "458",
+                            "tc_id": "276",
+                            "thread_id": "cotester_thread_v2_6aed78ad538081958d8b28af857d549c05178523a5536795",
+                            "user_id": "31",
+                            "message": "Test Case Title: Check System Behavior for Maximum Allowed Input Length in Full Name Field\nModule: Form Controls\nPriority: Low\n\nPreconditions:\n- - User has launched the application.\n- - Maximum length for Full Name field is defined in the requirements (assume 50 characters if not specified).\n\nTest Steps:\n1. Wait for the Full Name field to become visible.\n2. Enter a string with exactly 50 characters in the Full Name field.\n3. Attempt to enter a 51st character.\n4. Tap on the Done button on the keyboard.\n5. Attempt to submit the form or proceed to next screen.\n\nExpected Result:\n- - The field allows input up to the maximum length (50 characters).\n- - Additional input beyond the 50 characters is not accepted.\n- - No UI errors or crashes occur.\n- - Form submission proceeds successfully if all other fields are completed correctly.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-06 06:50:26",
+                            "updated_at": "2026-11-06 06:50:26"
+                        }
+                    ]
+                }
+            ],
             "abo_vm_network_assert": [],
             "abo_update": [],
             "abo_vm_test_story_manual": [],
@@ -806,6 +1241,142 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/99/1326.png"
+                        },
+                        {
+                            "maps_id": "1408",
+                            "version_page_id": "0",
+                            "page_name": "",
+                            "version_module_id": "99",
+                            "element_name": "ele_maleradiobutton1793949014811",
+                            "element_display_name": "Male",
+                            "element_image_url": "http://10.0.161.5/s/ele-imgs/99/1408.png",
+                            "element_path_rid": "//XCUIElementTypeButton[@name=\"radio.male\"]",
+                            "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"maleradiobutton1793949014811\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@name=\\\"radio.male\\\"]\"],\"img\":\"\",\"locators\":\"xpath\",\"locators_val\":\"//XCUIElementTypeButton[@name=\\\"radio.male\\\"]\",\"d_x\":\"16\",\"d_y\":\"309\",\"d_w\":\"358\",\"d_h\":\"55\",\"element_area\":197},{\"temp_element_id\":0,\"name\":\"maleradiobutton1793949014811\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"Male\\\"]\"],\"img\":\"\",\"locators\":\"xpath\",\"locators_val\":\"//XCUIElementTypeButton[@label=\\\"Male\\\"]\",\"d_x\":\"16\",\"d_y\":\"309\",\"d_w\":\"358\",\"d_h\":\"55\",\"element_area\":197},{\"temp_element_id\":0,\"name\":\"maleradiobutton1793949014811\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[4]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton\"],\"img\":\"\",\"locators\":\"xpath\",\"locators_val\":\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[4]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton\",\"d_x\":\"16\",\"d_y\":\"309\",\"d_w\":\"358\",\"d_h\":\"55\",\"element_area\":197},{\"temp_element_id\":0,\"name\":\"maleradiobutton1793949014811\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@name='radio.male']\"],\"img\":\"\",\"d_x\":\"16\",\"d_y\":\"309\",\"d_w\":\"358\",\"d_h\":\"55\",\"element_area\":197}]",
+                            "shadow_data": "",
+                            "sibling_selector": "",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "false",
+                            "only_iframe_data": "false",
+                            "only_shadow_root_data": "false",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "16",
+                            "d_y": "309",
+                            "d_w": "358",
+                            "d_h": "55",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/99/1408.png"
+                        },
+                        {
+                            "maps_id": "1409",
+                            "version_page_id": "0",
+                            "page_name": "",
+                            "version_module_id": "99",
+                            "element_name": "ele_closebuttononmodal1793949051675",
+                            "element_display_name": "Close",
+                            "element_image_url": "http://10.0.161.5/s/ele-imgs/99/1409.png",
+                            "element_path_rid": "//XCUIElementTypeButton[@name=\"modal.close\"]",
+                            "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"closebuttononmodal1793949051675\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@name=\\\"modal.close\\\"]\"],\"img\":\"\",\"locators\":\"xpath\",\"locators_val\":\"//XCUIElementTypeButton[@name=\\\"modal.close\\\"]\",\"d_x\":\"303\",\"d_y\":\"67\",\"d_w\":\"67\",\"d_h\":\"36\",\"element_area\":24},{\"temp_element_id\":0,\"name\":\"closebuttononmodal1793949051675\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"Close\\\"]\"],\"img\":\"\",\"locators\":\"xpath\",\"locators_val\":\"//XCUIElementTypeButton[@label=\\\"Close\\\"]\",\"d_x\":\"303\",\"d_y\":\"67\",\"d_w\":\"67\",\"d_h\":\"36\",\"element_area\":24},{\"temp_element_id\":0,\"name\":\"closebuttononmodal1793949051675\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton\"],\"img\":\"\",\"locators\":\"xpath\",\"locators_val\":\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton\",\"d_x\":\"303\",\"d_y\":\"67\",\"d_w\":\"67\",\"d_h\":\"36\",\"element_area\":24}]",
+                            "shadow_data": "",
+                            "sibling_selector": "",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "false",
+                            "only_iframe_data": "false",
+                            "only_shadow_root_data": "false",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "303",
+                            "d_y": "67",
+                            "d_w": "67",
+                            "d_h": "36",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/99/1409.png"
+                        },
+                        {
+                            "maps_id": "1410",
+                            "version_page_id": "0",
+                            "page_name": "",
+                            "version_module_id": "99",
+                            "element_name": "ele_backnavigationbuttontodetailscree1793949096138",
+                            "element_display_name": "Detail Screen",
+                            "element_image_url": "",
+                            "element_path_rid": "//XCUIElementTypeButton[@name=\"BackButton\"]",
+                            "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"backnavigationbuttontodetailscree1793949096138\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@name=\\\"BackButton\\\"]\"],\"img\":\"\",\"locators\":\"xpath\",\"locators_val\":\"//XCUIElementTypeButton[@name=\\\"BackButton\\\"]\",\"d_x\":\"16\",\"d_y\":\"47\",\"d_w\":\"44\",\"d_h\":\"44\",\"element_area\":19},{\"temp_element_id\":0,\"name\":\"backnavigationbuttontodetailscree1793949096138\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label=\\\"Detail Screen\\\"]\"],\"img\":\"\",\"locators\":\"xpath\",\"locators_val\":\"//XCUIElementTypeButton[@label=\\\"Detail Screen\\\"]\",\"d_x\":\"16\",\"d_y\":\"47\",\"d_w\":\"44\",\"d_h\":\"44\",\"element_area\":19},{\"temp_element_id\":0,\"name\":\"backnavigationbuttontodetailscree1793949096138\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeButton\"],\"img\":\"\",\"locators\":\"xpath\",\"locators_val\":\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeButton\",\"d_x\":\"16\",\"d_y\":\"47\",\"d_w\":\"44\",\"d_h\":\"44\",\"element_area\":19},{\"temp_element_id\":0,\"name\":\"backnavigationbuttontodetailscree1793949096138\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@name='BackButton']\"],\"img\":\"\",\"d_x\":\"16\",\"d_y\":\"47\",\"d_w\":\"44\",\"d_h\":\"44\",\"element_area\":19},{\"temp_element_id\":0,\"name\":\"backnavigationbuttontodetailscree1793949096138\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@label='Detail Screen']\"],\"img\":\"\",\"d_x\":\"16\",\"d_y\":\"47\",\"d_w\":\"44\",\"d_h\":\"44\",\"element_area\":19}]",
+                            "shadow_data": "",
+                            "sibling_selector": "",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "false",
+                            "only_iframe_data": "false",
+                            "only_shadow_root_data": "false",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "16",
+                            "d_y": "47",
+                            "d_w": "44",
+                            "d_h": "44",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/99/1410.png"
+                        },
+                        {
+                            "maps_id": "1411",
+                            "version_page_id": "0",
+                            "page_name": "",
+                            "version_module_id": "99",
+                            "element_name": "ele_backnavigationbuttontoscreens1793949110609",
+                            "element_display_name": "Screens",
+                            "element_image_url": "",
+                            "element_path_rid": "//XCUIElementTypeButton[@name=\"BackButton\"]",
+                            "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"backnavigationbuttontoscreens1793949110609\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@name=\\\"BackButton\\\"]\"],\"img\":\"\",\"locators\":\"xpath\",\"locators_val\":\"//XCUIElementTypeButton[@name=\\\"BackButton\\\"]\",\"d_x\":\"16\",\"d_y\":\"47\",\"d_w\":\"44\",\"d_h\":\"44\",\"element_area\":19},{\"temp_element_id\":0,\"name\":\"backnavigationbuttontoscreens1793949110609\",\"radious\":0,\"typeofelement\":3,\"value\":[\"(//XCUIElementTypeButton[@label=\\\"Screens\\\"])[1]\"],\"img\":\"\",\"locators\":\"xpath\",\"locators_val\":\"(//XCUIElementTypeButton[@label=\\\"Screens\\\"])[1]\",\"d_x\":\"16\",\"d_y\":\"47\",\"d_w\":\"44\",\"d_h\":\"44\",\"element_area\":19},{\"temp_element_id\":0,\"name\":\"backnavigationbuttontoscreens1793949110609\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeButton\"],\"img\":\"\",\"locators\":\"xpath\",\"locators_val\":\"//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeButton\",\"d_x\":\"16\",\"d_y\":\"47\",\"d_w\":\"44\",\"d_h\":\"44\",\"element_area\":19},{\"temp_element_id\":0,\"name\":\"backnavigationbuttontoscreens1793949110609\",\"radious\":0,\"typeofelement\":3,\"value\":[\"//XCUIElementTypeButton[@name='BackButton']\"],\"img\":\"\",\"d_x\":\"16\",\"d_y\":\"47\",\"d_w\":\"44\",\"d_h\":\"44\",\"element_area\":19}]",
+                            "shadow_data": "",
+                            "sibling_selector": "",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "false",
+                            "only_iframe_data": "false",
+                            "only_shadow_root_data": "false",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "16",
+                            "d_y": "47",
+                            "d_w": "44",
+                            "d_h": "44",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/99/1411.png"
                         }
                     ]
                 }
