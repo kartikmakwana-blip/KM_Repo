@@ -2,13 +2,13 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "88",
-    "user_id": 0,
+    "user_id": "27",
     "abo_version": {
         "version_id": "88",
         "app_id": "53",
         "version_name": "1.0",
         "version_description": "",
-        "cm_version_module": "98,99",
+        "cm_version_module": "98,99,106",
         "platform": "1",
         "ai_modal_id": "cotester_client_v2_6aed6f6307c48191a674613f9b909d4a",
         "script_type": "1",
@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": null,
             "cm_renderer": null,
-            "view_updated_date_time": "2026-11-06 07:13:09",
+            "view_updated_date_time": "2026-11-06 07:50:50",
             "is_updated": "0",
             "is_complie": "1",
             "server_ids": null,
@@ -620,7 +620,44 @@
                 }
             ],
             "abo_vm_network_assert": [],
-            "abo_update": [],
+            "abo_update": [
+                {
+                    "id": "478",
+                    "user_id": "27",
+                    "app_id": "53",
+                    "version_id": "88",
+                    "version_module_id": "99",
+                    "description": "",
+                    "action_process": "add_version_module"
+                },
+                {
+                    "id": "479",
+                    "user_id": "27",
+                    "app_id": "53",
+                    "version_id": "88",
+                    "version_module_id": "99",
+                    "description": "",
+                    "action_process": "add_test_case"
+                },
+                {
+                    "id": "480",
+                    "user_id": "27",
+                    "app_id": "53",
+                    "version_id": "88",
+                    "version_module_id": "99",
+                    "description": "",
+                    "action_process": "edit_test_case"
+                },
+                {
+                    "id": "485",
+                    "user_id": "27",
+                    "app_id": "53",
+                    "version_id": "88",
+                    "version_module_id": "99",
+                    "description": "",
+                    "action_process": "add_test_function"
+                }
+            ],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -1379,6 +1416,56 @@
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/99/1411.png"
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "version_module_id": "106",
+            "version_id": "88",
+            "parent_id": "0",
+            "module_name": "SuiteTwo",
+            "module_description": "",
+            "count_resource": "0",
+            "cm_resource_pages": null,
+            "cm_default_resource": null,
+            "cm_test_function": null,
+            "cm_test_case": null,
+            "cm_test_case_ai": "",
+            "cm_network": null,
+            "cm_renderer": null,
+            "view_updated_date_time": null,
+            "is_updated": "1",
+            "is_complie": "1",
+            "server_ids": null,
+            "is_running": "0",
+            "is_delete": "0",
+            "qtest_skip_module_sync": "0",
+            "qtest_skip_exec_sync": "0",
+            "default_wait_timeout": "0",
+            "abo_vm_test_case": [],
+            "abo_version_proc": [],
+            "abo_vm_test_case_manual": [],
+            "abo_vm_network_assert": [],
+            "abo_update": [
+                {
+                    "id": "506",
+                    "user_id": "27",
+                    "app_id": "53",
+                    "version_id": "88",
+                    "version_module_id": "106",
+                    "description": "",
+                    "action_process": "add_version_module"
+                }
+            ],
+            "abo_vm_test_story_manual": [],
+            "abo_version_pages": [
+                {
+                    "version_page_id": 0,
+                    "version_module_id": "106",
+                    "cm_resource": null,
+                    "page_name": "Manually Added Resources ",
+                    "image_url": "",
+                    "abo_version_maps": []
                 }
             ]
         }
