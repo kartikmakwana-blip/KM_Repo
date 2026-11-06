@@ -1500,9 +1500,9 @@
                     "qtest_skip_sync": "1",
                     "test_case_tags": [
                         {
-                            "id": "41",
+                            "id": "42",
                             "version_module_id": "106",
-                            "name": "tg1",
+                            "name": "New",
                             "tc_id": "790",
                             "user_id": "27"
                         }
