@@ -1433,7 +1433,7 @@
             "cm_test_case_ai": "",
             "cm_network": null,
             "cm_renderer": null,
-            "view_updated_date_time": "2026-11-06 08:06:06",
+            "view_updated_date_time": "2026-11-06 08:06:31",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -1498,15 +1498,7 @@
                     "created_at": "2026-11-06 08:06:06",
                     "status": "2",
                     "qtest_skip_sync": "1",
-                    "test_case_tags": [
-                        {
-                            "id": "42",
-                            "version_module_id": "106",
-                            "name": "New",
-                            "tc_id": "790",
-                            "user_id": "27"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/53/88/106/testcases/dss.java",
                     "vault_paths": []
