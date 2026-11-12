@@ -1,0 +1,32 @@
+import io.testgrid.listeners.TestListener;
+import io.testgrid.listeners.RetryFailedTestCases;
+import io.testgrid.tg;
+import org.testng.annotations.*;
+import app.getxray.xray.testng.annotations.XrayTest;
+import io.testgrid.enums.ComparisonType;
+import org.json.JSONObject;
+import io.testgrid.enums.Direction;
+import io.testgrid.enums.Size;
+import io.testgrid.enums.Buttons;
+import static io.testgrid.baseClass.driver;
+import org.openqa.selenium.*;
+import io.testgrid.enums.Alert;
+import io.appium.java_client.android.AndroidDriver;
+import io.appium.java_client.ios.IOSDriver;
+import org.testng.annotations.Test;
+
+@Listeners(TestListener.class);
+public class test_case_1794489894 {
+
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void test_case_1794489894() {
+		tg.openDevice();
+				tg.wait(5);
+				tg.wait("ele_enteremailaddress1794490011895", ComparisonType.IS_VISIBLE, 30);
+				tg.click("ele_enteremailaddress1794490011895", 1);
+				tg.type("ele_enteremailaddress1794490011895", "example@gmail.com", false);
+				tg.wait("ele_signin1794490027223", ComparisonType.IS_VISIBLE, 30);
+				tg.click("ele_signin1794490027223", 1);
+		tg.close();
+	}
+}
