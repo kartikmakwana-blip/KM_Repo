@@ -21,7 +21,7 @@ public class tc02 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc02() {
 		tg.openDevice();
-		tg.wait(1);
+		tg.wait(5);
 		tg.close();
 	}
 }
