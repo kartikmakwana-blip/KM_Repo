@@ -148,8 +148,25 @@
             ]
         }
     ],
-    "abo_version_capabilities": [],
-    "abo_import_statement": [],
+    "abo_version_capabilities": [
+        {
+            "capabilities_id": "73",
+            "version_id": "440",
+            "capabilities_keyname": "appActivity",
+            "capabilities_keyvalue": "com.google.android.apps.chrome.Main"
+        }
+    ],
+    "abo_import_statement": [
+        {
+            "import_statement_id": "154",
+            "user_id": "100",
+            "app_id": "219",
+            "version_id": "440",
+            "import_statement": "import com.mongodb.*; import org.bson.BsonDocument; import org.bson.BsonInt64; import org.bson.Document; import org.bson.conversions.Bson; import com.mongodb.client.MongoClient; import com.mongodb.client.MongoClients; import com.mongodb.client.MongoDatabase; ",
+            "created": "2026-11-14 08:50:34",
+            "updated": "2026-11-14 08:50:34"
+        }
+    ],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
     "abo_global_variable": [],
