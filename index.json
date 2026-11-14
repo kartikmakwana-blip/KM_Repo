@@ -1,8 +1,8 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": "440",
-    "user_id": 0,
+    "version_id": 440,
+    "user_id": 100,
     "abo_version": {
         "version_id": "440",
         "app_id": "219",
@@ -18,7 +18,7 @@
         "xray_project_version": null,
         "restore_id": "0",
         "is_git_enabled": "1",
-        "git_restore_id": "0"
+        "git_restore_id": "22"
     },
     "app_id": "219",
     "platform": "3",
@@ -54,15 +54,15 @@
             "parent_id": "0",
             "module_name": "suite1",
             "module_description": "",
-            "count_resource": "0",
+            "count_resource": "1",
             "cm_resource_pages": "1240",
-            "cm_default_resource": null,
+            "cm_default_resource": "",
             "cm_test_function": "2153",
             "cm_test_case": "5507,5522",
             "cm_test_case_ai": "",
             "cm_network": "67",
             "cm_renderer": null,
-            "view_updated_date_time": "2026-11-14 09:11:31",
+            "view_updated_date_time": "2026-11-14 09:12:56",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -184,7 +184,7 @@
                 {
                     "version_page_id": "1240",
                     "version_module_id": "581",
-                    "cm_resource": "",
+                    "cm_resource": "27124",
                     "page_name": "PAge1",
                     "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/581/main_1240.png",
                     "git_restore_page_id": "0",
@@ -220,7 +220,7 @@
                             "d_y": "113.66",
                             "d_w": "1109.55",
                             "d_h": "454.64",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27124",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/581/27124.png"
@@ -230,7 +230,7 @@
                 {
                     "version_page_id": 0,
                     "version_module_id": "581",
-                    "cm_resource": null,
+                    "cm_resource": "",
                     "page_name": "Manually Added Resources ",
                     "image_url": "",
                     "abo_version_maps": []
@@ -287,6 +287,18 @@
         }
     ],
     "abo_global_variable": [
+        {
+            "variable_id": "3104",
+            "user_id": "100",
+            "app_id": "219",
+            "version_id": "440",
+            "variable_type": "int",
+            "variable_name": "gl_int",
+            "variable_value": "123",
+            "gv_category": "global",
+            "created": "2026-11-14 09:08:17",
+            "updated": "2026-11-14 09:08:17"
+        },
         {
             "variable_id": "3105",
             "user_id": "100",
