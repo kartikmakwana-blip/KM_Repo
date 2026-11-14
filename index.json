@@ -62,7 +62,7 @@
             "cm_test_case_ai": "",
             "cm_network": "67",
             "cm_renderer": null,
-            "view_updated_date_time": "2026-11-14 09:04:19",
+            "view_updated_date_time": "2026-11-14 09:11:31",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -287,18 +287,6 @@
         }
     ],
     "abo_global_variable": [
-        {
-            "variable_id": "3104",
-            "user_id": "100",
-            "app_id": "219",
-            "version_id": "440",
-            "variable_type": "int",
-            "variable_name": "gl_int",
-            "variable_value": "123",
-            "gv_category": "global",
-            "created": "2026-11-14 09:08:17",
-            "updated": "2026-11-14 09:08:17"
-        },
         {
             "variable_id": "3105",
             "user_id": "100",
